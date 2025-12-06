@@ -6,3 +6,5 @@
 - Calling yourself Finnion isn’t really funny
 - Eve is a really cool name (power is that you)
 - Karam/Nayan are familiar names
+
+There is a possibility that there are other special interactions when you meet the person with the same name. (to do)

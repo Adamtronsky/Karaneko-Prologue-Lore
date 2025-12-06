@@ -50,3 +50,5 @@ but Karam still thinks about her. He has X’s number in his pockets and still c
 > It is not clearly stated or deductible that it's before or after the incident But we can think about it and assume that their relation changed greatly indirectly _because_ of the incident affecting them both personally on how they manage relations in this post-traumatic time. I doubt it was a direct degradation because of how the incident occurred, rather more something like they both changed a lot and are going through things
 
 
+Caturday news: 
+- In the 5/31/2025 CN entry, (to do)
