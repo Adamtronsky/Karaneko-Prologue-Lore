@@ -8,5 +8,5 @@ He said they turn into ‘something you’ll really love’ (no color when emoti
 
 Told Yurim that the black flowers bring people closer together
 
-Has left [[Vegoia]] for [[Ninova]] (Based on the striking resemblance between missing poster and characters of Rabbit route, and the fact that we search for him in Ninova (as told by [[KickStarter]]))
+Has left [[Vegoia]] for [[Ninova]] (Based on the striking resemblance between missing poster and characters of Rabbit route, and the fact that we search for him in [[Ninova]] (as told by [[KickStarter]]))
 →Probably why he didn’t come visit Yurim anymore
