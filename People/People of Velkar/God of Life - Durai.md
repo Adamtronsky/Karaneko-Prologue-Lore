@@ -1,0 +1,1 @@
+Ruled over the region of current day Ryujin in Velkar, bringing order and a caste based on animal heritage 
