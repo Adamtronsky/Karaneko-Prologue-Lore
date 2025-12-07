@@ -1,2 +1,2 @@
 - Shows no cape.
-- Has a magical sword that seems very powerful (neutralises and absorbs black magic)
+- Has a magical sword that seems very powerful (neutralizes and absorbs black magic)
