@@ -1,4 +1,4 @@
-![[Screenshot 2025-12-19 014855.png]]
+![[Karam's Room(Earth).png]]
 - [[Wardrobe]] is ordinary, yet Yurim likes it a lot. She sleeps around it as we can see multiple times
 - Above Karam's bed is a Calendar with a date circled in red. (Likely to be December 4th or 5th.)
 - Karam's keyboard keys have been worn out, save for his mouse. 
@@ -8,7 +8,7 @@ Other objects located here:
 - [[37(Could be made 39) ambiguously filled water bottles.]]
 - [[Broom]]
 - [[X's Hair tie]]
-- ![[Screenshot 2025-12-20 031813.png]]
+- ![[Karam(Earth)'s To Do list.png]]
 	To Do list of sorts located next to [[Karam(Earth)]]'s door.
 
 

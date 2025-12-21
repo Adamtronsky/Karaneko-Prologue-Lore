@@ -1,11 +1,11 @@
 Bears a similar layout to [[Karam and Nayan's House]].
 - **2nd floor(Bedroom hall):**
-	![[Pasted image 20251222024210.png]]
+	![[The Dorm (2nd floor, bedroom hall).png]]
 	- Connects to [[Karam's Room(Academy, or Velkar)]], [[Luminyan's Room]], The bathroom, and 1st floor/living room.
 	- The Clock is set to 12:15.
 	- [[Karam's Room(Academy, or Velkar)]] has a nametag next to it carrying Karam's name.
 	- Photographs that do not belong to Karam.
-		![[Pasted image 20251222030040.png]]
+		![[Luminyan Photo.png]]
 	- A bookshelf with its cabinet door having a note attached to it from Luminyan, imploring no one touch their belongings.
 	- Interacting with the mirror in the hall:
 > 	"A mirror hanging against the wall, reflecting a stranger version of you."
@@ -13,7 +13,7 @@ Bears a similar layout to [[Karam and Nayan's House]].
 	- The carpet on the floor bears Vegoia's motif.
 -----
 - **2nd floor(Bathroom):**
-	![[Pasted image 20251222034300.png]]
+	![[The Dorm (2nd floor, bathroom).png]]
 	- Nothing of note
 -----
 1st floor(Living Room):
