@@ -5,7 +5,7 @@
 	>"He is a keyboard gamer, most probably Touhou, as he spends lots of time with Reira."                                           -'Pralii'
 
 Other objects located here:
-- [[39(Could be made 40) ambiguously filled water bottles.]]
+- [[37(Could be made 39) ambiguously filled water bottles.]]
 - [[Broom]]
 - [[X's Hair tie]]
 - ![[Screenshot 2025-12-20 031813.png]]
