@@ -6,11 +6,14 @@ Bears a similar layout to [[Karam and Nayan's House]].
 - [[Karam's Room(Academy, or Velkar)]] has a nametag next to it carrying Karam's name.
 - Photographs that do not belong to Karam.
 	![[Pasted image 20251222030040.png]]
-- A bookshelf with a note from Luminyan
+- A bookshelf with its cabinet door having a note attached to it from Luminyan, imploring no one touch their belongings.
+- Interacting with the mirror in the hall:
+	>"A mirror hanging against the wall, reflecting a stranger version of you."
+- The tag next to Luminyan's door is un-interactable.
 
 
 
-The mirror in the corridor reflects a **stranger** version of you upon seeing your new “Academy” look. This implies Karam is aware of his physical changes and finds that strange too.
+
 
 The Carpet on the floor of the corridor has the same logo as the green book in [[Yurim's House]]. This implies that [[Finnion]] sourced his books from [[Vegoia]].
 
