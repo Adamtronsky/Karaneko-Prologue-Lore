@@ -4,6 +4,11 @@
 - Karam's keyboard keys have been worn out, save for his mouse. 
 	>"He is a keyboard gamer, most probably Touhou, as he spends lots of time with Reira."                                           -'Pralii'
 
+Other objects located here:
+- [[39(Could be made 40) ambiguously filled water bottles.]]
+- [[Broom]]
+- [[X's Hair tie]]
+- ![[Screenshot 2025-12-20 031813.png]]
 
 
 Caturday news (23/03/24) mentioned a calendar:  
