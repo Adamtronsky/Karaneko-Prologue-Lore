@@ -1,7 +1,7 @@
 
 There is a portal with chains in the center, surrounded by something that look like a magic circle, and a locked chest in the right-uppermost corner of the room. 
 
-On the cardinal directions of the magic circle on the floor, we can see all three symbols for each regions ([[Ninova]], [[Ryuujin]] and [[Vegoia]]), and on the chest we can see the symbol for [[Vegoia]]. The symbol in the middle of the magic circle is still unknown as to what it symbolize. 
+On the cardinal directions of the magic circle on the floor, we can see all three symbols for each region ([[Ninova]], [[Ryuujin]] and [[Vegoia]]), and on the chest we can see the symbol for [[Vegoia]]. The symbol in the middle of the magic circle is still unknown as to what it symbolize. 
 
 We can also make out what look like a “I” in front of Vegoia’s symbol, a “II” in front of Ninova’s symbol, and a “IIII” in front of Ryuujin’s symbol. They might refer to numbers, but it is unknown why Ryuujin would be 4th and not third.
 
