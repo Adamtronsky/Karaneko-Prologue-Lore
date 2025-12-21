@@ -1,7 +1,10 @@
+Bears a similar layout to [[Karam and Nayan's House]].
 2nd floor/Bedroom hall:
 ![[Pasted image 20251222024210.png]]
 - Connects to [[Karam's Room(Academy, or Velkar)]], [[Luminyan's Room]], The bathroom, and 1st floor/living room.
-
+- The Clock is set to 12:15.
+- [[Karam's Room(Academy, or Velkar)]] has a nametag next to it carrying Karam's name.
+- 
 
 
 
