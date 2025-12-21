@@ -1,4 +1,4 @@
-While Karam’s Room here has a very similar layout to [[Karam's Room(Earth)]], it is sad, unkept and dusty. 
+zWhile Karam’s Room here has a very similar layout to [[Karam's Room(Earth)]], it is sad, unkept and dusty. 
 - Its mirror is dusty too
 - The cardboard box where Karam usually keeps his cleaning tools is empty.
 - [[Wardrobe]] **is unordinary**, with a lock on it.
