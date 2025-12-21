@@ -1,6 +1,6 @@
 
 
-[[Luminyan]] DOESN’T let you enter if you meet him before the [[Training session]]. However, **You can dupe him by knocking on the door and hide in the bathroom**, thinking Laschka played a prank on him, he goes downstairs and leaves his door open. You then can greet him downstairs for an awkward interaction.. Shady Luminyan.. This way, you can have the lights on in the salon. When you meet him again after taking the stick, he justifies himself searching for a book.  Otherwise Yurim cat ghost guides you to enter.
+
 
 - [[Luminyan's Ritual]] took place in his room.
 - It is very dark in his room, as this is part of the ritual.
