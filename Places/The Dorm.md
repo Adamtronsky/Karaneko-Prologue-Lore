@@ -1,10 +1,10 @@
-The dorm is where you spend the second part of the prologue, in [[The academy]]. Despite being very similar in layout to [[Karam's Home]], it is a very contrasting change of atmosphere. dark at night and is still in winter, every item description is very cold and short unlike the descriptions in IRL that were always commented upon by someone or Karam’s own memories tied to it. 
-[[Luminyan]], [[Karam (Velkar)]], [[Eve]] and [[Laschka]] live there.
+2nd floor/Bedroom hall:
 
 
 
 
-It being winter and at night confirms the isekaisation is temporally coherent and quick.
+
+
 
 The mirror in the corridor reflects a **stranger** version of you upon seeing your new “Academy” look. This implies Karam is aware of his physical changes and finds that strange too.
 
