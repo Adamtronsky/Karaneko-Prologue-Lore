@@ -23,4 +23,4 @@ They stepped into the graceful path of [[Gods of Love|God of Love]].
 
 She was supposed to exist for the people, Yet the unexpected happened..."
 
--- game cutscene shuts off. It was [[Karam (IRL)]] playing on his PC and Nayan shut it off by walking on the socket button xd.
+-- game cutscene shuts off. It was [[Karam(Earth)]] playing on his PC and Nayan shut it off by walking on the socket button xd.

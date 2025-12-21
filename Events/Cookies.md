@@ -1,4 +1,4 @@
-- There are three possible cookie results, according to what [[Karam (IRL)]] tells [[Nayan]] what ingredients to put in.
+- There are three possible cookie results, according to what [[Karam(Earth)]] tells [[Nayan]] what ingredients to put in.
 	- flour + ginger + Sugar → Gingerbread that looks better than yours!
 	- flour + ginger + Protein powder → MUSCLES
 	- anything else → failed cookie

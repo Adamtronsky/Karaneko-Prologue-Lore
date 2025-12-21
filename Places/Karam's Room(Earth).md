@@ -1,11 +1,16 @@
-- Contains 37 of Karam's Bottles of water.
-	- You can pick up the bottle lying on the ground and set it upright, 「PERFECTION」
-	- After some time, you will find the bottle yet again lying on the ground... WHAT HAPPENED?? Meow~ 
-	- You can add one bottle to your collection, the one Nayan asked for.
-	- Nayan's used bottle isn't worthy to enter the collection.
+![[Karam's Room(Earth).png]]
 - [[Wardrobe]] is ordinary, yet Yurim likes it a lot. She sleeps around it as we can see multiple times
-- Above Karam's bed is a Calendar with a circle on one day.
-- His keyboard's keys are worn out, but not his mouse. He is a keyboard gamer, most probably Touhou, as he spends lots of time with Reira.
+- Above Karam's bed is a Calendar with a date circled in red. (Likely to be December 4th or 5th.)
+- Karam's keyboard keys have been worn out, save for his mouse. 
+	>"He is a keyboard gamer, most probably Touhou, as he spends lots of time with Reira."                                           -'Pralii'
+
+Other objects located here:
+- [[37(Could be made 39) ambiguously filled water bottles.]]
+- [[Broom]]
+- [[X's Hair tie]]
+- ![[Karam(Earth)'s To Do list.png]]
+	To Do list of sorts located next to [[Karam(Earth)]]'s door.
+
 
 
 Caturday news (23/03/24) mentioned a calendar:  

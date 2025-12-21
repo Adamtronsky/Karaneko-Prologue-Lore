@@ -1,9 +1,12 @@
-[[Luminyan]] DOESN’T let you enter if you meet him before the [[Training session]]. However, **You can dupe him by knocking on the door and hide in the bathroom**, thinking Laschka played a prank on him, he goes downstairs and leaves his door open. You then can greet him downstairs for an awkward interaction.. Shady Luminyan.. This way, you can have the lights on in the salon. When you meet him again after taking the stick, he justifies himself searching for a book.  Otherwise Yurim cat ghost guides you to enter.
+
+![[Pasted image 20251222041010.png]]
+
+
 
 - [[Luminyan's Ritual]] took place in his room.
 - It is very dark in his room, as this is part of the ritual.
 
-- If you enter before the training session, you can access his [[Magicasters|Magicaster]] which shows a computer screen with a dark night wallpaper and an empty bin and folder. The date says Day 0. When coming back after the training session, the magicaster describes as a “cracked orb” and not a magicaster.
+- If you enter before the training session, you can access his [[Magicaster(s)|Magicaster]] which shows a computer screen with a dark night wallpaper and an empty bin and folder. The date says Day 0. When coming back after the training session, the magicaster describes as a “cracked orb” and not a magicaster.
 - If you enter before the training session, the wardrobe key isn’t there and interacting with its space only describes the presence of the magicaster.
 
 All his flowers are dead. Contrary to Nayan who takes care of the flowers in the house
