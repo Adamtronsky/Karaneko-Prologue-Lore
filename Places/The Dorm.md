@@ -5,7 +5,8 @@ Bears a similar layout to [[Karam and Nayan's House]].
 - The Clock is set to 12:15.
 - [[Karam's Room(Academy, or Velkar)]] has a nametag next to it carrying Karam's name.
 - Photographs that do not belong to Karam.
-
+	![[Pasted image 20251222030040.png]]
+- A bookshelf with a note from Luminyan
 
 
 
