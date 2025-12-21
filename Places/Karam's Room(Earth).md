@@ -9,7 +9,7 @@ Other objects located here:
 - [[Broom]]
 - [[X's Hair tie]]
 - ![[Screenshot 2025-12-20 031813.png]]
-	To Do list of sorts located next to [[Karam(Earth)]] door.
+	To Do list of sorts located next to [[Karam(Earth)]]'s door.
 
 
 
