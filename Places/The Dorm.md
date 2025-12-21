@@ -1,6 +1,6 @@
 2nd floor/Bedroom hall:
-
-
+![[Pasted image 20251222024210.png]]
+- Connects to [[Karam's Room(Academy, or Velkar)]], [[Luminyan's Room]], The bathroom, and 1st floor/living room.
 
 
 
