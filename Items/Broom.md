@@ -4,4 +4,4 @@
 - You can clean up Yurim's hair balls on the ground with it.
 - Seeing your reflection on the mirror with it for the first time makes you look cool. Mr. Clean. (Karam cringes a bit)
 
-Findable in [[Karam's Room (IRL)]] in the supply box.
+Findable in [[Karam's Room(Earth)]] in the supply box.
