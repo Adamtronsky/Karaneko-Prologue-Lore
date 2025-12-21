@@ -1,18 +1,21 @@
 Bears a similar layout to [[Karam and Nayan's House]].
-2nd floor/Bedroom hall:
+- **2nd floor(Bedroom hall):**
 ![[Pasted image 20251222024210.png]]
-- Connects to [[Karam's Room(Academy, or Velkar)]], [[Luminyan's Room]], The bathroom, and 1st floor/living room.
-- The Clock is set to 12:15.
-- [[Karam's Room(Academy, or Velkar)]] has a nametag next to it carrying Karam's name.
-- Photographs that do not belong to Karam.
-	![[Pasted image 20251222030040.png]]
-- A bookshelf with its cabinet door having a note attached to it from Luminyan, imploring no one touch their belongings.
-- Interacting with the mirror in the hall:
-	>"A mirror hanging against the wall, reflecting a stranger version of you."
-- The tag next to Luminyan's door is un-interactable.
-- The carpet on the floor bears Vegoia's motif
+	- Connects to [[Karam's Room(Academy, or Velkar)]], [[Luminyan's Room]], The bathroom, and 1st floor/living room.
+	- The Clock is set to 12:15.
+	- [[Karam's Room(Academy, or Velkar)]] has a nametag next to it carrying Karam's name.
+	- Photographs that do not belong to Karam.
+		![[Pasted image 20251222030040.png]]
+	- A bookshelf with its cabinet door having a note attached to it from Luminyan, imploring no one touch their belongings.
+	- Interacting with the mirror in the hall:
+> 	"A mirror hanging against the wall, reflecting a stranger version of you."
+	- The tag next to Luminyan's door is un-interactable.
+	- The carpet on the floor bears Vegoia's motif.
+-----
 
+- **2nd floor(Bathroom):**
 
+-----
 - Books in the main living area:
 	- ”The sun cat” 「“A horror story that will pierce the desperate entirety of your sanity, by a kitty inside the camera”」
 	- A completely burned book 
