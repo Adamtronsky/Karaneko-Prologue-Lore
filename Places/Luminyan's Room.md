@@ -1,3 +1,5 @@
+There are two methods 
+
 ![[Pasted image 20251222041010.png]]
 
 
