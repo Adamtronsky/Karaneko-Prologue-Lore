@@ -1,4 +1,4 @@
-- Likes [[Yurim (IRL)]]
+- Likes [[Yurim(Earth)]]
 - Has seen hard times...
 - Has a cleaning obsession (cf. [[Karam's Cleaning OCD]]), since [[The Incident]].
 
