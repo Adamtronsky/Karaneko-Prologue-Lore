@@ -6,4 +6,4 @@ Compared to [[Karam's Room(Earth)]], this room designated to [[Karam (Velkar)]] 
 - Has one mossy bottle. Which is a big contrast to the 37 bottles in [[Karam's Room(Earth)]]. 
 >"It may be a Deltarune reference to Kris eating moss."                                                      -'Pralii'
 - Contains the [[Pong]] minigame
-
+- A [[Magicaster(s)]] is designated at a desk

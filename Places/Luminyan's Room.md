@@ -3,7 +3,7 @@
 - [[Luminyan's Ritual]] took place in his room.
 - It is very dark in his room, as this is part of the ritual.
 
-- If you enter before the training session, you can access his [[Magicasters|Magicaster]] which shows a computer screen with a dark night wallpaper and an empty bin and folder. The date says Day 0. When coming back after the training session, the magicaster describes as a “cracked orb” and not a magicaster.
+- If you enter before the training session, you can access his [[Magicaster(s)|Magicaster]] which shows a computer screen with a dark night wallpaper and an empty bin and folder. The date says Day 0. When coming back after the training session, the magicaster describes as a “cracked orb” and not a magicaster.
 - If you enter before the training session, the wardrobe key isn’t there and interacting with its space only describes the presence of the magicaster.
 
 All his flowers are dead. Contrary to Nayan who takes care of the flowers in the house
