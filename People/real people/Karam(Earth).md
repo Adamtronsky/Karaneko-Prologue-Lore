@@ -1,6 +1,6 @@
 - Likes [[Yurim(Earth)]]
 - Has seen hard times...
-- Has a cleaning obsession (cf. [[Karam's Cleaning OCD]]), since [[The Incident]].
+- Has a cleaning obsession (cf. [[Karam's Cleaning 'OCD']]), since [[The Incident]].
 
 ```ad-abstract
 title: Imagination
