@@ -15,12 +15,14 @@ As well, the room is much more disorderly than any seen before.
 	> 	"A very thick booklet with a glossy finish. It says, 'Instruction Manual for NEKO1800' on its cover."
 **'Your NEKO 1800 table saw is designed for the slicing and cross-cutting of any kinds of ‘material’ proportional with the machine’s size. It is intended for professional use'**
 - A dusty bedside drawer, its gas lamp is no longer lit. (Noted for odd remark)
-- Top left is Luminyan's bed with four pillows. 
+- Top left is Luminyan's bed with four pillows. There's apparently something behind the pillow pile.
+- Under the bed is dysfunctional rabbit’s head. Cottons are scattered under the bed.
+- 
 
 
 
 
--  A dysfunctional rabbit’s head. Cottons are scattered under the bed.」This is the head of the decapitated plush used for [[Luminyan's Ritual]]
+
 - If you enter before the training session, you can access his [[Magicaster(s)|Magicaster]] which shows a computer screen with a dark night wallpaper and an empty bin and folder. The date says Day 0. When coming back after the training session, the magicaster describes as a “cracked orb” and not a magicaster.
 - If you enter before the training session, the wardrobe key isn’t there and interacting with its space only describes the presence of the magicaster.
 
