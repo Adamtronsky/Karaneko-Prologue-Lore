@@ -20,8 +20,11 @@ As well, the room is much more disorderly than any seen before.
 - Top left is Luminyan's bed with four pillows. There's apparently something behind the pillow pile.
 - Under the bed is dysfunctional rabbit’s head. Cottons are scattered under the bed.
 - On the desk(If entered early):
-	 - An interactable [[Magicaster(s)|Magicaster]] which shows a 'computer screen' with a dark night wallpaper, an empty bin and folder. 
-	 - 
+	 - An interactable [[Magicaster(s)|Magicaster]] which shows a 'computer screen' with a dark night wallpaper, an empty bin and folder. ![[Pasted image 20251223032131.png]]
+	 - The key is absent.
+- On the desk:
+	- A cracked orb.
+	- 
 
 
 
