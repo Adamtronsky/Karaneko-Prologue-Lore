@@ -2,10 +2,12 @@
 ![[Luminyan's Room.png]]
 Bearing semblance to [[Nayan's Room]], it is instead owned by someone named [[Luminyan]].
 >"This room lacks what defines Nayan's character, all seen here is the mark of someone else. Luminyan."
+
+As well, the room is much more disorderly than any seen before.
 - To Karam's immediate left upon entering is a plush toy that has lost its head. Along with its cotton insides being exposed, there are black hair strands among them(Assumedly Karam's).
 - To the right of the doorway is a flowerpot.
 >	"All the flowers are dead."
-- 
+
 
 
 
