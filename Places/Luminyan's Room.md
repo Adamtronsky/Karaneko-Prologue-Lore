@@ -1,3 +1,5 @@
+Luminyan's room can normally be **accessed after the training session**. There is a way to enter it early:
+> " **You can dupe him by knocking on the door and hiding in the bathroom**, thinking Laschka played a prank on him, he goes downstairs"                                        -'Pralii'
 
 ![[Luminyan's Room.png]]
 Bearing semblance to [[Nayan's Room]], it is instead owned by someone named [[Luminyan]].
@@ -17,13 +19,15 @@ As well, the room is much more disorderly than any seen before.
 - A dusty bedside drawer, its gas lamp is no longer lit. (Noted for odd remark)
 - Top left is Luminyan's bed with four pillows. There's apparently something behind the pillow pile.
 - Under the bed is dysfunctional rabbit’s head. Cottons are scattered under the bed.
-- 
+- On the desk(If entered early):
+	 - An interactable [[Magicaster(s)|Magicaster]] which shows a 'computer screen' with a dark night wallpaper, an empty bin and folder. 
+	 - 
 
 
 
 
 
-- If you enter before the training session, you can access his [[Magicaster(s)|Magicaster]] which shows a computer screen with a dark night wallpaper and an empty bin and folder. The date says Day 0. When coming back after the training session, the magicaster describes as a “cracked orb” and not a magicaster.
+- If you enter before the training session, you can access his When coming back after the training session, the magicaster describes as a “cracked orb” and not a magicaster.
 - If you enter before the training session, the wardrobe key isn’t there and interacting with its space only describes the presence of the magicaster.
 
 
