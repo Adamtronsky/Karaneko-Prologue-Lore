@@ -1,5 +1,5 @@
 ![[Karam's Room(Academy, or Velkar).png]]
-Compared to [[Karam's Room(Earth)]], this room designated to [[Karam (Velkar)]] is unkept; dusty, and a broom and 37 total water bottles. 
+Bearing semblance to [[Karam's Room(Earth)]], this room designated to [[Karam (Velkar)]] is unkept; dusty, and lacking a broom, and 37 total water bottles. 
 - The calendar has the same circled date as the one in [[Karam's Room(Earth)]]
 - When interacting with the wardrobe:
 >"An unordinary [[Wardrobe]]. There is a lock on it."
