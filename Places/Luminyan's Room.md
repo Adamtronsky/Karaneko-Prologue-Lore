@@ -15,7 +15,7 @@ As well, the room is much more disorderly than any seen before.
 	> 	"A very thick booklet with a glossy finish. It says, 'Instruction Manual for NEKO1800' on its cover."
 **'Your NEKO 1800 table saw is designed for the slicing and cross-cutting of any kinds of ‘material’ proportional with the machine’s size. It is intended for professional use'**
 - A dusty bedside drawer, its gas lamp is no longer lit. (Noted for odd remark)
-- 
+- Top left is Luminyan's bed with four pillows. 
 
 
 
@@ -28,5 +28,4 @@ As well, the room is much more disorderly than any seen before.
 
 
 - Based on the quill and spilled ink, He was recently writing in his book, though we cannot read its contents.
-- His cracked bed says there is something behind the pillow pile, yet nothing is visible.
 
