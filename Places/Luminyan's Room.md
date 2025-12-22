@@ -1,7 +1,9 @@
 
 ![[Luminyan's Room.png]]
 Bearing semblance to [[Nayan's Room]], it is instead owned by someone named [[Luminyan]].
->"This room lacks what defines Nayan's character, all seen here is the 
+>"This room lacks what defines Nayan's character, all seen here is the mark of someone else. Luminyan."
+
+- 
 
 
 
