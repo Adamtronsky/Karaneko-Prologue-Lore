@@ -24,8 +24,11 @@ As well, the room is much more disorderly than any seen before.
 	 - The key is absent.
 - On the desk:
 	- A cracked orb.
-	- The key to the cabinet.
-	- 
+	- A warm incandescent key.
+	- An ink bottle spilled over clustered paper with a quill pen next to it.
+	>"Based on the quill and spilled ink, He was recently writing in his book, though we cannot read its contents."       -'Pralii'
+
+![[Idiocy.png]]
 
 
 
@@ -36,5 +39,5 @@ As well, the room is much more disorderly than any seen before.
 
 
 
-- Based on the quill and spilled ink, He was recently writing in his book, though we cannot read its contents.
+
 
