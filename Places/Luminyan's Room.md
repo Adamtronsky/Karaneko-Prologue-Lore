@@ -24,14 +24,14 @@ As well, the room is much more disorderly than any seen before.
 	 - The key is absent.
 - On the desk:
 	- A cracked orb.
+	- The key to the cabinet.
 	- 
 
 
 
 
 
-- If you enter before the training session, you can access his When coming back after the training session, the magicaster describes as a “cracked orb” and not a magicaster.
-- If you enter before the training session, the wardrobe key isn’t there and interacting with its space only describes the presence of the magicaster.
+
 
 
 
