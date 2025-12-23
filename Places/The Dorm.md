@@ -14,7 +14,7 @@ Bears a similar layout to [[Karam and Nayan's House]].
 -----
 - ##### 2nd floor(Bathroom):
 	![[The Dorm (2nd floor, bathroom).png]]
-	- Nothing of note
+	- [[Karam (Velkar)]] lacks any personal items here, such as a towel.
 -----
 - ##### 1st floor(Living Room):![[Pasted image 20251223034911.png]]
 	- Besides the books, there is nothing much of note besides the various colored pots with plants.
