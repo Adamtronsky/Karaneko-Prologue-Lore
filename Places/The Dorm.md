@@ -1,7 +1,7 @@
 Bears a similar layout to [[Karam and Nayan's House]].
 - ##### 2nd floor(Bedroom hall):
 	![[The Dorm (2nd floor, bedroom hall).png]]
-	- Connects to [[Karam's Room(Academy, or Velkar)]], [[Luminyan's Room]], The bathroom, and [[#]]
+	- Connects to [[Karam's Room(Academy, or Velkar)]], [[Luminyan's Room]], The bathroom, and [[#
 	- The Clock is set to 12:15.
 	- [[Karam's Room(Academy, or Velkar)]] has a nametag next to it carrying Karam's name.
 	- Photographs that do not belong to Karam.
@@ -16,7 +16,8 @@ Bears a similar layout to [[Karam and Nayan's House]].
 	![[The Dorm (2nd floor, bathroom).png]]
 	- [[Karam (Velkar)]] lacks any personal items here, such as a towel.
 -----
-- ##### 1st floor(Living Room):![[Pasted image 20251223034911.png]] ^dfd5af
+- ##### 1st floor(Living Room): 
+	![[Pasted image 20251223034911.png]] ^dfd5af
 	- Besides the books, there is nothing much of note besides the various colored pots with plants.
 	- Books in the main living area(From right-most to left-most):
 		- A dusty novella: ”The sun cat” 
