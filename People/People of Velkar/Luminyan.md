@@ -1,4 +1,4 @@
-- Is protective of his belongings, as hinted by the note on a shelf in [[The Dorm]].
+- Is protective of his belongings, as hinted by the note on a shelf in [[Luminyan(and Karam)'s Dorm]].
 - His distinctive symbol is a sort of upward crescent moon. It is visible on his hat, as well as his door, Magicaster cursor, and combat symbol.
 
 
