@@ -18,7 +18,7 @@ Bears a similar layout to [[Karam and Nayan's House]].
 -----
 - 1st floor(Living Room):![[Pasted image 20251223034911.png]]
 	- Besides the books, there is nothing much of note besides the various colored pots with plants.
-	- Books in the main living area:
+	- Books in the main living area(From right-most to left-most):
 		- A dusty novella: ”The sun cat” 
 		> “A horror story that will pierce the desperate entirety of your sanity, by a kitty inside the camera"
 		- A completely burned book, its pieces of paper falling apart as smokey ashes.
