@@ -31,7 +31,15 @@ Bears a similar layout to [[Karam and Nayan's House]].
 		    If the cloak you have is close to darker shades, unfortunately, the magic power inside is quite low."**
 		- An Old book : “The history and Philosophy of Suda” 
 		> (Introduction) ”…When the seasons changed, the pitiful humankind could not survive. How desperate and powerless the humanity was! Yet the [[Desirée - God of Wisdom|Wise One]] believed them, that miserable creatures. Thus, the knowledge is granted to the mankind. So much so that not a single trace of ignorance remains…”
-	- 「Once upon a time, in a house where beautiful and lovely cats lived, The owner brought a new kitten. All the other cats were excited to see their new friend. But once they met, they saw that this cat was different. This cat was not mischievous like some, not playful like some, and not loyal like some. Still, the other cats accepted the cat as it was. Yet, it wasn’t long before they regretted. The cat’s aggressive behavior scared all the other cats in the house. Everyone was complaining about the cat. So the cats together, threw this incorrigible, dangerous, wild, ugly, and cursed beast out of the house. The house has become a beautiful home for happy cats again. The End. 」
+	- Once the power is out and you go upstairs, a sound cue will play. Go back to the living room and a book should have fallen. 
+		>'A children's book with a plain cover.'
+		>**"Once upon a time, in a house where beautiful and lovely cats lived, The owner brought a new kitten. All the other cats were excited to see their new friend. 
+		>But once they met, they saw that this cat was different. This cat was not mischievous like some, not playful like some, and not loyal like some. 
+		>Still, the other cats accepted the cat as it was. 
+		>Yet, it wasn’t long before they regretted. 
+		>The cat’s aggressive behavior scared all the other cats in the house. Everyone was complaining about the cat. 
+		>So the cats together, threw this incorrigible, dangerous, wild, ugly, and cursed beast out of the house. The house has become a beautiful home for happy cats again. The End. "**
+	![[Pasted image 20251224030843.png]]
 -----
 - ##### 1st floor(Kitchen)
 	![[Pasted image 20251224022502.png]]
