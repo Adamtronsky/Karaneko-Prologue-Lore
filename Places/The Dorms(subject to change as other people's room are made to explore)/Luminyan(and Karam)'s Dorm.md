@@ -36,3 +36,5 @@ Bears a similar layout to [[Karam and Nayan's House]].
 - ##### 1st floor(Kitchen)
 	![[Pasted image 20251224022502.png]]
 	- Left of the door, photographs that do not belong to Karam.
+	- Next to the photos: A dark buffet hutch.
+	- Three different bottles standing on the counter next to the hutch (Green, red, and yellow)
