@@ -39,7 +39,7 @@ Bears a similar layout to [[Karam and Nayan's House]].
 		>Yet, it wasn’t long before they regretted. 
 		>The cat’s aggressive behavior scared all the other cats in the house. Everyone was complaining about the cat. 
 		>So the cats together, threw this incorrigible, dangerous, wild, ugly, and cursed beast out of the house. The house has become a beautiful home for happy cats again. The End. "**
-	![[Pasted image 20251224030843.png]]
+	![[The Living room with the fallen book.png]]
 -----
 - ##### 1st floor(Kitchen)
 	![[The Kitchen.png]]
