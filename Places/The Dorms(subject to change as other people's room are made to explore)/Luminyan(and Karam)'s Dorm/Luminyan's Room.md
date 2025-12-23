@@ -25,7 +25,7 @@ As well, the room is much more disorderly than any seen before.
 - On the desk:
 	- A cracked orb.
 	- A warm incandescent key.
-		![[Pasted image 20251224031336.png]]
+		![[Lumi's room.png]]
 	- An ink bottle spilled over clustered paper with a quill pen next to it.
 	>"Based on the quill and spilled ink, He was recently writing in his book, though we cannot read its contents."       -'Pralii'
 
