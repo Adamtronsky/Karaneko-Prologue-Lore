@@ -17,7 +17,7 @@ Bears a similar layout to [[Karam and Nayan's House]].
 	- [[Karam (Velkar)]] lacks any personal items here, such as a towel.
 -----
 - ##### 1st floor(Living Room): 
-	![[Pasted image 20251223034911.png]] ^dfd5af
+	![[1st floor living room.png]] ^dfd5af
 	- Besides the books, there is nothing much of note besides the various colored pots with plants.
 	- Books in the main living area(From right-most to left-most):
 		- A dusty novella: ”The sun cat” 
