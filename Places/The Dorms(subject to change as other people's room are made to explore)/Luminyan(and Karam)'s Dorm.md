@@ -38,3 +38,4 @@ Bears a similar layout to [[Karam and Nayan's House]].
 	- Left of the door, photographs that do not belong to Karam.
 	- Next to the photos: A dark buffet hutch.
 	- Three different bottles standing on the counter next to the hutch (Green, red, and yellow)
+	- The wand on, what is presumably a cutting board.
