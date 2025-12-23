@@ -1,3 +1,4 @@
+![[Pasted image 20251224023652.png]]
 - has 2 beds (one for herself and another for Laschka)
 - has a lamp right next to eve’s bed
 - as a clean and organized desk with a magicaster on it
