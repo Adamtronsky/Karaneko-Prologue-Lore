@@ -21,7 +21,7 @@ Bears a similar layout to [[Karam and Nayan's House]].
 	- Besides the books, there is nothing much of note besides the various colored pots with plants.
 	- Books in the main living area(From right-most to left-most):
 		- A dusty novella: ”The sun cat” 
-		> “A horror story that will pierce the desperate entirety of your sanity, by a kitty inside the camera"
+		> 	“A horror story that will pierce the desperate entirety of your sanity, by a kitty inside the camera"
 		- A completely burned book, its pieces of paper falling apart as smokey ashes.
 		- An Old book: “Magic for beginners”. It has a page that is about to fall off.
 		> 'What is the cloak? What does it do?'
@@ -32,7 +32,7 @@ Bears a similar layout to [[Karam and Nayan's House]].
 		- An Old book : “The history and Philosophy of Suda” 
 		> (Introduction) ”…When the seasons changed, the pitiful humankind could not survive. How desperate and powerless the humanity was! Yet the [[Desirée - God of Wisdom|Wise One]] believed them, that miserable creatures. Thus, the knowledge is granted to the mankind. So much so that not a single trace of ignorance remains…”
 	- Once the power is out and you go upstairs, a sound cue will play. Go back to the living room and a book should have fallen. 
-		>'A children's book with a plain cover.'
+		>	'A children's book with a plain cover.'
 		>**"Once upon a time, in a house where beautiful and lovely cats lived, The owner brought a new kitten. All the other cats were excited to see their new friend. 
 		>But once they met, they saw that this cat was different. This cat was not mischievous like some, not playful like some, and not loyal like some. 
 		>Still, the other cats accepted the cat as it was. 
