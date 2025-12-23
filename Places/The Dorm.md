@@ -1,5 +1,5 @@
 Bears a similar layout to [[Karam and Nayan's House]].
-- **2nd floor(Bedroom hall):**
+- ##### 2nd floor(Bedroom hall):
 	![[The Dorm (2nd floor, bedroom hall).png]]
 	- Connects to [[Karam's Room(Academy, or Velkar)]], [[Luminyan's Room]], The bathroom, and 1st floor(Living room).
 	- The Clock is set to 12:15.
@@ -12,11 +12,11 @@ Bears a similar layout to [[Karam and Nayan's House]].
 	- The tag next to Luminyan's door is un-interactable.
 	- The carpet on the floor bears Vegoia's motif.
 -----
-- **2nd floor(Bathroom):**
+- ##### 2nd floor(Bathroom):
 	![[The Dorm (2nd floor, bathroom).png]]
 	- Nothing of note
 -----
-- 1st floor(Living Room):![[Pasted image 20251223034911.png]]
+- ##### 1st floor(Living Room):![[Pasted image 20251223034911.png]]
 	- Besides the books, there is nothing much of note besides the various colored pots with plants.
 	- Books in the main living area(From right-most to left-most):
 		- A dusty novella: ”The sun cat” 
