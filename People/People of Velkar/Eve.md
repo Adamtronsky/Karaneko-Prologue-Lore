@@ -7,7 +7,7 @@
 
 - Part of the "Fox" race.
 - Cousins with [[Laschka]].
-- The founder of a small but powerful rebellious gang in [[Ryuujin]]. Despite denying being called 'Boss'(As said in[In])
+- The founder of a small but powerful rebellious gang in [[Ryuujin]]. Despite denying being called 'Boss'(As said in(insert caturday here)), [[Laschka]] himself says that Eve is a good leader.
 - Eve’s eye color appears to be a combination of red green and yellow (Likely from her part fox heritage) 
 - Knows about the wolf based on its scent sticking onto Karam and scolds you for not killing it (as seen in the ending where you leave Yurim to die)
 - Likes listening to quality music and hates being disturbed in her listening sessions. (Caturday news)
