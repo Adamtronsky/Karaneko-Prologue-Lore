@@ -5,7 +5,7 @@
 >"Eve. A rather serious looking individual. She is a senior at 'The Academy', characterized by her fox-like ears and red accents that also serve to support the ferocity in her character.
 >Oh, well. Every 'sinner' has their future."
 
-- Can be seen as a rather grumpy
+- Can be seen as a rather grumpy. But only when she's pushed
 - seems to be the most powerful between herself, Laschka, Luminyan and Karam (given how she fights all 3 at once)  (we also know this from her robe’s “glow”)
 
 - Is the leader of a gang in [[Ryuujin]] and seeks to overthrow the current order (seen via the karaneko kickstarter when talking about the [[Hakure route]])
