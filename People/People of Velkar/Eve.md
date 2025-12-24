@@ -1,7 +1,7 @@
 ---
 ~
 ---
-
+![[Pasted image 20251225011004.png]]
 -  Red fox lady, is [[Laschka]]’s cousin
 -  seems generally angry (albeit we do enter her bedroom uninvited in the middle of the night)
 - seems to be the most powerful between herself, Laschka, Luminyan and Karam (given how she fights all 3 at once)  (we also know this from her robe’s “glow”)
