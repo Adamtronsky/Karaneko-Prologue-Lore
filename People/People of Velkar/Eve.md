@@ -24,3 +24,5 @@
 	
 
 [^2]: Need more details on this.
+
+>"One can't help but notice her sudden show of mercy to [[Karam (Velkar)]] after the fight in her room."
