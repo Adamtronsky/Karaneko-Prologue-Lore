@@ -1,3 +1,4 @@
+![[Pasted image 20251226023437.png]]
 “The librarian”
 
 Was once able to come and go freely to the Pink Forest, but suddenly stopped (maybe something happened to him)
