@@ -1,4 +1,4 @@
-todo when i pick up the item
+![[Pasted image 20251226012152.png]]
 
 >"Oh, and my friend once told me, that these flowers bring people closer together." 
 >
