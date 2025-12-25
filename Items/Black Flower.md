@@ -1,4 +1,4 @@
-![[Pasted image 20251226012152.png]]
+![[Pasted image 20251226012152.png | center]]
 
 >"Oh, and my friend once told me, that these flowers bring people closer together." 
 >
@@ -8,4 +8,6 @@
 >
 >"Here, take it. Maybe it'll work for you, what do think?"
 
-Karam receives the flower.
+**Item description:**
+>[!quote] Description
+>"It seems like it doesn't let the light escape."
