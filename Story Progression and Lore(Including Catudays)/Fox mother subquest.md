@@ -1,3 +1,1 @@
-To start, talk to the Fox enemy.
-
-1) 
+To start, talk to the Fox enemy, from there
