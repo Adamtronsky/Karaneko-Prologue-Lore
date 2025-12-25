@@ -8,6 +8,6 @@
 >
 >"Here, take it. Maybe it'll work for you, what do think?"
 
-**Item description:**
->[!quote] Description
+
+>[!quote] Item Description:
 >"It seems like it doesn't let the light escape."
