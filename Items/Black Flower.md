@@ -1,3 +1,3 @@
 todo when i pick up the item
 
-「these flowers bring people closer together」 says Yurim, for her, it is only a superstition, but it is the reason why Karam understands [[The Wolf]] but not Yurim
+>"Oh, and my friend once told me, that these flowers bring people closer together." Yurim pauses to pluck one of the flowers from the ground. "I don't believe in superstitions"
