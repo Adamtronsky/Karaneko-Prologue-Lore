@@ -1,2 +1,1 @@
-Triggered by ending the fight with a certain dialog route
-todo
+To start, talk to the Fox enemy.
