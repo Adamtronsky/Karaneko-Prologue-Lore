@@ -1,4 +1,4 @@
-![[Pasted image 20251226012152.png | center]]
+![[Black Flower.png| center]]
 
 >"Oh, and my friend once told me, that these flowers bring people closer together." 
 >
