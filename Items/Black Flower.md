@@ -6,4 +6,3 @@ todo when i pick up the item
 >
 >"I don't believe in superstitions"
 
->[!quote]
