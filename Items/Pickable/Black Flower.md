@@ -11,3 +11,6 @@
 
 >[!quote] Item Description:
 >"It seems like it doesn't let the light escape."
+
+> [!quote] World Description:
+> "A wildflower with black leaves, spreading everywhere."
