@@ -7,9 +7,9 @@ The General state of the house is pretty messy, but that doesn’t seem to bothe
 
 
 
-The Green book inside probably come from [[Finnion]] (ithas the logo of [[The academy]])
+The Green book inside probably come from [[Finnion - The Librarian]] (ithas the logo of [[The academy]])
 
-A stack of [[Finnion]]’s search notices is on the floor. Yurim is evasive of the topic at first.
+A stack of [[Finnion - The Librarian]]’s search notices is on the floor. Yurim is evasive of the topic at first.
 
 There are a lot of hair scrunchie around, too many… They are Yurim’s favorite toys
 
