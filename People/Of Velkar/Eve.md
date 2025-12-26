@@ -1,7 +1,7 @@
 ---
 ~
 ---
-![[Temp Eve.png]]
+![[Temp Eve.png | center]]
 
 | Query | Answer |
 | ----- | ------ |
