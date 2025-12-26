@@ -2,8 +2,7 @@
 ~
 ---
 ![[Temp Eve.png]]
->"Eve. A rather serious looking individual. She is a senior at 'The Academy', characterized by her fox-like ears and red accents that also serve to support the ferocity in her character. She may come off as grumpy to most. But…
->Oh, well. Every 'sinner' has their future."
+
 
 - Part of the "Fox" race.
 - Cousins with [[Laschka]].
