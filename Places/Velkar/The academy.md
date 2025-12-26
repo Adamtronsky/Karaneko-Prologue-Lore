@@ -1,1 +1,1 @@
-Placeholder text so that a period won't appear.
+Placeholder text so that a period won
