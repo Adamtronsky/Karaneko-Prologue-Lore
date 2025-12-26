@@ -3,7 +3,9 @@
 ---
 ![[Temp Eve.png]]
 
-| Query | 
+| Query | Answer |
+| ----- | ------ |
+|       |        |
 
 - Part of the "Fox" race.
 - Cousins with [[Laschka]].
