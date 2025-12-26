@@ -1,5 +1,5 @@
 ![[Pasted image 20251226023437.png | center]]
->"A frequent guest to the forest.
+>"A frequent guest to the forest. 
 
 
 
