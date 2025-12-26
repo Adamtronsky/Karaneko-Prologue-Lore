@@ -1,11 +1,8 @@
 ---
 ~
 ---
-![[Temp Eve.png | center]]
-
-| Query | Answer |
-| ----- | ------ |
-|       |        |
+![[Temp Eve.png]]
+>"Eve, a senior in [[The Academy]] Characterized by her Fox-like features and
 
 - Part of the "Fox" race.
 - Cousins with [[Laschka]].
