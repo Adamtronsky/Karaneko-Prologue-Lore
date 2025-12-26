@@ -2,8 +2,8 @@
 ~
 ---
 ![[Temp Eve.png]]
->"Eve, a senior in [[The Academy]] 
-
+>"Eve, a senior in [[The academy|The Academy]]
+>
 - Part of the "Fox" race.
 - Cousins with [[Laschka]].
 - The founder of a small but powerful rebellious gang in [[Ryuujin]]. Despite denying being called 'Boss'[^1], [[Laschka]] himself says that Eve is a good leader. The group itself is united by the purpose of breaking down the hierarchal system that's laid over the land of [[Ryuujin]].
