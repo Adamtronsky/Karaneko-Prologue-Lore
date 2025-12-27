@@ -63,4 +63,3 @@ This is a young project for now. More thanks incoming. I probably forgot peopleâ
 
 # Contact
 For any concerns, you may find us easily on Discord, this Github is co-owned by user `@Pralii~~` (`pralii`)  and `@Solv` (`solu.tion`).
-
