@@ -5,10 +5,9 @@
 - The person who gave Yurim  seeds. Also saying that:
 	>"If you plant these seeds and water them every day, one day, they'll turn into something you'll really love."
 - He's the friend that told Yurim about the [[Black Flower]]s, and how they 'bring people closer together'.
+- (According to Kickstarter information of "Rabbit Route") Finnion(and Nayan) could be at [[Ninova]] according to some 'clues.'(Added due to being a non contradicted point.)
 - 
 
 
 
 
-Has left [[Vegoia]] for [[Ninova]] (Based on the striking resemblance between missing poster and characters of Rabbit route, and the fact that we search for him in [[Ninova]] (as told by [[KickStarter]]))
-→Probably why he didn’t come visit Yurim anymore
