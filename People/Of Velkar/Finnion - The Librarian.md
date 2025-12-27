@@ -8,7 +8,7 @@
 - (According to Kickstarter information of "Rabbit Route") Finnion(and Nayan) could be at [[Ninova]] according to some 'clues.'(Added due to being a non contradicted point.)
 
 
-
+(**REMINDER:** the following caturdays contradict each other and the game. Take the below lightly. )
 - **Relevant caturdays:**
 	- 
 
