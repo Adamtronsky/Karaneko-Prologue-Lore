@@ -6,8 +6,10 @@
 	>"If you plant these seeds and water them every day, one day, they'll turn into something you'll really love."
 - He's the friend that told Yurim about the [[Black Flower]]s, and how they 'bring people closer together'.
 - (According to Kickstarter information of "Rabbit Route") Finnion(and Nayan) could be at [[Ninova]] according to some 'clues.'(Added due to being a non contradicted point.)
-- 
 
 
+
+- **Relevant caturdays:**
+	- 
 
 
