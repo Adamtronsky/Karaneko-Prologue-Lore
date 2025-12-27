@@ -4,4 +4,4 @@
 - At the end, you can decide to **“fight it, saving Yurim”** or **“leave Yurim.”**.
 - If you choose to leave Yurim, it will not end well. After Karam escapes from it by hiding in a bush, you can return to Yurim to obtain the last key (**the Pink Key**), but you will find Yurim brutally murdered by the creature.
 - Before you fight it, there is an interesting fact: when It talks, Yurim can't understand what it's saying, but Karam can. This is because he has the [[Black Flower]].
-- After you defeat The Wolf, Yurim says that it is decaying, which probably means that it is not a real living being. In the other choice, however, it returns to the portal, going somewhere in Vegoia (the country of [[The Academy]]), as Eve says in the dormitory that she can sense the scent of a wolf.
+- After you defeat The Wolf, Yurim says that it is decaying, which probably means that it is not a real living being. In the other choice, however, it returns to the portal, going somewhere in Vegoia (the country of [[The Academy]]), as [[Eve]] says in the dormitory that she can sense the scent of a wolf.
