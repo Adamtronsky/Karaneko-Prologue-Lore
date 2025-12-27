@@ -1,0 +1,1 @@
+To start, talk to the Fox enemy, from there, keep calming her down. This should end with Karam offering to find her baby.
