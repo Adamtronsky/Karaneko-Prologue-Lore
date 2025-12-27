@@ -25,5 +25,5 @@
 
 [^2]: Need more details on this.
 
-**Theoros Log:**
+**Theori Log:**
 | 
