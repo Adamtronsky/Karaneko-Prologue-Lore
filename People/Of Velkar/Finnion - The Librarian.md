@@ -1,5 +1,5 @@
 ![[Pasted image 20251226023437.png | center]]
->"
+>(Caturdays have been confirmed "inconsistent" with some aspects of the games lore; The following remark is subject to change) ""
 
 
 
