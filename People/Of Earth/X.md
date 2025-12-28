@@ -1,3 +1,4 @@
+![[sXface1.png | center]]
 Transcript of discussion with Power:
 
 1. They used to be a couple
