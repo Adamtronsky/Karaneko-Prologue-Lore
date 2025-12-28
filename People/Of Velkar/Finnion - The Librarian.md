@@ -1,4 +1,4 @@
-![[Pasted image 20251226023437.png | center]]
+![[Warden.png| center]]
 >(Caturdays have been confirmed "inconsistent" with some aspects of the games lore; The following remark might not align with all of them.) "Was once a frequent visitor to the forest. A very close friend to Yurim. Teaching her things, playing with her, observing…How unfortunate it is that he doesn't visit anymore, or can't."
 
 - Race: Un-ascertainable. But speculatively: Elf.
