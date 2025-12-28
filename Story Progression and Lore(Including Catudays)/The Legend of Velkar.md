@@ -19,7 +19,7 @@ And thus began the glorious reign of the mighty Velkar gods.
 [[Ryuujin]]'s [[God of Life - Durai|God of Life]] has built an unshakable order from it's foundation. 
 
 The adoring people of [[Ninova]] we're blessed by love. 
-They stepped into the graceful path of [[Gods of Love|God of Love]]. 
+They stepped into the graceful path of [[God of Love|God of Love]]. 
 
 She was supposed to exist for the people, Yet the unexpected happened..."
 
