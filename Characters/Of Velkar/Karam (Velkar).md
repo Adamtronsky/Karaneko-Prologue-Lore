@@ -4,7 +4,6 @@
 
 - Luminyan remarks that he didn't consider that Karam(Velkar) could have a brother.
 - Roommates with Luminyan; Luminyan states that Karam is "'Technically' a student".
-- Is technically a student despite having surpassed the limit of absenteism by far according to [[Luminyan]].
-
+- 
 
 
