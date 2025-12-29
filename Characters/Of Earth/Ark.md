@@ -1,4 +1,4 @@
-![[sArkO1 1.png | center]]
+![[sakface6.png | center]]
 - Is not studious
 - fighting guy, he is mad that Karam “abandoned” [[The gang]]
 - Is really messy, as can be seen in some store shelves and cabinets.
