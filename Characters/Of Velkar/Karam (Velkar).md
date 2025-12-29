@@ -4,6 +4,6 @@
 
 - Luminyan remarks that he didn't consider that Karam(Velkar) could have a brother.
 - Roommates with Luminyan; Luminyan states that Karam is "'Technically' a student".
-- 
+- They wear around their shoulders a black cloak.
 
 
