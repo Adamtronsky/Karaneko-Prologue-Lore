@@ -1,3 +1,3 @@
-![[sLainface.png | center]]
+![[Lain Portrait.png| center]]
 Nayan's song composer
 

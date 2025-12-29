@@ -1,4 +1,4 @@
-![[sfitesface4.png | center]]
+![[Fites Portrait.png| center]]
 Fites, AKA
 - Is studious, but his grades dropped since Karam isn’t around.
 - Part of [[The gang]]
