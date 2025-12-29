@@ -2,7 +2,7 @@
 ![[sKaramM1.png | center]]
 > <center>"There is little to remark about a stranger."</center>
 
-- According to [[Luminyan]] when you speak to him in front of his room, this Karam has no brother
+- Upon first meeting with [[Luminyan]]
 - His cape is pitch black, meaning he has no magic aptitude according to the book in [[Central Rooms]]’s living room. (this is also confirmed in the training when playing as Karam)
 - Is technically a student despite having surpassed the limit of absenteism by far according to [[Luminyan]].
 
