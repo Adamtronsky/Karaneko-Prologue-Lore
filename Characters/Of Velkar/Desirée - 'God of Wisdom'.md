@@ -4,7 +4,7 @@
 
 - Has blessed their region([[Vegoia]]) with Knowledge, 
 	>"So much so that not a single trace of ignorance remains…" [^1] 
-- 
+- A book mentioning the Wise One: [[Luminyan's Room#^b6affa]]
 
 
 - Relevant Caturdays:
