@@ -1,3 +1,3 @@
 ![[Vegoia's God of Wisdom.png |center]] 
 
-- h
+- Has blessed their region with Knowledge, "Lea"
