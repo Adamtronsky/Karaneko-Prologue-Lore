@@ -14,6 +14,7 @@
 - Keeps her room tidy; gets angry at [[Laschka]] for being messy.
 
 
+
 - **Relevant caturdays:**
 	- Vaguely implying something when Eve gets overwhelmed: (https://discord.com/channels/1046929328451112980/1047284163906129960/1393723136712773632)
 	- [[Laschka]]'s point of view of Eve: (https://discord.com/channels/1046929328451112980/1047284163906129960/1327721213702836316)
