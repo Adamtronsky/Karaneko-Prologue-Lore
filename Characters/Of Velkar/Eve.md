@@ -25,5 +25,5 @@
 
 [^2]: Need more details on this.
 
-**Theori Log:**
+**Con Cogitatio Log:**
 | 
