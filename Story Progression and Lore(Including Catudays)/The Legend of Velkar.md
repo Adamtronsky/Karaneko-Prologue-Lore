@@ -14,7 +14,7 @@ The Divine Mother entrusted her people to the 'gods'.
 The gods clung tightly to one another, Sharing humanity among themselves, and united into a whole with the three great regions. 
 And thus began the glorious reign of the mighty Velkar gods.
 
-[[Vegoia]] flourished in knowledge and benevolence under the guidance of the [[Desirée - God of Wisdom|Wise One]]. 
+[[Vegoia]] flourished in knowledge and benevolence under the guidance of the [[Desirée - 'God of Wisdom'|Wise One]]. 
 
 [[Ryuujin]]'s [[God of Life - Durai|God of Life]] has built an unshakable order from it's foundation. 
 

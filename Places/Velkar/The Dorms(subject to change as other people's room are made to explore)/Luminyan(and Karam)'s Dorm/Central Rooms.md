@@ -30,7 +30,7 @@ Bears a similar layout to [[Karam and Nayan's House]].
 		    The greater your magic power, the brighter and more vivid the cloak will be. 
 		    If the cloak you have is close to darker shades, unfortunately, the magic power inside is quite low."**
 		- An Old book : “The history and Philosophy of Suda” 
-		> (Introduction) ”…When the seasons changed, the pitiful humankind could not survive. How desperate and powerless the humanity was! Yet the [[Desirée - God of Wisdom|Wise One]] believed them, that miserable creatures. Thus, the knowledge is granted to the mankind. So much so that not a single trace of ignorance remains…”
+		> (Introduction) ”…When the seasons changed, the pitiful humankind could not survive. How desperate and powerless the humanity was! Yet the [[Desirée - 'God of Wisdom'|Wise One]] believed them, that miserable creatures. Thus, the knowledge is granted to the mankind. So much so that not a single trace of ignorance remains…”
 	- Once the power is out and you go upstairs, a sound cue will play. Go back to the living room and a book should have fallen. 
 		>	'A children's book with a plain cover.'
 		>**"Once upon a time, in a house where beautiful and lovely cats lived, The owner brought a new kitten. All the other cats were excited to see their new friend. 

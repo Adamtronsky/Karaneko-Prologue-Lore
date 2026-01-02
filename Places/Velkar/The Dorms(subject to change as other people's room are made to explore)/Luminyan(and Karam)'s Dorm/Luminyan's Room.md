@@ -12,7 +12,7 @@ As well, the room is much more disorderly than any seen before.
 - Interacting with the shelves:
 	- (Right shelf):
 >		"An Old-looking notebook with a bunch of post-its and paper clips attached to it. A piece of paper is about to fall…"		
-**'Day: 877. Losing My Faith.  That is all the grubby soul of a rotten body. It is on cloud nine, yet no urge to pretend to be oneself. The [[Desirée - God of Wisdom|Wise One]] does but misgie the way of truth. No one dares to give their word to… That being the case, oneself lost its humanity on the way of a great desire. Only a pitiful coward remained. All alone in a full of emptiness.'**
+**'Day: 877. Losing My Faith.  That is all the grubby soul of a rotten body. It is on cloud nine, yet no urge to pretend to be oneself. The [[Desirée - 'God of Wisdom'|Wise One]] does but misgie the way of truth. No one dares to give their word to… That being the case, oneself lost its humanity on the way of a great desire. Only a pitiful coward remained. All alone in a full of emptiness.'**
 	- (Left shelf):
 	> 	"A very thick booklet with a glossy finish. It says, 'Instruction Manual for NEKO1800' on its cover."
 **'Your NEKO 1800 table saw is designed for the slicing and cross-cutting of any kinds of ‘material’ proportional with the machine’s size. It is intended for professional use'**
