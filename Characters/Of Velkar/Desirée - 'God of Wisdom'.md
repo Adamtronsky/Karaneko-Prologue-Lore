@@ -2,5 +2,8 @@
 
 - Has blessed their region with Knowledge, 
 	>"So much so that not a single trace of ignorance remains…" [^1] 
+- 
 
-[^1]: [[Central Rooms^]]
+
+
+[^1]: [[Central Rooms#^dfd5af]]
