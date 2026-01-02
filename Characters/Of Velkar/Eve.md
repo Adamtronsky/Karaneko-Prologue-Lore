@@ -1,7 +1,7 @@
 ---
 ~
 ---
-![[Temp Eve.png | center]]
+![[Kickstarter Eve.png| center]]
 >"Eve. A rather serious looking individual. She is a senior at 'The Academy', characterized by her fox-like ears and red accents that also serve to support the ferocity in her character. She may come off as grumpy, especially so when bearing a sharp visage. But…
 >Oh, well. Every 'sinner' has their future."
 
