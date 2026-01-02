@@ -1,3 +1,4 @@
+![[Kickstarter Laschka.png |center]]
 - [[Karam (Velkar)]] is Laschka’s new friend :)
 - Has been here for a while in his ~~sister~~ cousin [[Eve]]’s room.
 - [[Luminyan]]’s teacher ordered him personally to take care of Laschka.
