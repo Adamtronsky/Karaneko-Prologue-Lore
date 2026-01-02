@@ -2,9 +2,7 @@
 
 - Has blessed their region([[Vegoia]]) with Knowledge, 
 	>"So much so that not a single trace of ignorance remains…" [^1] 
-
-	And magic.
-- Vegoia was ble
+- Vegoia was also given Magic b
 - A book mentioning the Wise One: [[Luminyan's Room#^b6affa]].
 
 
