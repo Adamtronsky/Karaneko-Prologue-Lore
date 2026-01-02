@@ -5,10 +5,10 @@
 - The person who gave Yurim  seeds. Also saying that:
 	>"If you plant these seeds and water them every day, one day, they'll turn into something you'll really love."
 - He's the friend that told Yurim about the [[Black Flower]]s, and how they 'bring people closer together'.
-- (According to Kickstarter information of "Rabbit Route") Finnion(and Nayan) could be at [[Ninova]] according to some 'clues.'(Added due to being a non contradicted point.)
+- (According to Kickstarter information of "Rabbit Route") Finnion(and [[Nayan]]) could be at [[Ninova]] according to some 'clues'.
 
 
-(**REMINDER:** the following caturdays contradict each other and the game. Take the below lightly. )
+
 - **Relevant caturdays:**
 	- An iteration of how Yurim first met Finnion:(https://discord.com/channels/1046929328451112980/1047284163906129960/1226216378181226538)
 	- Luminyan has been declared missing:(https://discord.com/channels/1046929328451112980/1047284163906129960/1233887309477187655)
