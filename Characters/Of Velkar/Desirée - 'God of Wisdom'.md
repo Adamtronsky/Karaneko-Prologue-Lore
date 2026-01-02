@@ -1,1 +1,1 @@
-![[Sprite1037.png]]
+![[Vegoia's God of Wisdom.png | center]]
