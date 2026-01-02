@@ -1,1 +1,3 @@
-![[Vegoia's God of Wisdom.png | center]]
+![[Vegoia's God of Wisdom.png |center]] 
+
+- h
