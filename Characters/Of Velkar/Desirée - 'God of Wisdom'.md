@@ -2,7 +2,7 @@
 
 - Has blessed their region([[Vegoia]]) with Knowledge, 
 	>"So much so that not a single trace of ignorance remains…" [^1] 
-- Vegoia was also given Magic by Desirée planting a pomegranate tree(referred to as 'The Divine Tree') that bestowed
+- Vegoia was also given Magic by Desirée planting a pomegranate tree(referred to as 'The Divine Tree'). With the p
 - A book mentioning the Wise One: [[Luminyan's Room#^b6affa]].
 
 
