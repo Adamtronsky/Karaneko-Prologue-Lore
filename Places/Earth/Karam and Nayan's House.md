@@ -6,7 +6,7 @@
 - Although never commented on afterwards, There are similar cat towers in [[Yurim's House]]
 - It is [[Nayan]] that takes care of plants here.
 - A football is left in a corner, reminding you of when you covered [[Ark]] by taking the blame of him breaking the window. Your [[Mother]] wasn't mad at you, instead she was proud, and everyone liked your initiative. Karam hurts from the "what if"'s
-- [[Mupto]] left his controller home a long time ago
+- [[Mupton]] left his controller home a long time ago
 - In the kitchen there is a single chair, perfect for solo dining. 
 
 

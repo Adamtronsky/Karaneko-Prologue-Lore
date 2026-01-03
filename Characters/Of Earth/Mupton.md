@@ -5,3 +5,4 @@
 - - Is not studious
 - Hangs out with Sari
 - Is the store clerk
+
