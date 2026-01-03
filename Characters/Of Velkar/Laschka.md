@@ -1,6 +1,6 @@
 ![[Kickstarter Laschka.png |center]]
-- (While not explicitly stated anywhere) Blessed by a Animal spirit of dog.
-- Has been here for a while in his ~~sister~~ cousin [[Eve]]’s room.
+- (While not explicitly stated anywhere) Blessed by a Dog Animal Spirit.
+- Cousins with [[ev]]
 - [[Luminyan]]’s teacher ordered him personally to take care of Laschka.
 - Laschka comes from Far lands so he knows English but is still struggling with the language sometimes as he speaks with simple sentences.
 

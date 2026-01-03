@@ -5,7 +5,7 @@
 >"Eve. A rather serious looking individual. She is a senior at 'The Academy', characterized by her fox-like ears and red accents that also serve to support the ferocity in her character. She may come off as grumpy, especially so when bearing a sharp visage. But…
 >Oh, well. Every 'sinner' has their future."
 
-- Of the Fox Clan. Yet her current status within it is undeterminable.
+- Of the Fox Clan. Yet her current status within it is undeterminable; Blessed by a Fox Animal Spirit.
 - Cousins with [[Laschka]].
 - The founder of a small but "powerful rebellious gang" in [[Ryuujin]]. Despite denying being called 'Boss'[^1]], [[Laschka]] himself says that Eve is a good leader.
 - Can easily recognize a wolf's scent, as observed in the ending where you leave Yurim to die to it [^2]
