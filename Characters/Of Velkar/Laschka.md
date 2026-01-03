@@ -12,4 +12,5 @@ When picked as the leader to combat:
 - Eats food at the beginning of a turn.
 
 Relevant caturdays:
+- Laschka pranking [[Eve]], partly an introduction as well: (https://discord.com/channels/1046929328451112980/1047284163906129960/1224457087350734960)
 - 
