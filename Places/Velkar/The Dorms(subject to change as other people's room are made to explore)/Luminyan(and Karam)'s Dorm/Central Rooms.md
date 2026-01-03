@@ -22,7 +22,7 @@ Bears a similar layout to [[Karam and Nayan's House]].
 	- Books in the main living area(From right-most to left-most):
 		- A dusty novella: "[[The sun cat]]"
 		- A completely burned book, its pieces of paper falling apart as smokey ashes.
-		- An Old book: “Magic for beginners”. It has a page that is about to fall off.
+		- An Old book: "[[Magic for beginners]]". It has a page that is about to fall off.
 		> 'What is the cloak? What does it do?'
 		    **"The cloak that is given to you  from the very first moment of gaining your magic power serve a quite important function. 
 		    The cloak you have is a visual representation of the amount of your power. 
