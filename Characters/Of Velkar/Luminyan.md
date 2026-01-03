@@ -1,6 +1,7 @@
+![[Kickstarter Luminyan.png |center]]
+> "Like looking down at a clear pond. Luminyan is appears as a well performative student, characterized by his fervent yellow accents. A brightly warm hue, similar to his exhuming kindness. But saints have their pasts, or in this case, their veiled present.
 
-- Is protective of his belongings, as hinted by the note on a shelf in [[Central Rooms]].
-- His distinctive symbol is a sort of upward crescent moon. It is visible on his hat, as well as his door, Magicaster cursor, and combat symbol.
+- 
 
 
 
@@ -18,4 +19,6 @@ Him bringing up the health of Karam hints at the idea that his ritual was meant 
 - A slip of mouth indicates he doesn’t like [[Laschka]]? He was ordered by his teacher to take care of him and that bothers him. But also he refers to Laschka as “my dear friend” (potentially hypocrite).
 
 - His route is the “Hypocrita” route. Surely he’s hypocrite and hides a lot of secrets from everyone.
+
+
 
