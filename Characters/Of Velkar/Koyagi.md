@@ -1,10 +1,9 @@
 ![[Kickstarter Koyagi.png |center]]
 
 - (According to Kickstarter)Also known as **Chief Detective** Koyagi.
-- Has years of experience fighting shadow mages for Vegoia.
-- Owns the sword "Zephyr", that "neutralizes and traps dark magic."
-- Particularly good at her job. Whilst also being a lone-wolf
-
+- Experienced in fighting "Shadow Mages", for [[Vegoia]].
+- Owns(and wields) the sword "Zephyr". A sword that "neutralizes and traps dark magic."
+- A detective that works alone and with secrecy.
 
 
 - Relevant caturdays:
