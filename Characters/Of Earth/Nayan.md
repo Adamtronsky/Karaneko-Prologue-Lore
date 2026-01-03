@@ -1,6 +1,6 @@
 - [[Karam(Earth)]]'s little brother
 - adorable ball of brotherly cuteness
-- Completed [[Touhou]] easy mode! Took him all night! ggs
+- Completed [[Douhou]] easy mode! Took him all night! ggs
 - Challenges [[Karam(Earth)]] to gaming duels often, though he seems to always lose. The singular exception being a pillow fight with Voli the pirate whale. He doesn't always finish his chess matches properly.
 - Loves his brother.
 - Is confident in his cooking skills, but not very proficient. Relying despite his best efforts on big bro Karam.
