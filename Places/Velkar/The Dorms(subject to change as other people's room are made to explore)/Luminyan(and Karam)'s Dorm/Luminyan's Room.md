@@ -15,10 +15,9 @@ As well, the room is much more disorderly than any seen before.
 - A dusty bedside drawer, its gas lamp is no longer lit. (Noted for odd remark)
 - Top left is Luminyan's bed with four pillows. There's apparently something behind the pillow pile.
 - Under the bed is dysfunctional rabbit’s head. Cottons are scattered under the bed.
-- On the desk(If entered early):
-	 - An interactable [[Magicaster(s)|Magicaster]] which shows a 'computer screen' with a dark night wallpaper, an empty bin and folder. ![[Luminyan's Magicaster.png]]
-	 - The key will also be absent from the desk until Luminyan leaves with [[Laschka]] to check on the 'power switch'
 - On the desk:
+	 - (Only If entered early)An interactable [[Magicaster(s)|Magicaster]] which shows a 'computer screen' with a dark night wallpaper, an empty bin and folder. ![[Luminyan's Magicaster.png]]
+	 - (If entered early)The key will be absent from the desk until Luminyan leaves with [[Laschka]] to check on the 'power switch'.
 	- A cracked orb.
 	- A warm incandescent key.
 		![[Lumi's room after the training session.png]]
