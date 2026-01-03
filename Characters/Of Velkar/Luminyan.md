@@ -5,10 +5,6 @@
 
 
 
-In front of the door to [[Luminyan's Room]]:
-	- Notices that “You are quite vigorous”… 
-	- States his room is messy and that he is tired as an excuse to not let Karam come in (while having cold sweat). Yet, we meet him shortly after for the [[Training session]]. What a liar…
-	- **You can dupe him by knocking on the door and hide in the bathroom**, thinking Laschka played a prank on him, he goes downstairs and leaves his door open. You then can greet him downstairs for an awkward interaction.. where he kinda suspects you of having knocked.
 
 He conducted a [[Luminyan's Ritual|ritual]] in his room: 
 - In-game we can see the remains of a doll used for the ritual, with black strands of hair in it.
