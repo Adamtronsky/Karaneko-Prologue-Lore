@@ -10,3 +10,6 @@ When picked as the leader to combat:
 - WASD to shoot projectiles.
 - Does not use magic, instead, Luminyan’s magic may restore his health .
 - Eats food at the beginning of a turn.
+
+Relevant caturdays:
+- 
