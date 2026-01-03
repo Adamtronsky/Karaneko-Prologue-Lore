@@ -11,15 +11,13 @@ As well, the room is much more disorderly than any seen before.
 >	"All the flowers are dead."
 - Interacting with the shelves: 
 	- (Right shelf): "[[An Old-looking notebook with a bunch of post-its and paper clips attached to it. A piece of paper is about to fall…]]"
-	- (Left shelf):
-	> 	"A very thick booklet with a glossy finish. It says, 'Instruction Manual for NEKO1800' on its cover."
-**'Your NEKO 1800 table saw is designed for the slicing and cross-cutting of any kinds of ‘material’ proportional with the machine’s size. It is intended for professional use'**
+	- (Left shelf): "[[A very thick booklet with a glossy finish. It says, 'Instruction Manual for NEKO1800' on its cover.]]"
 - A dusty bedside drawer, its gas lamp is no longer lit. (Noted for odd remark)
 - Top left is Luminyan's bed with four pillows. There's apparently something behind the pillow pile.
 - Under the bed is dysfunctional rabbit’s head. Cottons are scattered under the bed.
 - On the desk(If entered early):
 	 - An interactable [[Magicaster(s)|Magicaster]] which shows a 'computer screen' with a dark night wallpaper, an empty bin and folder. ![[Luminyan's Magicaster.png]]
-	 - The key is absent.
+	 - The key will also be absent from the desk until Luminyan leaves with [[Laschka]] to check on the 'power switch'
 - On the desk:
 	- A cracked orb.
 	- A warm incandescent key.
