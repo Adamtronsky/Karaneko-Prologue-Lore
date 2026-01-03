@@ -13,4 +13,4 @@ When picked as the leader to combat:
 
 Relevant caturdays:
 - Laschka pranking [[Eve]], partly an introduction as well: (https://discord.com/channels/1046929328451112980/1047284163906129960/1224457087350734960)
-- 
+- Laschka getting kicked out of [[Eve]]'s room for being too messy, but also part of his view on her: (https://discord.com/channels/1046929328451112980/1047284163906129960/1327721213702836316)

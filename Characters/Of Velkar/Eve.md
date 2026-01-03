@@ -17,7 +17,7 @@
 
 - **Relevant caturdays:**
 	- Vaguely implying something when Eve gets overwhelmed: (https://discord.com/channels/1046929328451112980/1047284163906129960/1393723136712773632)
-	- [[Laschka]]'s point of view of Eve: (https://discord.com/channels/1046929328451112980/1047284163906129960/1327721213702836316)
+	- Eve kicking(Not literally and not permanently) [[Laschka]] out of her room for being messy: (https://discord.com/channels/1046929328451112980/1047284163906129960/1327721213702836316)
 	- Eve sharing details about herself: (https://discord.com/channels/1046929328451112980/1047284163906129960/1259259144129613907)
 	- Insight on Eve's past: (https://discord.com/channels/1046929328451112980/1047284163906129960/1332753578883813497)
 
