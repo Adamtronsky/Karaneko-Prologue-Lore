@@ -20,7 +20,7 @@ Bears a similar layout to [[Karam and Nayan's House]].
 	![[1st floor living room.png]] ^dfd5af
 	- Besides the books, there is nothing much of note besides the various colored pots with plants.
 	- Books in the main living area(From right-most to left-most):
-		- "[[A dusty novella -'The sun cat']]"
+		- A dusty novella: "[[The sun cat]]"
 		- A completely burned book, its pieces of paper falling apart as smokey ashes.
 		- An Old book: “Magic for beginners”. It has a page that is about to fall off.
 		> 'What is the cloak? What does it do?'
