@@ -31,7 +31,7 @@ Oh, well. Every 'sinner' has their future."
 
 
 ```ad-example
-title: Caturday post <mark style="background: #FF5582A6;">Vaguely implying something when Eve gets overwhelmed</mark>
+title: Caturday - <mark style="background: #FF5582A6;">Vaguely implying something when Eve gets overwhelmed</mark>
 
 I know I don’t show up here very often; this is usually Yurim’s corner. But this week, Yurim has withdrawn into herself and doesn’t feel like talking… So I took on the responsibility instead. Otherwise, <mark style="background: #BBFABBA6;">we’d have had to make Eve talk, and we all know what happens when Eve gets overwhelmed hahahha!</mark>
 https://discord.com/channels/1046929328451112980/1047284163906129960/1393723136712773632
