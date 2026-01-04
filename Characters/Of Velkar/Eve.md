@@ -12,7 +12,8 @@ Oh, well. Every 'sinner' has their future."
 - Of the Fox Clan. Yet her current status within it is undeterminable; Blessed by a Fox Animal Spirit.
 - Cousins with [[Laschka]].
 - The founder of a small but "powerful rebellious gang" in [[Ryuujin]]. Despite denying being called 'Boss'([[Kickstarter page]])], [[Laschka]] himself says that Eve is a good leader.
-- Can easily recognize a wolf's scent, as observed in the ending where you leave Yurim to die to it [^2]
+- Can easily recognize a wolf's scent, as observed in the ending where you leave Yurim to die to it [^2] 
+- [ ] <mark style="background: #FF5582A6;">Add more detail to above bullet ^</mark>
 - Harbors a cloak "resembling a fox's tail."
 - Loves listening to music(in secret); hates being disturbed during it. And her favorite food is red salmon
 - Keeps her room tidy; gets angry at [[Laschka]] for being messy.
@@ -103,7 +104,10 @@ https://discord.com/channels/1046929328451112980/1047284163906129960/13327535788
 ```
 
 
+
 # [^2]: Need more details on this.
+
+
 
 **Con Cogitatio Log:**
 | 

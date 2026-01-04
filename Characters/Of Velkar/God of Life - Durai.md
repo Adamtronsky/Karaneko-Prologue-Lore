@@ -1,5 +1,8 @@
 ![[God of Life.png]]
 
+![[Durai - God of Life.jpg]]
+
+
 - Has made "Order" the foundation of their region([[Ryuujin]])
 - Their blessing were Animal Spirits.
 

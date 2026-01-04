@@ -9,7 +9,7 @@
 
 He conducted a [[Luminyan's Ritual|ritual]] in his room: 
 - In-game we can see the remains of a doll used for the ritual, with black strands of hair in it.
-- In the 8/2/2025 CN entry is described the event. [write moar]
+- In the 8/2/2025 CN entry is described the event. [write moar] 
 
 
 
