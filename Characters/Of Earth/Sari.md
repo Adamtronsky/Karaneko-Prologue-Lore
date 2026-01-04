@@ -1,5 +1,5 @@
 ![[Sari Portrait.png| center]]
 - Womanizer ('Countless girlfriends')
 - Ends up smoking after [[The Incident]] (you can see him smoke when returning to the store)
-- <mark style="background: #FF5582A6;">He gets really mad at</mark> [[Karam(Earth)]] if you beat [[Ark]] up, not recognizing the best friend you used to be, and loses all respect for Karam. This very probably will have consequences later in the full game.
+- <mark style="background: #FF5582A6;">He gets really mad at</mark> [[Karam(Earth)]] if you beat [[Ark]] up, not recognizing the best friend you used to be, and loses all respect for Karam. <span style="color:rgb(255, 192, 0)">This very probably will have consequences later in the full game.</span>
 - Was studious

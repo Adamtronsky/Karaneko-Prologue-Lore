@@ -1,4 +1,4 @@
-- Is cute (->[[CuteYurim.png]])
+- Is cute
 - Likes toppling my bottles •\`w´•
 
 Cat Yurim:

@@ -1,10 +1,9 @@
 - cool ppl
-- [[Karam(Earth)]] is boss; the whole gang is very attached to Karam, and the situation degraded for everyone once Karam isolated himself.
+- [[Karam(Earth)]] is boss; the whole gang is very attached to Karam, and the situation degraded for everyone once Karam isolated himself due to [[The Incident]]
 - [[Sari]]
 - Used to have tournaments every week at [[Karam and Nayan's House|Karam's]]. [[Mupton]] forgot his controller there
 - [[Ark]]
 - [[Skip]]
-- [[Fites]]
 - [[Fitty]]
 - [[Lain]]
 - [[Mupton]]
