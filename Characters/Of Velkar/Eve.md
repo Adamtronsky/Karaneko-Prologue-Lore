@@ -2,15 +2,19 @@
 ~
 ---
 ![[Kickstarter Eve.png| center]]
->"Eve. A rather serious looking individual. She is a senior at 'The Academy', characterized by her fox-like ears and red accents that also serve to support the ferocity in her character. She may come off as grumpy, especially so when bearing a sharp visage. But…
->Oh, well. Every 'sinner' has their future."
+>
 
+```ad-quote
+"Eve. A rather serious looking individual. She is a senior at 'The Academy', characterized by her fox-like ears and red accents that also serve to support the ferocity in her character. She may come off as grumpy, especially so when bearing a sharp visage. But…
+Oh, well. Every 'sinner' has their future."
+
+```
 - Of the Fox Clan. Yet her current status within it is undeterminable; Blessed by a Fox Animal Spirit.
 - Cousins with [[Laschka]].
-- The founder of a small but "powerful rebellious gang" in [[Ryuujin]]. Despite denying being called 'Boss'[^1]], [[Laschka]] himself says that Eve is a good leader.
+- The founder of a small but "powerful rebellious gang" in [[Ryuujin]]. Despite denying being called 'Boss'([[Kickstarter page]])], [[Laschka]] himself says that Eve is a good leader.
 - Can easily recognize a wolf's scent, as observed in the ending where you leave Yurim to die to it [^2]
 - Harbors a cloak "resembling a fox's tail."
-- Loves listening to music(in secret); hates being disturbed during it. And her favourite food is red salmon
+- Loves listening to music(in secret); hates being disturbed during it. And her favorite food is red salmon
 - Keeps her room tidy; gets angry at [[Laschka]] for being messy.
 
 
@@ -20,10 +24,7 @@
 	- Eve kicking(Not literally and not permanently) [[Laschka]] out of her room for being messy: (https://discord.com/channels/1046929328451112980/1047284163906129960/1327721213702836316)
 	- Eve sharing details about herself: (https://discord.com/channels/1046929328451112980/1047284163906129960/1259259144129613907)
 	- Insight on Eve's past: (https://discord.com/channels/1046929328451112980/1047284163906129960/1332753578883813497)
-
-[^1]: Insert kickstarter here.
 	
-
 [^2]: Need more details on this.
 
 **Con Cogitatio Log:**
