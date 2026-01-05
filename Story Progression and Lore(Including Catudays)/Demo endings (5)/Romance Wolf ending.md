@@ -1,4 +1,4 @@
-
+![[sFinalYurim_0.png]]
 The Romance variant of the Wolf ending
 
 How to proceed

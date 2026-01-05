@@ -1,4 +1,4 @@
-
+![[sFinalAcademy_0.png]]
 The Bad variant of the Wolf ending
 
 How to proceed

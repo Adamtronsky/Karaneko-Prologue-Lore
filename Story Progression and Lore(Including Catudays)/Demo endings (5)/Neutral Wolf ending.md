@@ -1,4 +1,4 @@
-
+![[sFinalNormal_0.png]]
 The Neutral variant of the Wolf ending
 
 How to proceed

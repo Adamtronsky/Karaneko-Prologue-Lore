@@ -1,4 +1,4 @@
-
+![[KARANEKO lore/Images/sFinalShadow_0.png]]
 The Neutral variant of the Dagger ending
 
 How to proceed

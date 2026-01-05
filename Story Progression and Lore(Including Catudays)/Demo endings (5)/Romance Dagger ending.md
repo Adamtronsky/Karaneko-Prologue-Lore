@@ -1,4 +1,4 @@
-
+![[sFinalX_0.png]]
 The Romance variant of the Dagger ending
 
 How to proceed
