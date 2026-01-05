@@ -47,6 +47,7 @@ Ping `@Pralii~~` or `@Solv` for help.
 Big thanks to:
 - **The KARANEKO team** for making this awesome universe
 - **Mau** and **Power**, part of the dev team and discord staff for answering some of our questions with well-placed comments about our ramblings
+- **Pralii** for being the center of this project, and always there to fix issues and theorize.
 - **Solv** for being the igniting spark *"you should do a video"* and engine of this project
 - **Alec** for hanging out and being moral support and digging up sprites
 - **Deder** for hanging out often and being moral support, finding things out and analyzing the official Karaneko OST 
