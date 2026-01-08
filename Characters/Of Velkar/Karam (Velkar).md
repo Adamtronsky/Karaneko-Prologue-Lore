@@ -9,4 +9,5 @@
 
 
 
-[^1]: ![[Pasted image 20260108103800.png |Kickstarter]]
+[^1]: Kickstarter Luminyan Character intro![[Pasted image 20260108103800.png]] 
+ 
