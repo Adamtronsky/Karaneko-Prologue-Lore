@@ -5,13 +5,11 @@
 - Besides being a student of [[The Academy]], he also follows <span style="color:rgb(251, 254, 77)">his mentor,</span> [[William Carlyle]].[^1]
 - <span style="color:rgb(255, 66, 195)">A Senior student</span> of [[The Academy]](A contradiction with the game)
 - ![[sLumiNU_1.png]]<span style="color:rgb(122, 211, 255)">His cloak resembles a tail</span>, though not that of an animal.
-- Quite the cunning individual.[^2]
+- <span style="color:rgb(122, 211, 255)">Quite the cunning individual.</span>[^2]
+
+- Took a handwritten spell tucked in [[William Carlyle |Carlyle]]’s book of “Love Spells and Other Curses” called “Haresomnus”, and committed the ritual for it in his room, directed towards Karam(Ambiguous). The remnants of the failed ritual remain in his room in-game.
 
 
-
-He conducted a [[Luminyan's Ritual|ritual]] in his room: 
-- In-game we can see the remains of a doll used for the ritual, with black strands of hair in it.
-- In the 8/2/2025 CN entry is described the event. [write moar] 
 
 
 
