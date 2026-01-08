@@ -5,8 +5,7 @@
 > [!quote] 
 > "So much so that not a single trace of ignorance remains…" [[Central Rooms#^dfd5af]]
 > 
-
-
+- Along with it, “Magic”
 ```ad-cite
 Vegoia was also given Magic by Desirée planting a pomegranate tree(referred to as 'The Divine Tree'). With the pomegranates themselves granting Magic https://discord.com/channels/1046929328451112980/1047284163906129960/1266828898188918835
 
