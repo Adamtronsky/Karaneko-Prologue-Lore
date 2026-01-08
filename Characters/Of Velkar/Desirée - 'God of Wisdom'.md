@@ -11,7 +11,7 @@ Vegoia was also given Magic by Desirée planting a pomegranate tree(referred to 
 
 ```
 
-- A book mentioning the Wise One: [[Luminyan's Room#^b6affa]].
+- A book mentioning the Wise One: [[
 
 ```ad-example
 title: Caturday post 
