@@ -5,6 +5,7 @@
 - Besides being a student of [[The Academy]], he also follows <span style="color:rgb(251, 254, 77)">his mentor,</span> [[William Carlyle]].[^1]
 - <span style="color:rgb(255, 66, 195)">A Senior student</span> of [[The Academy]](A contradiction with the game)
 - ![[sLumiNU_1.png]]<span style="color:rgb(122, 211, 255)">His cloak resembles a tail</span>.
+- 
 
 
 
