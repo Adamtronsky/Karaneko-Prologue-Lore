@@ -25,11 +25,6 @@ Oh, well. Every 'sinner' has their future."
 ```
 
 - **Relevant caturdays:**
-	- Eve kicking(Not literally and not permanently) [[Laschka]] out of her room for being messy: (https://discord.com/channels/1046929328451112980/1047284163906129960/1327721213702836316)
-	- Eve sharing details about herself: (https://discord.com/channels/1046929328451112980/1047284163906129960/1259259144129613907)
-	- Insight on Eve's past: (https://discord.com/channels/1046929328451112980/1047284163906129960/1332753578883813497)
-
-
 ```ad-example
 title: Caturday - <mark style="background: #FF5582A6;">Vaguely implying something when Eve gets overwhelmed</mark>
 
