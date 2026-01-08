@@ -4,8 +4,8 @@
 - [[Luminyan's Room |Roommates]] with [[Karam (Velkar)]].
 - Besides being a student of [[The Academy]], he also follows <span style="color:rgb(251, 254, 77)">his mentor,</span> [[William Carlyle]].[^1]
 - <span style="color:rgb(255, 66, 195)">A Senior student</span> of [[The Academy]](A contradiction with the game)
-- ![[sLumiNU_1.png]]<span style="color:rgb(122, 211, 255)">His cloak resembles a tail</span>.
-- 
+- ![[sLumiNU_1.png]]<span style="color:rgb(122, 211, 255)">His cloak resembles a tail</span>, though not that of an animal.
+- Quite the cunning individual.[^2]
 
 
 
@@ -18,3 +18,5 @@ He conducted a [[Luminyan's Ritual|ritual]] in his room:
 
 
 [^1]: ![[Pasted image 20260108105814.png]]
+
+[^2]: https://discord.com/channels/1046929328451112980/1047284163906129960/1325178255900282981
