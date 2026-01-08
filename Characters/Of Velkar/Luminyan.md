@@ -2,7 +2,7 @@
 > "Like looking down at a clear pond. Luminyan is appears as a well performative student, characterized by his fervent yellow accents. A brightly warm hue, similar to his exhuming kindness. But saints have their pasts, or in this case, a veiled present.
 
 - A student under [[William Carlyle]].
-- wait
+- 
 
 
 
