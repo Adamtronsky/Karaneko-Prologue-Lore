@@ -1,7 +1,7 @@
 ![[Kickstarter Luminyan.png |center]]
 > "Like looking down at a clear pond. Luminyan appears as a well performative student, characterized by his fervent yellow accents–A brightly warm hue, similar to his exhuming kindness. But saints have their pasts, or in this case, a veiled present.
 
-- Besides being a student of [[The Academy]], also
+- Besides being a student of [[The Academy]], <span style="color:rgb(251, 254, 77)">he also follows his mentor,</span> [[William Carlyle]]
 - 
 
 
