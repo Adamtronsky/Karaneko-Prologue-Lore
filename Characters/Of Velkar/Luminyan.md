@@ -80,6 +80,42 @@ One task followed another -homework, endless lessons, community service duties, 
 By the time you finish reading this, I’ll be right behind you.
 ```
 
+```ad-example
+title: Luminyan performs a spell, "Haresomnus", on Karam
+
+We are in need of time. And of the things it may allow us to acquire.
+
+While I am consumed by this longing, for certain beings, time is but air and water: Trivial, infinite, and easily cast aside. They slip their claws free with a pitiful kind of escape, sealing both ends of the truth with a wall of secrets.
+
+Yet, fortunately, even the most meticulously guarded wall is not impervious. A few days ago, I stumbled upon something that gave me a sliver of hope, left carelessly on Carlyle’s desk: The book called “Love Spells and Other Curses”. Tucked between pages filled with hexes that can melt someone’s internal organs was a torn scrap of paper with a handwritten recipe: *Haresomnus*.
+
+In case Carlyle notices I took his book and one of his concealed spells, I am recording the details here. 
+
+**(DO NOT ATTEMPT THIS SPELL!)**
+
+**Main ingredients: **A plush bunny toy and a lock of hair from the person you are targeting.
+
+1. Place protective stones around the room and ensure that no sunlight is getting in.,
+
+2. Position two black candles upon the ground: One coated with olive oil and the other with mugwort essence, and ignite both using your own magic. Now, the plush bunny…,
+
+3. With a blade forged of high-carbon steel, sever the rabbit’s head cleanly from its body.,
+
+4. Onto the stuffing, add -in order- bat’s blood ink, dried astragalus root, a small white onion (chopped), two whole star anise, and lastly, the lock of hair.,
+
+5. Using a thick needle, reattach the bunny’s head back on. Once complete, all that remains is to place your hand upon the toy and glimpse into the deepest corners of his mind-,
+
+…
+
+….
+
+**Update: **
+The spell failed. 
+I checked the instructions again and again, but the plush filled up with a pitch black liquid, and while stitching the head, the needle tore through my fingers.
+
+I cannot help but wonder if the hair was the flaw in the ritual. Was it fake? 
+But I’m sure Karam doesn’t wear a wig.
+```
 
 
 [^1]: ![[Pasted image 20260108105814.png]]
