@@ -4,7 +4,7 @@
 
 
 - Has made "Order" the foundation of their region([[Ryuujin]])
-- Their blessing were Animal Spirits.
+- The blessing they granted were “Animal Spirits”
 
 
 
