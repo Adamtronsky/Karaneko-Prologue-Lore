@@ -64,7 +64,9 @@ Thanks to Vegocell's cutting-edge technology WitText device, you can now easily 
 
 Don't miss out on our exclusive **30% discount** for launch week! For more information, visit your nearest Vegocell store or our Magicaster network page.
 ```
-
+```ad-example
+title:
+```
 
 
 
