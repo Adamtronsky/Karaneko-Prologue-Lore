@@ -49,7 +49,21 @@ title: Caturday - Luminyan interviewing Oskos
 
 **Oskos:** Until the next encounter with my handsome visage, farewell!
 ```
+```ad-example
+title:A mysterious message with a mention of Luminyan
 
+Vegoia's fast and reliable communication service, **Vegocell**, achieves another milestone! Say goodbye to interruptions in 'consciouspell messaging' a̿͟͞n̿͟͞d̿͟͞
+
+*Now I know. All doubt has vanished. ███  death was nothing but a ruse, a calculated misdirection. ██████tracking our every step from the very beginning, and... The ██████ad been right there all along, hiding in plain sight, yet we were blissfully unaware!*is 
+
+Thanks to Vegocell's cutting-edge technology WitText device, you can now easily and quickly send your messages without any distortions! You can connect like never bef@$#r
+
+*That day, what Koyagi unknowingly pursued was not just a█████ dark magic. We had trusted her sword Zephyr too much. We████████ May the Wise One protect us; we are doomed!*
+
+*Listen. I need to warn Sir ██████ and Luminyan. It was █████████ who awa███ed ██████ and tricked us. I must hurry, or██████*
+
+Don't miss out on our exclusive **30% discount** for launch week! For more information, visit your nearest Vegocell store or our Magicaster network page. ||<@&1047914881816481875> ||
+```
 
 
 
