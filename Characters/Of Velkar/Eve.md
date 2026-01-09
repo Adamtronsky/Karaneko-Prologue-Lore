@@ -14,7 +14,7 @@ Oh, well. Every 'sinner' has their future."
 - [ ] <mark style="background: #FF5582A6;">Add more detail to above bullet ^</mark>
 - Harbors a cloak "resembling a fox's tail."
 - Loves listening to music(in secret); hates being disturbed during it. And her favorite food is red salmon
-- Keeps her room tidy; gets angry at [[Laschka]] for being messy.
+- Keeps her room tidy; gets angry at [[Laschka]] for being messy. <span style="color:rgb(122, 211, 255)">Sharing parallels with</span> [[Karam(Earth)]]
 
 - <span style="color:rgb(251, 254, 77)">Bears ill will towards the wolf clan</span>.[^1]
 
