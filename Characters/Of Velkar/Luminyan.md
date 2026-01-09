@@ -6,8 +6,8 @@
 - <span style="color:rgb(255, 66, 195)">A Senior student</span> of [[The Academy]](A contradiction with the game)
 - ![[sLumiNU_1.png]]<span style="color:rgb(122, 211, 255)">His cloak resembles a tail</span>, though not that of an animal.
 - <span style="color:rgb(122, 211, 255)">Quite the cunning individual.</span>[^2]
-
 - <span style="color:rgb(251, 254, 77)">Took a handwritten spell tucked in</span> [[William Carlyle |Carlyle]]’<span style="color:rgb(251, 254, 77)">s book of “Love Spells and Other Curses” called “Haresomnus”, and committed the ritual for it in his room, directed towards Karam(Ambiguous).</span> The remnants of the failed ritual remain in his room in-game.
+- 
 
 
 
