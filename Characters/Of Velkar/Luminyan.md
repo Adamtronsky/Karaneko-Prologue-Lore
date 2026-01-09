@@ -62,7 +62,7 @@ Thanks to Vegocell's cutting-edge technology WitText device, you can now easily 
 
 *Listen. I need to warn Sir ██████ and Luminyan. It was █████████ who awa███ed ██████ and tricked us. I must hurry, or██████*
 
-Don't miss out on our exclusive **30% discount** for launch week! For more information, visit your nearest Vegocell store or our Magicaster network page. ||<@&1047914881816481875> ||
+Don't miss out on our exclusive **30% discount** for launch week! For more information, visit your nearest Vegocell store or our Magicaster network page.
 ```
 
 
