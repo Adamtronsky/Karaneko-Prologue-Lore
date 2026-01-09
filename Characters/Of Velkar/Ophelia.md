@@ -1,1 +1,0 @@
-- Arrived the day before our arrival in the pink forest together with [[Oskos]] and [[Rosemyne]] according to Yurim.
