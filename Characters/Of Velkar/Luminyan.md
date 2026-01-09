@@ -9,8 +9,46 @@
 - <span style="color:rgb(251, 254, 77)">Took a handwritten spell tucked in</span> [[William Carlyle |Carlyle]]’<span style="color:rgb(251, 254, 77)">s book of “Love Spells and Other Curses” called “Haresomnus”, and committed the ritual for it in his room, directed towards Karam(Ambiguous).</span> The remnants of the failed ritual remain in his room in-game.
 - Dislikes seafood; likes reading, and tending a garden.[^3]
 
-- Relevant caturdays:
-	- 
+- Relevant caturdays:	
+```ad-example
+title: Caturday - Luminyan interviewing Oskos
+
+**Luminyan:** Well, I thank thee most kindly for gracing us with thy presence today.
+
+**Oskos:** Hahaha, verily, every soul deserveth to behold my magnificence at least once.
+
+**Luminyan: **Pray, let us commence with a brief self-introduction. When thou art ready.
+
+**Oskos: **I am Oskos, the mightiest servant of the Shadow Lord and the one destined to surpass him! One day, all shall witness my power and beg to serve me, hahaha!
+
+**Luminyan:** What is thy favorite food?
+
+**Oskos:** I typically enjoy feasting upon the meat I hunt myself, fresh and delectable. Hunting is a mere trifle for me, so I carry not provisions; when hunger strikes, I simply hunt a deer.
+
+**Luminyan: **Dost thou have any pleasures thou dost enjoy in thy free time?
+
+**Oskos: **In my free moments, I oft train, envisioning the day I shall vanquish the Shadow Lord, hahaha!
+
+**Luminyan:** Prithee, may I inquire thy age?
+
+**Oskos:** Believe it or not, I possess such power at merely 22 years! Hahaha!
+
+**Luminyan: **Art thou 22 years old?
+
+**Oskos:** Yes, surprised, aren't you?
+
+**Luminyan: **That is... most impressive. Hath anything occupied thy mind of late?
+
+**Oskos:** The relentless pursuit of maidens vexes me these days. I comprehend, were I a maiden, I would chase after myself as well, but I find it rather wearisome. To be both handsome and mighty is a heavy burden.
+
+**Luminyan:** I thank thee very much for this most valuable interview today.
+
+**Oskos:** 'Tis my pleasure. Mayhap, those who listen and etch my visage in their minds shall be rewarded in the future, hahaha!
+
+**Luminyan:** Well, fare thee well.
+
+**Oskos:** Until the next encounter with my handsome visage, farewell!
+```
 
 
 
