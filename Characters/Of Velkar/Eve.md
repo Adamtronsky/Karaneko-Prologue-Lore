@@ -16,11 +16,7 @@ Oh, well. Every 'sinner' has their future."
 - Loves listening to music(in secret); hates being disturbed during it. And her favorite food is red salmon
 - Keeps her room tidy; gets angry at [[Laschka]] for being messy.
 
-```ad-cite
-
-# <span style="color:rgb(205, 106, 251)">***CANONICALLY RACIST***</span> 
-
-```
+- Bears ill will towards the wolf clan
 
 - **Relevant caturdays:**
 ```ad-example

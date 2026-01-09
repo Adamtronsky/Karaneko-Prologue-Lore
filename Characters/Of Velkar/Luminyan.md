@@ -9,6 +9,7 @@
 - <span style="color:rgb(251, 254, 77)">Took a handwritten spell tucked in</span> [[William Carlyle |Carlyle]]’<span style="color:rgb(251, 254, 77)">s book of “Love Spells and Other Curses” called “Haresomnus”, and committed the ritual for it in his room, directed towards Karam(Ambiguous).</span> The remnants of the failed ritual remain in his room in-game.
 - Dislikes seafood; likes reading, and tending a garden.[^3]
 
+- Relevant caturdays:
 
 
 
