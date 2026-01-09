@@ -65,7 +65,19 @@ Thanks to Vegocell's cutting-edge technology WitText device, you can now easily 
 Don't miss out on our exclusive **30% discount** for launch week! For more information, visit your nearest Vegocell store or our Magicaster network page.
 ```
 ```ad-example
-title:
+title: Luminyan's Psuedo-Journal entry
+
+**Dearest Journal! ^^**
+
+This morning, I did awaken once more in the early hours, 'twas 6:47, if thou dost seek the precise hour. With haste, I did take a shower most swift. Afterward, I seized the supplements and coffee brought by that… Carlyle. He doth know I care not for breakfasts, yet he oft doth bring greasy pastries and sticky oatmeals that do irritates me. But today, he came empty-handed. Wasting not a moment, I seized my books and made haste to the Academy's library.
+
+One task followed another -homework, endless lessons, community service duties, garden work, a neglected lunch, checking on whether my roommate hath passed away or not, endless debates with Professor Erytheia, and long evening walks. And thus… The day’s 24 hours were spent.
+
+*Yesterday and the day before were exactly the same, weren’t they? In fact, today is even shorter, even more pointless. Don’t worry. Nothing new happened. Nothing will.*
+
+**NOTE** to the person who thinks they are secretly reading this during class breaks: I’ve already figured out who you are, and if you thought I’d give you such a ridiculous advantage about myself, you must be truly the biggest fool. Still, I’d love to sit down and have a conversation with you, and share the jasmine tea I just got, considering you have gone this far and still have not realized this so-called journal is a trap.
+
+By the time you finish reading this, I’ll be right behind you.
 ```
 
 
