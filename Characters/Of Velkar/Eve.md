@@ -95,7 +95,7 @@ https://discord.com/channels/1046929328451112980/1047284163906129960/13327535788
 ```ad-example
 title: Caturday - Eve apologizes for being mad, and shows her love for music
 
-*Uhm, uhm...* Greetings, Yurim’s readers, <:Eve_Music:1277762658548056145> 
+*Uhm, uhm...* Greetings, Yurim’s readers, 
 
 I have thought a lot after writing that angry message. Did I really need to be that mad at you? I don’t know. Maybe, I just took out my anger on you instead of *well, instead of Yurim.*
 
@@ -129,7 +129,7 @@ Switching before a song ends is an insult. Maybe the artist has a hidden perfect
 
 Avoid those soulless **"factory-made"** sounds that just fill your ears without meaning. They are made for slaves…** Don’t be one of them!**
 
-<:Eve_Music:1277762658548056145>  **3. How to listen to music the right way?** <:Eve_Music:1277762658548056145> 
+  **3. How to listen to music the right way?**  
 
 > **ONE:** Never listen to music in a crowd!
 >  
