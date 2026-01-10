@@ -93,6 +93,3 @@ title: (Albeit outdated)An instance of Oskos being teased for that little world 
 
 ```
 
-```ad-example
-title:
-```
