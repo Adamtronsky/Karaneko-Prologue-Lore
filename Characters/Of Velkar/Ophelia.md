@@ -1,4 +1,5 @@
 ![[sOpheliaSpk4.png | center]]
+- <span style="color:rgb(255, 176, 66)">Blessed with a Dragon animal spirit.</span>
 - Along with her brother [[Oskos]] and [[Rosemyne]], were the second instance of people who came to the [[Pink Forest |Forest]]. And according to Yurim, came the day before [[Karam (Velkar)]].
 - A supposed “merchant”.
 - (For intiality)Knows more about Yurim than she’s letting on; She intends to ‘Catch’ Yurim at the knife ending of the demo.
