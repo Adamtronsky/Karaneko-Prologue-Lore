@@ -5,5 +5,9 @@
 
 - Relevant caturdays:
 ```ad-example
-title: Caturday - 
+title: Caturday - Report
+
+”Ah, so *it* has been asleep all this time? Very well, Ophelia, we shall find a way before my mother learns of *it*.“
+
+![[Pasted image 20260110103523.png]]
 ```
