@@ -73,4 +73,22 @@ title: An interview of Oskos
 ```
 
 ```ad-example
+title: (Albeit outdated)An instance of Oskos being teased for that little world of his
+
+**Oskos:** Behold! We’ve discovered a most magnificent sanctuary, worthy of my greatness!
+**Oskos:** **We shall claim this place as our own!**
+
+**Ophelia:** Ah, our old friends, the spiders… If we don’t mind them, this place looks nice. We can fix it up.
+**Oskos: **Spiders, you say? Fret not, for they are my loyal vassals! 
+**Oskos:** Observe how that one winks! Truly a sweet creature , wouldn’t you agree?
+
+**Ophelia:** Tell those *"vassals"* of yours to leave this place to us for a few days, alright, my dear little brother?
+
+**Oskos:** Aha! A bed fit for royalty! Nay, for a sovereign such as I! It is mine, by decree of fate itself! Perhaps I shall grant Rose the honor of sharing it… *Hahaha!*
+**Ophelia:** Yes, yes, the bed is all yours, Oskos. Now go find Rose before it gets dark—*I’m starting to feel uneasy.*
+
+**Oskos: HAHAHA! Once again, I, the GREAT OSKOS, stand victorious! The cosmos itself bends to my will—none can best me!**
+
+**Ophelia:** Be sure to send my regards to the Shadow Lord on your way out, **"GREAT OSKOS!" **
+
 ```
