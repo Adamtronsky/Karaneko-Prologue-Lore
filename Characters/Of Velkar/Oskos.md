@@ -92,3 +92,7 @@ title: (Albeit outdated)An instance of Oskos being teased for that little world 
 **Ophelia:** Be sure to send my regards to the Shadow Lord on your way out, **"GREAT OSKOS!" **
 
 ```
+
+```ad-example
+title:
+```
