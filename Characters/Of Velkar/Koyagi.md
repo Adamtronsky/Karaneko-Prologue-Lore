@@ -1,10 +1,9 @@
 ![[Kickstarter Koyagi.png |center]]
 
 - (According to Kickstarter)Also known as **Chief Detective** Koyagi.
-- Experienced in fighting "Shadow Mages", for [[Vegoia]].
+- Experienced in fighting "Shadow Mages", for [[Vegoia]]. <span style="color:rgb(251, 254, 77)">Could also be of</span> [[Vegoia]]
 - Owns(and wields) the sword "Zephyr". A sword that "neutralizes and traps dark magic."
 - A detective that works alone and with secrecy.
-
 - (For intiality)Appears at the end of the knife ending in the demo following Karam, Ophelia, and Oskos as they go back for Yurim.
 
 - Relevant caturdays:
