@@ -1,5 +1,5 @@
 ![[sOpheliaSpk4.png | center]]
 - Along with her brother [[Oskos]] and [[Rosemyne]], were the second instance of real people that Yurim had met in the [[Pink Forest |Forest]].
 - A supposed “merchant”.
-- Knows more about Yurim than she lets on as she is investigating her.
+- (For intiality)Knows more about Yurim than she’s letting on; Yurim is a part of her mission
 - 
