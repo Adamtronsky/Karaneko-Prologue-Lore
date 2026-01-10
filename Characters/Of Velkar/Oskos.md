@@ -6,4 +6,71 @@
 - (For intiality)Goes along with her sister as she <span style="color:rgb(122, 211, 255)">investigates</span> Yurim.
 - <span style="color:rgb(122, 211, 255)">Complex behaviour, with narcissism acting as a base.</span> 
 
-- 
+- Relevant caturdays:
+```ad-example
+title: Caturday - (Contains contradicted info) Oskos beeing called a Dragon
+
+R: *''Hey look over there! Do you see that house?? We finally found our way! Let's go and ask where we are.''*
+
+ 
+
+This morning  a couple, a dragon named Oskos and a red haired priestess who calls herself Rose, knocked on my door asking for directions, they looked cute so I invited them in! They were really sweet to chat with, turns out they were lost in the forest and spent the night there. *A part of adventuring I suppose~*
+
+
+**Rose**: Guess its time I explain how we ended up here, is it not? Giggles and sips her tea You see, we were going through the forest and my dear dragon friend gave our map to a girl who merely asked for directions.. *sigh* 
+
+**Oskos**: We did not need it! With my lead we got to enjoy a beautiful night together in the forest, it was a great change of pace if you ask me hahah!
+
+**Rose**: Mmm.. Yeah you are right, just let me guide next time and we can have more our fun camping nights, deal? 
+
+**Oskos**: As long as I get to enjoy more of your cooking!
+
+**Yurim**: *Her eyes beamed in excitement Rosy~*   Would you prepare dinner tonight please! Don't worry about anything else! There is a lake nearby, lets go fishing Oskos! Come on!!  
+
+
+I pulled Oskos to fish at the nearby lake for our dinner meanwhile Rose prepared the table. Our evening was fun and delicious! She cooks really good, I hope they come visit again another day. *I miss them already~* 
+```
+
+```ad-example
+title: An interview of Oskos
+
+**Luminyan:** Well, I thank thee most kindly for gracing us with thy presence today.
+
+**Oskos:** Hahaha, verily, every soul deserveth to behold my magnificence at least once.
+
+**Luminyan: **Pray, let us commence with a brief self-introduction. When thou art ready.
+
+**Oskos: **I am Oskos, the mightiest servant of the Shadow Lord and the one destined to surpass him! One day, all shall witness my power and beg to serve me, hahaha!
+
+**Luminyan:** What is thy favorite food?
+
+**Oskos:** I typically enjoy feasting upon the meat I hunt myself, fresh and delectable. Hunting is a mere trifle for me, so I carry not provisions; when hunger strikes, I simply hunt a deer.
+
+**Luminyan: **Dost thou have any pleasures thou dost enjoy in thy free time?
+
+**Oskos: **In my free moments, I oft train, envisioning the day I shall vanquish the Shadow Lord, hahaha!
+
+**Luminyan:** Prithee, may I inquire thy age?
+
+**Oskos:** Believe it or not, I possess such power at merely 22 years! Hahaha!
+
+**Luminyan: **Art thou 22 years old?
+
+**Oskos:** Yes, surprised, aren't you?
+
+**Luminyan: **That is... most impressive. Hath anything occupied thy mind of late?
+
+**Oskos:** The relentless pursuit of maidens vexes me these days. I comprehend, were I a maiden, I would chase after myself as well, but I find it rather wearisome. To be both handsome and mighty is a heavy burden.
+
+**Luminyan:** I thank thee very much for this most valuable interview today.
+
+**Oskos:** 'Tis my pleasure. Mayhap, those who listen and etch my visage in their minds shall be rewarded in the future, hahaha!
+
+**Luminyan:** Well, fare thee well.
+
+**Oskos:** Until the next encounter with my handsome visage, farewell!
+
+```
+
+```ad-example
+```
