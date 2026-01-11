@@ -12,7 +12,7 @@ R: *''Hey look over there! Do you see that house?? We finally found our way! Let
 
  
 
-This morning  a couple, a dragon named Oskos and a red haired priestess who calls herself Rose, knocked on my door asking for directions, they looked cute so I invited them in! They were really sweet to chat with, turns out they were lost in the forest and spent the night there. *A part of adventuring I suppose~*
+This morning  a couple, a dragon named Oskos and a <span style="color:rgb(251, 254, 77)">red haired priestess who calls herself Rose</span>, knocked on my door asking for directions, they looked cute so I invited them in! They were really sweet to chat with, turns out they were lost in the forest and spent the night there. *A part of adventuring I suppose~*
 
 
 **Rose**: Guess its time I explain how we ended up here, is it not? Giggles and sips her tea You see, we were going through the forest and my dear dragon friend gave our map to a girl who merely asked for directions.. *sigh* 
@@ -29,7 +29,9 @@ This morning  a couple, a dragon named Oskos and a red haired priestess who call
 I pulled Oskos to fish at the nearby lake for our dinner meanwhile Rose prepared the table. Our evening was fun and delicious! She cooks really good, I hope they come visit again another day. *I miss them already~* 
 ```
 
-
+```ad-example
+title: 
+```
 
 
 

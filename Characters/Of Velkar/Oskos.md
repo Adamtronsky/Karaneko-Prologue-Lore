@@ -8,13 +8,13 @@
 
 - Relevant caturdays:
 ```ad-example
-title: Caturday - (Contains contradicted info) Oskos beeing called a Dragon
+title: Caturday - (High potentiality of being outdated) Oskos beeing called a Dragon
 
 R: *''Hey look over there! Do you see that house?? We finally found our way! Let's go and ask where we are.''*
 
  
 
-This morning  a couple, a dragon named Oskos and a red haired priestess who calls herself Rose, knocked on my door asking for directions, they looked cute so I invited them in! They were really sweet to chat with, turns out they were lost in the forest and spent the night there. *A part of adventuring I suppose~*
+This morning  a couple, <span style="color:rgb(251, 254, 77)">a dragon named Oskos</span> and a red haired priestess who calls herself Rose, knocked on my door asking for directions, they looked cute so I invited them in! They were really sweet to chat with, turns out they were lost in the forest and spent the night there. *A part of adventuring I suppose~*
 
 
 **Rose**: Guess its time I explain how we ended up here, is it not? Giggles and sips her tea You see, we were going through the forest and my dear dragon friend gave our map to a girl who merely asked for directions.. *sigh* 
