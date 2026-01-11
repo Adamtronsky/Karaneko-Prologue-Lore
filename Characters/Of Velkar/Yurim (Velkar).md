@@ -1,9 +1,7 @@
 ![[Kickstarter Yurim.png | center]]
-- Is very cute. The cutest cat even. Just like her forest.
-- The name “Nayan” is familiar to her (even outside of the name selection menu)
-- She’s faster than rabbits
-- She grows her own catnip 
-- Offers a [[Black Flower]] to [[Karam (Velkar)]] in the beginning
+
+
+
 
 Relation with [[Finnion - The Librarian]]:
 Finnion was her friend for a very long time, but has stopped visiting Yurim a while ago. When Yurim is faced with this reality, she becomes a bit sad and avoids the subject. Yet, she wants to knock on the library everyday to check if he came back.
