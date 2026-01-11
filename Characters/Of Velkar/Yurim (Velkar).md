@@ -17,10 +17,3 @@ Caturday News references:
 
 
 
-
-Pralii ramblings about Yurim (I love so much stuff about her execution)
-- I love how she leans in when she asks “Do you like it?” with the signs
-- She is one of the only characters that giggles a lot in between her dialogs
-- She doesn’t like Karam being in her feet 
-
-- She’s the only character who uses rich text (wiggly characters)
