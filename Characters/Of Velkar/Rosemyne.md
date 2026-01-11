@@ -30,7 +30,19 @@ I pulled Oskos to fish at the nearby lake for our dinner meanwhile Rose prepared
 ```
 
 ```ad-example
-title: 
+title: Caturday - A Diary entry
+
+Greetings followers, I hope you have had plenty of joy since the last time we met. My apologies for being away for too long. Travelling together with Ophelia and Oskos is exhausting and this last week was extra special.. Besides that I have this feeling in me that I can't shake off, I feel worried about something and I have no idea what it is.. Surely it is just another hollow feeling that will pass soon. Until then I will be here, waiting.. 
+
+
+Something unexpected happened recently, I will write it down in my diary soon but I wish to tell you about it before that. Anyways I am not entirely sure if it was his sister's advice or he came up with the idea himself but Oskos the Almighty had a grand plan to.. take me out on a dinner. Of course he did not really ask whether I want to come with him, he just told me that we are going and that is how we settled on it. You should have seen how excited he was, during moments like these I get to forget who he sides with... 
+
+We walked down the streets of Vegoia, the sight is one to behold! The Academy stands tall with dazzling magical lights that keeps it lit like a beacon of light and wisdom even during the darkest of nights.. After some wandering around we finally got to our destination, to my surprise it was not a street vendor. We were standing in front of a magical rice restaurant. We had our meal and it was nice, however I must say rice will always be rice, with or without magic. 
+
+It was mostly ok so far, I was a little disappointed to be honest but I tried not to show it, this was his first time trying after all.. but I was a fool to believe this night would end without incidents. While on our way back he pulled out a flower from his coat and right as i was about to accept his offering.. It happened.... That horned idiot splashed water on me using what turns out to be a fake flower!! Apparently he planned this prank since the beginning he. It was my fault to trust him I suppose.. It was too good to be true. At least he reminded that I should not trust him so easily ever again.. Also I could not restrain myself and... you can figure out how he bruised his cheek and has a torn cape now.
+
+Thank you for listening to this story, perhaps it did not end the way you anticipated it would but that is just how he is.. Also please don't tell him that I plan to sew it back yet, he wont leave my side if he gets the wind of it. I need some peace of mind before speaking to him again. Thanks again my dear friend. I pray we meet again soon, maybe we can visit the Academy together~?
+
 ```
 
 
