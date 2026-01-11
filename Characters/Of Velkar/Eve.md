@@ -157,8 +157,4 @@ Don’t think I am sleeping when I close my eyes -I am not! I am living the musi
 
 
 
-
-**Con Cogitatio Log:**
-
-
 [^1]: https://discord.com/channels/1046929328451112980/1047284163906129960/1332753578883813497
