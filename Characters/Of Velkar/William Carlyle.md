@@ -1,0 +1,1 @@
+<span style="color:rgb(255, 176, 66)">A character still seemingly in concept soup. </span> 

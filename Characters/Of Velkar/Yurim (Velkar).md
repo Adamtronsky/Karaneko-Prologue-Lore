@@ -1,3 +1,4 @@
+![[Kickstarter Yurim.png | center]]
 - Is very cute. The cutest cat even. Just like her forest.
 - The name “Nayan” is familiar to her (even outside of the name selection menu)
 - She’s faster than rabbits
