@@ -10,7 +10,7 @@ title: Caturday - (High probability of being outdated) Rose being called a Pries
 
 R: *''Hey look over there! Do you see that house?? We finally found our way! Let's go and ask where we are.''*
 
-<:Illustration3:1193246040405573734> **Welcome to Yurim's CATurday Update! <:Illustration3:1193246040405573734> ** @everyone 
+ 
 
 This morning  a couple, a dragon named Oskos and a red haired priestess who calls herself Rose, knocked on my door asking for directions, they looked cute so I invited them in! They were really sweet to chat with, turns out they were lost in the forest and spent the night there. *A part of adventuring I suppose~*
 
@@ -23,11 +23,12 @@ This morning  a couple, a dragon named Oskos and a red haired priestess who call
 
 **Oskos**: As long as I get to enjoy more of your cooking!
 
-**Yurim**: *Her eyes beamed in excitement Rosy~* <:yurimheart:1218652298557915196>  Would you prepare dinner tonight please! Don't worry about anything else! There is a lake nearby, lets go fishing Oskos! Come on!! <:yurimhungry:1218652437217411122> 
+**Yurim**: *Her eyes beamed in excitement Rosy~*   Would you prepare dinner tonight please! Don't worry about anything else! There is a lake nearby, lets go fishing Oskos! Come on!!  
 
 
-I pulled Oskos to fish at the nearby lake for our dinner meanwhile Rose prepared the table. Our evening was fun and delicious! She cooks really good, I hope they come visit again another day. *I miss them already~* <:yurimcry:1218652396754960434>
+I pulled Oskos to fish at the nearby lake for our dinner meanwhile Rose prepared the table. Our evening was fun and delicious! She cooks really good, I hope they come visit again another day. *I miss them already~* 
 ```
+
 
 
 
