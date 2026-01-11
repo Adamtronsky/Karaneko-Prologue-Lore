@@ -1,5 +1,5 @@
 ![[Kickstarter Laschka.png |center]]
-- (While not explicitly stated anywhere) Blessed by a Dog Animal Spirit.
+- <span style="color:rgb(255, 176, 66)">Blessed by a Dog Animal Spirit.</span>
 - Currently resides at [[The Academy]], specifically at [[Eve(And technically Laschka)'s Room |the dorm]].
 - Cousins with [[Eve]].
 - Currently housed in [[Eve(And technically Laschka)'s Room]]; Under [[Luminyan]]'s care.
