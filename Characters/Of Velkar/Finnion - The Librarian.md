@@ -10,6 +10,7 @@
 
 ```
 - He's the friend that told Yurim about the [[Black Flower]]s, and how they 'bring people closer together'.
+- Carries books that bear the “Vegoia Motif”
 - (According to Kickstarter information of "Rabbit Route") Finnion (and [[Nayan]]) could be at [[Ninova]] according to some 'clues'.
 - <span style="color:rgb(255, 255, 0)">Finnion is in</span> [[Ninova]]
 - stopped visiting pink forest to go to [[Ninova]]
