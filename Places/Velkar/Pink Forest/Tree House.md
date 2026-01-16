@@ -1,3 +1,5 @@
+![[Pink Forest Tree House(With door).png]]
+![[Pink Forest Tree House(Without door).webp]]
 
 There is a portal with chains in the center, surrounded by something that look like a magic circle, and a locked chest in the right-uppermost corner of the room. 
 
