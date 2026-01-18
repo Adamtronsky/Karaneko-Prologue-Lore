@@ -10,7 +10,7 @@
 Yurim: "Are real people like you?"
 ```
 In the following conversation with Yurim, she also says that she **has** to love this place([[Pink Forest]]), and in another conversation, she says that she **can’t** leave; She knows that the [[Pink Key |Pink heart crystal]] is a key, and she calls the stone door north-most of the [[Pink Forest]] what it is, an exit.
-- 
+- If there *was* a time before the [[Pink Forest]], then 
 
 
 
