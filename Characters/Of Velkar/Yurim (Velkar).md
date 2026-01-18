@@ -16,6 +16,23 @@ In the following conversation with Yurim, she also says that she **has** to love
 ```
 
 - Relevant caturdays:
+```ad-quote
+title: Caturday - Yurim remarks getting bored doing the same thing over and over.
+
+Hey hey, my dear lovely little fishies!!
+
+Honestly, I don’t even know what to say anymore. I have lost count of how many times I have done the exact same thing, on the exact same day, in the exact same way. I think I might be... just a tiiiny bit bored. Like, I don’t even know if there is anything out there that could cure this boredom deep inside me but I thought maybe talking to you would help a little, so here I am!
+
+How are you doing, dear fishies? Are you okay? I wish you were here with me during these boring days. Maybe we could’ve come up with something fun to do. But pleaaase, let’s not do the same old things again or if we do them together, maybe they won’t be so boring? Yeah... yeah, I think it’d be way more fun that way!
+
+SIIGHHHHHH!!!
+Ughhh!
+I'm sooo bored.
+
+Maybe I should just sleep... yeah, I think I’ll go nap now. That’s it from me today, dear fishies. I hope next week I’ll find something exciting to do. Oh, by the way, I was super bored last week too. I thought going on a picnic would cheer me up, and I wrote to you from there, but I guess when you’re in a weird mood, it just seeps into whatever you make. That might’ve been the most boring thing I ever wrote here.
+
+Anyways! See you around, my little fishies~ I love you lots. 
+```
 
 
 
