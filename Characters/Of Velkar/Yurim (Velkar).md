@@ -49,8 +49,7 @@ Luckily, they’re pretty easy to catch. So now I’m off to catch one. Hahahaha
 
 Anyway, my dear little fishies, I’m gonna hunt some bunnies now. I’ll keep you posted! This is gonna be an ongoing blog, so I’ll drop little updates throughout the week.
 
-
-<:yurimfish:1218652475674988565> **Hiiii again, little fishies!** <:yurimfish:1218652475674988565> 
+**Hiiii again, little fishies!** 
 
 Well, last time we talked, I was off to find a bunny. Two days after writing that, I found the cutest bunny in the whole Pink Forest! Why did I pick this one? Because its fur is suuuper fluffy and it feels amazing to touch.
 
@@ -70,7 +69,29 @@ Hahaha yesss, this name is **PURRFECT!** That’s all from me for now, lovely fi
 
 See you next time!!
 
-<:Illustration3:1193246040405573734><:Illustration3:1193246040405573734><:Illustration3:1193246040405573734>
+
+
+Uhmmm hey…
+
+I finished writing the blog, but something bad happened. I don’t really know how to say this… It’s only been one day since I last wrote, but Mr. Black-White Glitter Face is gone missing!!
+
+(Sob I’m really really sad…)
+
+Why do all my friends keep disappearing?? I even made him so many toys… Now I’m making another missing poster… (sob)
+
+I’m crying as I write this, so that’s why I keep typing (sob sob...) I hope you understand… (sob sob)
+
+Please don’t make fun of me…
+
+And don’t laugh at me, it’s really hard to type out crying sounds... (sob sob) I’m super sad already…
+
+Anyway… I thought this week’s blog was gonna be all fun and happy, but it ended up sad.
+I’m sorry, my dear little fishies…
+
+See you next week... 
+
+(sob)
+![[Pasted image 20260118091544.png]]
 ```
 
 
