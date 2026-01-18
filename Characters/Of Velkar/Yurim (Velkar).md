@@ -196,7 +196,31 @@ title: Caturday - A pupil
 ```
 
 ```ad-example
-title: Caturday - 
+title: Caturday - Desirée, Durai, and Yurim.
+
+The days I could see the sky were few enough to count on one hand. And yet, they held no real meaning in my mind. Sunsets and sunrises, the blazing stars, the scorching sun… All were painted in lavish detail in Desirée’s books -the very books I was meant to study, confined between the four walls of my room.
+
+*“To make sense of the world... that lies entirely in your hands,”* Durai would say. *“Believe me, the phenomenon we call life is the highest state any being could ever reach, young Yurim.”*
+
+I never truly understood what the God of Life meant. The only thing I knew… was that I wouldn’t have to keep staring at the same four walls any longer. 
+
+Because the time had come. For something. Something important.
+
+Desirée and Durai were arguing, a faint tension flickering across their divine faces. Even as their godly forms made my feet want to stumble backward, I stepped forward. That was the first lesson they had taught me. 
+
+The second was: Never cling to what you see in the sky. That **thing**, they warned, was a cursed illusion.
+
+I never truly understood the sky or life, nor the feelings. They were nothing more than crafted patterns of behavior such things these gods performed with practiced grace. And so, I mirrored what I saw. Even so, now I could feel something moving within me, something raw and trembling. I knew it was born of fear… or perhaps, of misery.
+
+*“You’ve understood long ago, my little Yurim. And you know you are clever and capable enough to face this ultimate task,”* the God of Wisdom said.
+
+*“Remember, Yurim,”* Durai’s voice followed, soft as a hidden wind beneath their stern expression. *“The souls you will bring to this land… to Velkar-“*
+
+“I know, I will succeed.”
+
+**This would be my first mission.**
+**Whether it would also be my last… was a choice I would never get to make.**   
+
 ```
 
 [^1]: https://discord.com/channels/1046929328451112980/1047284163906129960/1429241129110605907
