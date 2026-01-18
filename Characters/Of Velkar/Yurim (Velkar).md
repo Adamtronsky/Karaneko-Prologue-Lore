@@ -35,7 +35,7 @@ Anyways! See you around, my little fishies~ I love you lots.
 ```
 
 ```ad-example
-title: Caturday - They dissappear at night
+title: Caturday - They dissappear at night, Yurim
 
 **Hello my little fishies!** 
 
