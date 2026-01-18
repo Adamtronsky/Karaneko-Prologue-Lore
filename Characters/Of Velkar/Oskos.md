@@ -7,7 +7,7 @@
 - <span style="color:rgb(122, 211, 255)">Complex behaviour, with narcissism acting as a base.</span> 
 
 - Relevant caturdays:
-```ad-quote
+```ad-ex
 title: Caturday - Oskos and Ophelia first arriving in the forest
 
 **Oskos:** Behold! We’ve discovered a most magnificent sanctuary, worthy of my greatness!
