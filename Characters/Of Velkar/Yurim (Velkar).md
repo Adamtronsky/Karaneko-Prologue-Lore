@@ -120,7 +120,48 @@ See you next week...
 ![[Pasted image 20260118091544.png]]
 ```
 
+```ad-example
+title: Caturday - Isolation
+*(This is really for myself, but… I suppose there is no harm in sharing. After all, you-... Never mind.)* 
 
+`It hurts, there’s something aching inside my chest, like a black knot, a heavy ball of pain. That’s what I feel. The more I put it into words, the more it hurts. Exhausting.`
+
+But if I don’t say it out loud, it only grows so this is better. I’m socialising. To forget this pain. I have to be happy.
+
+**Feeling this way isn’t normal.**
+
+`But it’s because of them that I feel this way.`
+
+*I'm alone in my room. 
+I’m watching the curtains again. They seem to inch closer every day. 
+The world grows a little darker with each passing moment.*
+
+But it’s fine. I’m doing this to protect myself. Because if I try to ease the pain by going back to them, it’ll only hurt more. So it’s fine. This way is better.
+
+---
+
+`Loneliness hurts,`
+
+So I won’t stop. I’ll try again to socialise, to keep my mind busy.
+
+**This way, I can be happy.**
+
+`Everything looks dark, but the sky is still bright.`
+
+That’s okay. I look at the pink trees. I watch the rabbits hop about and I walk towards them.
+
+I’m socialising. To forget this pain.
+
+`They look into my eyes, but they don’t see me.`
+
+**I have to be happy.**
+
+`...Is this really what I want?`
+
+It’s okay! We’ll try again tomorrow.
+
+`My head hurts.`
+```
 
 
 
