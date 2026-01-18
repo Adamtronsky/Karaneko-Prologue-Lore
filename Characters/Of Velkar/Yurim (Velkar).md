@@ -16,7 +16,7 @@ In the following conversation with Yurim, she also says that she **has** to love
 ```
 
 - Relevant caturdays:
-```ad-quote
+```ad-example
 title: Caturday - Yurim remarks getting bored doing the same thing over and over.
 
 Hey hey, my dear lovely little fishies!!
@@ -34,9 +34,43 @@ Maybe I should just sleep... yeah, I think I’ll go nap now. That’s it from m
 Anyways! See you around, my little fishies~ I love you lots. 
 ```
 
-```ad-quote
+```ad-example
 title: Caturday - They dissappear at night
 
+**Hello my little fishies!** 
+
+I wanted to try something new this week. You all know Finnion, right? He disappeared, and I searched for him for sooo long, but couldn’t find him anywhere. So, I decided to make my own friend!
+
+But how do you make a friend?
+Hmm… I’m not sure. There are so many creatures in the Pink Forest. I need to find the cutest one.
+After thinking long and hard, I found the perfect creature: Bunnies, of course!!
+
+Luckily, they’re pretty easy to catch. So now I’m off to catch one. Hahahaha I’m so excited!
+
+Anyway, my dear little fishies, I’m gonna hunt some bunnies now. I’ll keep you posted! This is gonna be an ongoing blog, so I’ll drop little updates throughout the week.
+
+
+<:yurimfish:1218652475674988565> **Hiiii again, little fishies!** <:yurimfish:1218652475674988565> 
+
+Well, last time we talked, I was off to find a bunny. Two days after writing that, I found the cutest bunny in the whole Pink Forest! Why did I pick this one? Because its fur is suuuper fluffy and it feels amazing to touch.
+
+But I didn’t really like the color pattern. So I decided to give it a little makeover. Instead of plain white, I thought a touch of black would look really good on it.
+
+*(So yep, I painted it a little bit black hahaha!)*
+
+I think it looks way cuter now. But its face still had a kind of grumpy expression… So I added a little glitter to its face to make it sweeter!
+
+**Now it’s soooo adorable.**
+
+What should I name my new friend, hmm… Oh! Got it! My new friend's name is:
+
+**Mr. Black-White Glitter Face!!!**
+
+Hahaha yesss, this name is **PURRFECT!** That’s all from me for now, lovely fishies!
+
+See you next time!!
+
+<:Illustration3:1193246040405573734><:Illustration3:1193246040405573734><:Illustration3:1193246040405573734>
 ```
 
 

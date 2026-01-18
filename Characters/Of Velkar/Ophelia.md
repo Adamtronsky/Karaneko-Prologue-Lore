@@ -6,7 +6,7 @@
 - (For intiality)<span style="color:rgb(122, 211, 255)">Knows more about Yurim than she’s letting on</span>; She intends to ‘Catch’ Yurim at the “knife ending” of the demo.
 
 - Relevant caturdays:
-```ad-quote
+```ad-example
 title: Caturday - Ophelia and Oskos first arriving in the forest
 
 **Oskos:** Behold! We’ve discovered a most magnificent sanctuary, worthy of my greatness!
