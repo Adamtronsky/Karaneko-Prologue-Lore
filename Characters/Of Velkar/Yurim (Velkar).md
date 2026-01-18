@@ -17,6 +17,32 @@ In the following conversation with Yurim, she also says that she **has** to love
 
 - Relevant caturdays:
 ```ad-example
+title: Caturday - Yurim learns about a Winter Celebration
+
+*One day, Finnion arrived at the forest carrying an old book with snowflake patterns. He said it was about a special winter celebration, and I couldn’t help but get excited:*
+
+**Yurim:** Finnion, why do people decorate trees? Aren’t trees already beautiful as they are?
+
+**Finnion:** That’s true. Trees are beautiful in their natural state. Yet people admire the strength of these trees, especially the ones that keep their leaves even in the middle of winter. That strength symbolizes hope. Why do we need hope, Yurim?
+
+**Yurim:** Because everyone wants to catch the **biggest fish!!!**
+
+**Finnion:** Hahaha. In a way, you’re not wrong. But sometimes, life can feel like a dark and cold winter. By decorating the evergreen tree, people try to kindle a light within themselves.
+
+**Yurim:** **But winter is not a bad thing!** How can it be bad when snow falls? I wish I could see it too…
+
+**Finnion:** *Don’t worry, dear Yurim.* One day, we’ll watch the snow together. When that time comes, we’ll decorate our own tree.
+
+**Yurim:** **REALLY!? WHEN!?**
+
+**Finnion:** Be patient, little lady. *I promise, as soon as the first snow falls, I’ll take you there.* But until then, we need to learn a bit more, don’t you think?
+
+**Yurim:** *Pfft,* boring Finnion! When we go, I’m decorating **ALL** the trees by myself!!!
+
+**Finnion:** *Hahaha.* As you wish, Yurim.
+```
+
+```ad-example
 title: Caturday - Yurim remarks getting bored doing the same thing over and over.
 
 Hey hey, my dear lovely little fishies!!
