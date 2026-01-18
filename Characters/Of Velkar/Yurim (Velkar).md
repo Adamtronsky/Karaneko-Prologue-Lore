@@ -220,7 +220,8 @@ I never truly understood the sky or life, nor the feelings. They were nothing mo
 
 **This would be my first mission.**
 **Whether it would also be my last… was a choice I would never get to make.**   
-
+![[Pasted image 20260118093230.png]]
 ```
+
 
 [^1]: https://discord.com/channels/1046929328451112980/1047284163906129960/1429241129110605907
