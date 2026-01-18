@@ -10,7 +10,7 @@
 Yurim: "Are real people like you?"
 ```
 In the following conversation with Yurim, she also says that she **has** to love this place([[Pink Forest]]), and in another conversation, she says that she **can’t** leave; She knows that the [[Pink Key |Pink heart crystal]] is a key, and she calls the stone door north-most of the [[Pink Forest]] what it is, an exit.
-- If there *was* a time before the [[Pink Forest]], then Yurim would’ve been under [[Durai - God of Life.jpg]], and [[Desirée - 'God of Wisdom']], most probably as a pupil.[^1]From the same referenced text, Yurim had a task:
+- <span style="color:rgb(255, 176, 66)">If there <i>was</i> a time before the</span> [[Pink Forest]],<span style="color:rgb(255, 176, 66)"> then Yurim would’ve been under</span> [[Durai - God of Life.jpg]], <span style="color:rgb(255, 176, 66)">and</span> [[Desirée - 'God of Wisdom']], <span style="color:rgb(251, 254, 77)">most probably as a pupil.</span>[^1]From the same referenced text, Yurim had a task:
 ```ad-quote
 “The souls you will bring to this land… to Velkar-“
 ```
