@@ -163,7 +163,31 @@ It’s okay! We’ll try again tomorrow.
 `My head hurts.`
 ```
 
-```ad-ex
+```ad-example
+title: Caturday - Yurim's house
+
+**Dear sweet fishy! **  
+
+Todaayyy I was lying on the grass, the sky was sooo sooo big and super duper blue, it was sooo cute! I was thinking, *Hmm what’s up there?* Then Finnion came and said,
+
+“Yurim, why are you sleeping on the grass?”
+
+And I said, “Umm… but where else should I sleep?”
+
+Hehe it’s funny ’cause in this happy green forest I can sleep anywhere I want! Yesterday I even slept on the trees, yay! Then Finnion said,
+
+“Yurim, you should be sleeping in your home, not on the grass.”
+
+“Home? What’s that??” I asked. 
+
+Finnion laughed, “Home is the place you love the most, Yurim. It’s where you keep your favorite things and where your bed is soft and comfortable. Tell me, what kind of things would you like to have in your home?”
+
+And I said, “I dunno what stuff is, but if it’s pink I will be sooo happy!”
+
+That night I had a dream while sleeping on a bench. I dreamed a biiiiig pink house! With sooo many cute pink chairs and beds. I woke up in a fluffy bed, hehe, and I walked around and there were toys everywhere! It was sooo sweet! And then when I was walking in the green forest, guess what?? I found a house that looked just like in my dream! Hehehe maybe Finnion made it just for me! 
+
+So I ran and ran and came to you, sweet fishy! Hehehe I got a huuugge pink house! Wanna see it?? 
+![[Pasted image 20260118092918.png]]
 ```
 
 
