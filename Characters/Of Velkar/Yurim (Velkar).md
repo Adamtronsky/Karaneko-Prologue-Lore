@@ -190,7 +190,13 @@ So I ran and ran and came to you, sweet fishy! Hehehe I got a huuugge pink house
 ![[Pasted image 20260118092918.png]]
 ```
 
+```ad-example
+title: Caturday - A pupil
+![[Pasted image 20260118093042.png]]
+```
 
-
+```ad-example
+title: Caturday - 
+```
 
 [^1]: https://discord.com/channels/1046929328451112980/1047284163906129960/1429241129110605907
