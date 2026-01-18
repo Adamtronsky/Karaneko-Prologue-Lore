@@ -24,6 +24,8 @@ title: Caturday - Ophelia and Oskos first arriving in the forest
 **Oskos: HAHAHA! Once again, I, the GREAT OSKOS, stand victorious! The cosmos itself bends to my will—none can best me!**
 
 **Ophelia:** Be sure to send my regards to the Shadow Lord on your way out, **"GREAT OSKOS!" **
+
+![[Pasted image 20260118090020.png]]
 ```
 
 ```ad-example
