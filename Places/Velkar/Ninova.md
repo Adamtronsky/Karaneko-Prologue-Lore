@@ -1,2 +1,2 @@
-A nation blessed by the [['God of Love' - Nanaya]], Nanaya. 
+A region blessed by the [['God of Love' - Nanaya]], 
 
