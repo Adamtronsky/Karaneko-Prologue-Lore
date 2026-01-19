@@ -1,1 +1,1 @@
-<span style="color:rgb(255, 176, 66)">A character still seemingly in concept soup. </span> 
+<span style="color:rgb(255, 176, 66)">Almost all the information about this character is contradicting. </span> 
