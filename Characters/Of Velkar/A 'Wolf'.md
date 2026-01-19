@@ -4,4 +4,5 @@ title: "GET OUT OF MY WAY, YOU'RE FAILING TO DO WHAT YOU'RE SUPPOSED TO!"
 ```
 
 - <span style="color:rgb(122, 211, 255)"> It seems to be only a “Projection”</span>, as it does not leave behind a physical body when defeated, unlike Yurim(Something should be cited here…).
-- Still bears the “Scent of a wolf”, according to Eve in the 
+- Still bears the “Scent of a wolf”, according to Eve in one of the bad endings(Something should be cited here…).
+- (f)
