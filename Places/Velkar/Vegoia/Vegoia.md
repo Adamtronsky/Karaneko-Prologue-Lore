@@ -1,4 +1,4 @@
-aka the country of [[The academy]]
+aka the country of [[The Academy]]
 
 In the 4/5/2025 CN entry, we learn…
 - There are magical variant of food in this country (what about the others)
