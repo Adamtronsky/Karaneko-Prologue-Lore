@@ -3,7 +3,7 @@
 - Has blessed their region([[Vegoia]]) with Knowledge, 
 
 > [!quote] 
-> "So much so that not a single trace of ignorance remains…" [[Central Rooms#^dfd5af]]
+> "So much so that not a single trace of ignorance remains…" [[Luminyan(and Karam)'s Dorm#^dfd5af]]
 > 
 - Along with it, “Magic”
 ```ad-cite

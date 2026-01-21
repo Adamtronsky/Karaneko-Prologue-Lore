@@ -1,4 +1,4 @@
-Bears a similar layout to [[Karam and Nayan Residence]].
+
 - ##### 2nd floor(Bedroom hall):
 	![[The Dorm (2nd floor, bedroom hall).png]]
 	- Connects to [[Karam's Room(Academy, or Velkar)]], [[Luminyan's Room]], The bathroom, and [[#^dfd5af|1st floor (Living Room)]]
