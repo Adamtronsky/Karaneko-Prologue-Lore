@@ -118,7 +118,7 @@ But I’m sure Karam doesn’t wear a wig.
 ```
 
 
-[^1]: ![[Pasted image 20260108105814.png]]
+[^1]: ![[Footnote 1 Luminyan.png]]
 
 [^2]: https://discord.com/channels/1046929328451112980/1047284163906129960/1325178255900282981
 
