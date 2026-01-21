@@ -4,7 +4,7 @@ Rumor has it that, the [[Divine Mother]] was pregnant with the being we call 'hu
 The Divine Mother adored the human. 
 And in return, she sent the human to earth.
 She waited for ages, Observed each and every second passing by. 
-Adrift humanity lost it's chastity, corrupted itself and the promised vicinity. 
+Adrift humanity lost it's chastity, corrupted itself and the promised vicinity 
 Yet, when the time came, the Divine Mother was not indifferent at all. 
 Some called it the apocalypse, others the day of reckoning. 
 It ended the corrupt civilization while heralding the birth of a new one. 
