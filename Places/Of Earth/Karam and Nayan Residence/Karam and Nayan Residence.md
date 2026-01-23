@@ -8,6 +8,7 @@
 	A clean bathroom with a weighing scale[^3], a duck on the floor that squeaks when stepped on, toiletries on the sink, and medicine beside it. 
 ___
 -  ##### 1st floor(Living Room): 
+	![[Karam and Nayan's Living room.png |center]]
 	
 
 [^1]: ![[Karam and Yurim.png]]
