@@ -6,6 +6,7 @@
 - ##### 2nd Floor(Bathroom):
 	![[Karam and Nayan's Bathroom.png |center]]
 	
+	
 
 [^1]: ![[Karam and Yurim.png]]
 
