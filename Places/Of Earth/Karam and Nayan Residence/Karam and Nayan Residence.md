@@ -10,7 +10,7 @@ ___
 -  ##### 1st floor(Living Room): 
 	![[Karam and Nayan's Living room.png |center]]
 	A cat “parkour course” has been carefully set up above the door to the second floor that Yurim doesn’t play on, with a photo of Karam and Nayan underneath that reflects how the world seemed endless, but now there’s no room for “those days”. 
-	Above the dusty lampstand is the door to the storeroom, and below it, the kitchen.
+	Above the dusty lampstand is the door to the storeroom, and below it, the kitchen. 
 	 
 
 [^1]: ![[Karam and Yurim.png]]
