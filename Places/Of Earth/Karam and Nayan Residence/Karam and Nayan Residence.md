@@ -9,8 +9,12 @@
 ___
 -  ##### 1st floor(Living Room): 
 	![[Karam and Nayan's Living room.png |center]]
-	A cat “parkour course” has been carefully set up above the door to the second floor that Yurim doesn’t play on, with a photo of Karam and Nayan underneath that reflects how the world seemed endless, but now there’s no room for “those days”. 
-	Above the dusty lampstand is the door to the storeroom, and below it, the kitchen. 
+	A cat “parkour course” has been carefully set up above the door to the second floor that Yurim doesn’t play on 
+	Above the dusty lampstand is the door to the storeroom, and below it, the kitchen. There are orange sofas with Yurim’s fur on it, next to them is one of Nayan’s colorfully potted plants. A fake pine tree, a shoe cabinet with an umbrella on it, and a coat rack.
+
+	 Scattered across the room are items that bring out Karam’s memory of the past.
+	 A photo of Karam and Nayan hanging under the cat course, reflecting on it: "Two kids once in a world that seemed endless", then it felt like there were no more room for those days.
+	 A gamepad on the floor that belonged to Mupton, now something that Nayan uses. 
 	 
 
 [^1]: ![[Karam and Yurim.png]]
