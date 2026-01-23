@@ -14,7 +14,7 @@ ___
 
 	 Scattered across the room are items that bring out Karam’s memory of the past.
 	 A photo of Karam and Nayan hanging under the cat course, reflecting on it: "Two kids once in a world that seemed endless", then it felt like there were no more room for those days.
-	 A gamepad on the floor that belonged to Mupton, now something that Nayan uses. 
+	 A gamepad on the floor that belonged to Mupton, now something that Nayan uses everyday. It brings
 	 
 
 [^1]: ![[Karam and Yurim.png]]
