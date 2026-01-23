@@ -6,6 +6,8 @@
 - ##### 2nd Floor(Bathroom):
 	![[Karam and Nayan's Bathroom.png |center]]
 	A clean bathroom with a weighing scale[^3], a duck on the floor that squeaks when stepped on, toiletries on the sink, and medicine beside it. 
+___
+-  ##### 1st floor(Living Room): 
 	
 
 [^1]: ![[Karam and Yurim.png]]
