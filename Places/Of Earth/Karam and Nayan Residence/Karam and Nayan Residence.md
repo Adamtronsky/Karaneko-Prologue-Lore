@@ -5,9 +5,11 @@
 ***
 - ##### 2nd Floor(Bathroom):
 	![[Karam and Nayan's Bathroom.png |center]]
-	A clean bathroom with a weighing scale iw
+	A clean bathroom with a weighing scale[^3], a duck on the floor that squeaks when stepped on, toiletries on the sink, and medicine beside it. 
 	
 
 [^1]: ![[Karam and Yurim.png]]
 
 [^2]: ![[The stairs segment.png]]
+
+[^3]: <span style="color:rgb(122, 211, 255)">Interacting with it remarks that Karam’s gotten weight from eating junk food.</span>
