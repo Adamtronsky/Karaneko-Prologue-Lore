@@ -20,10 +20,14 @@ ___
 ___
 - ##### 1st floor(Kitchen):
 	![[Karam and Nayan's Kitchen.png|center]]
-	
+	To the immediate left of the door are pictures of [[Nayan]] and [[Karam(Earth)|Karam]] in aprons; [[Karam(Earth)|Karam]] remarks that [[Nayan]] looked confident, but his cooking skills didn’t match. To the upper right is an undisturbed water bottle[^4], and below is a solo hardwood table set
 
 [^1]: ![[Karam and Yurim.png]]
 
 [^2]: ![[The stairs segment.png]]
 
 [^3]: <span style="color:rgb(122, 211, 255)">Interacting with it remarks that Karam’s gotten weight from eating junk food.</span>
+
+[^4]: A prompt to pick it up will show following either conditions:
+	- Karam enters Nayan’s room without the sandwich, and choosing to not starve him will make him remind Karam about bringing water as well.
+	- Or B– Karam goes down the stairs and up the stairs for the first time, Nayan would remind Karam to get water as well.
