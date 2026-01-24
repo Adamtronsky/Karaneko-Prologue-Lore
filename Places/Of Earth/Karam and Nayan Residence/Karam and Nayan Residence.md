@@ -20,7 +20,7 @@ ___
 ___
 - ##### 1st floor(Kitchen):
 	![[Karam and Nayan's Kitchen.png|center]]
-	To the immediate left of the door are pictures of [[Nayan]] and [[Karam(Earth)|Karam]] in aprons; [[Karam(Earth)|Karam]] remarks that [[Nayan]] looked confident, but his cooking skills didn’t match. To the upper right is an undisturbed water bottle[^4], and below is a solo hardwood table set
+	To the immediate left of the door are pictures of [[Nayan]] and [[Karam(Earth)|Karam]] in aprons; [[Karam(Earth)|Karam]] remarks that [[Nayan]] looked confident, but his cooking skills didn’t match. To the upper right is an undisturbed water bottle[^4], and below is a solo hardwood table set. The fridge with a few photographs and magnets in the center of the room has a note on it with the recipe for [[Nayan|Nayan’s]] sandwich[^5]. The rest of the kitchen items have been cleaned. And interacting with the chopping board while having the ingredients prompts to creating [[Nayan|Nayan’s]] sandwich.
 
 [^1]: ![[Karam and Yurim.png]]
 
@@ -31,3 +31,7 @@ ___
 [^4]: A prompt to pick it up will show following either conditions:
 	- Karam enters Nayan’s room without the sandwich, and choosing to not starve him will make him remind Karam about bringing water as well.
 	- Or B– Karam goes down the stairs and up the stairs for the first time, Nayan would remind Karam to get water as well.
+
+[^5]: ```ad-quote
+Fill the sandwich with sausage, cheddar cheese, bell pepper, tomato, avocado, corn, hot sauce, egg, olives, butter, mayonnaise, ketchup, mustard.
+```
