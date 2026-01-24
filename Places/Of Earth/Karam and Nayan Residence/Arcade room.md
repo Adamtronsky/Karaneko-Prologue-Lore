@@ -1,2 +1,0 @@
-- Framed photo of Karam's family, when his father was still here. Nayan was still a baby and the times were happy.
-- An old watch, souvenir of a forgotten adventure with his brother as a "Dragon Agent".
