@@ -15,8 +15,8 @@ ___
 	 Scattered across the room are items that bring out Karam’s memory of the past with his friends:
 	 - A photo of Karam and Nayan hanging under the cat course, reflecting on it: "Two kids once in a world that seemed endless", then it felt like there were no more room for those days.
 	 - A gamepad on the floor that belonged to Mupton, now something that Nayan uses everyday. It brings the memory of Karam and his friends meeting up at the house every week for tournaments, and that Mupton thought he could beat Karam with a new controller. The gamepads can then be arranged closer at the TV’s base.
-	 - An old ball that Karam had found a few days before. It reminds Karam of the time Ark broke a window while playing at home, and when his mother saw it, he took the blame for Ark. And his mother was proud of him till the end.
-	 - 
+	 - An old ball near the fake pine tree that Karam had found a few days before. It reminds Karam of the time Ark broke a window while playing at home, and when his mother saw it, he took the blame for Ark. And his mother was proud of him till the end.
+	 - A birthday photo next to the door to the outside. Taken the day [[X]] gifted the black kitten, [[Yurim(Earth) |Yurim]], to [[Karam(Earth) |Karam]].
 	 
 
 [^1]: ![[Karam and Yurim.png]]
