@@ -19,6 +19,7 @@ ___
 	 - A birthday photo next to the door to the outside. Taken the day [[X]] gifted the black kitten, [[Yurim(Earth) |Yurim]], to [[Karam(Earth) |Karam]].
 ___
 - ##### 1st floor(Kitchen):
+	![[Karam and Nayan's Kitchen.png|center]]
 	
 
 [^1]: ![[Karam and Yurim.png]]
