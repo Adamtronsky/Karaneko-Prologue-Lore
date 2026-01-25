@@ -26,9 +26,10 @@ ___
 	![[Karam and Nayan's Storage Room.png|center]]
 	Above the entrance is a framed photo on a box[^6], also next to it is an arcade machine(save point). Following along the upper wall is Karam’s very first drawing, from a time when he was very fond of dogs, and below it on the boxes is a toy watch that once had an important role in Karam and Nayan’s “adventure’s”, from it, Karam remarks being a “Dragon Agent” of an agent group Karam forgot the name of. 
 	The books on the shelf do not belong to Karam and Nayan.
+	A lamp with a broken bulb, and a punching bag for training battle movement.
 	There are two other items here that bring up Karam’s past with his friends:
 	- The CD on top of the box near the bookshelf. [[Skip]] had given Karam the CD back then to install the games on it for the Kids([[Lain]] and [[Pepenu]]) in [[The gang]]. But Karam never did.
-	- The books 
+	- The stacked middle school books on the box. Interacting with it makes [[Karam(Earth)|Karam]] reminisce about a time when, before exam week, the gang would gather at his house and listen to him teach. [[Skip]], [[Mupton]], and [[Ark]], are remarked to not have listened well. While [[X]], [[Fitty]], and Sari passed thanks to [[Karam(Earth)|Karam]]. They had promised to go to the same university together, but after an incident, everyone stopped studying.
 
 [^1]: ![[Karam and Yurim.png]]
 
