@@ -1,4 +1,4 @@
-
+![[Nayan's Room.png|center]]
 - Arrrr! Pirates!
 	- Door has pirate flag
 	- "SUPREME GATEKEEPER RA-KUN"
