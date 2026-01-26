@@ -1,1 +1,1 @@
-![[Nayan's Room.png|center]]
+![[Nayan's Room.png |center]]
