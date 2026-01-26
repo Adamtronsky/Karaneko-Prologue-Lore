@@ -33,7 +33,7 @@ ___
 
 [^1]: ![[Karam and Yurim.png]]
 
-[^2]: ![[The stairs segment.png]]
+[^2]: ![[The stairs segment of Karam and Nayan's house.png]]
 
 [^3]: <span style="color:rgb(122, 211, 255)">Interacting with it remarks that Karam’s gotten weight from eating junk food.</span>
 
