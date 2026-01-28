@@ -1,4 +1,4 @@
 ![[Nayan's Room.png |center]]
-As Karam enters Nayan’s room, they initially dragged to play on [[Nayan|Nayan’s]] 
+Interacting with the desktop computer shows a mention of it being “new”, and the empty water bottle beside it unworthy for [[Karam(Earth)|Karam’s]] collection. The bed in
 
 [^1]: Supposedly gift.
