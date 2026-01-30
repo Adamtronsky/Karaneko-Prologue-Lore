@@ -4,6 +4,8 @@ Then a piano–[[Nayan|Nayan’s]] piano; [[Nayan]] playing on it brings [[Karam
 The shelf contains action figures and videogames, and seemingly seamlessly is a protruding piece of wood that has the chess set on top of it, and a cat scratching post.
 On the bottom right corner is an empty fish bowl that used to house Nayan’s pet fish “Jack”, having been given along [[Yurim(Earth)|Yurim]] from [[X]].
 Last is “Voli”, “swimming on the floor”.
+___
+- 
 
 [^1]: It is a gift, according to some files within the game.
 
