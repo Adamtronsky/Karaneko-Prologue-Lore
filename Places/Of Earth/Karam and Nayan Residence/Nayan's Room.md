@@ -5,7 +5,7 @@ The shelf contains action figures and videogames, and seemingly seamlessly is a 
 On the bottom right corner is an empty fish bowl that used to house Nayan’s pet fish “Jack”, having been given along [[Yurim(Earth)|Yurim]] from [[X]].
 Last is “Voli”, “swimming on the floor”.
 ___
-- 
+- ![[Screenshot 2026-01-30 100033.png|center]]
 
 [^1]: It is a gift.
 
