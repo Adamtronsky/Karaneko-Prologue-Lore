@@ -7,6 +7,6 @@ Last is “Voli”, “swimming on the floor”.
 ___
 - 
 
-[^1]: It is a gift, according to some files within the game.
+[^1]: It is a gift.
 
 [^2]: ![[A scrapped song.png]]
