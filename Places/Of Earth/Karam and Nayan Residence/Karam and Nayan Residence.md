@@ -1,3 +1,4 @@
+![[Front of Karam and Nayan's House.png|center]]
 - ##### 2nd floor(Bedroom hall):
 	![[Karam and Nayan's 2nd floor hall.png|center]]
 	 Top left is the door to Nayan’s room, guarded by “SUPREME GATEKEEPER RA-KUN”, next to a basket ball hoop that is as tall a Karam. 
