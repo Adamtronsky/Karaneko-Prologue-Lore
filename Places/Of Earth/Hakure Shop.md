@@ -3,4 +3,5 @@ Near the shelf full of different kinds of soda is a stack of boxes with a cd of 
 
 
 
+
 [^1]: Is a reference to the game “Omori”.
