@@ -1,2 +1,2 @@
-![[Outside Hakure Shop.png]]
+
 
