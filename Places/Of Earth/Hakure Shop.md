@@ -5,11 +5,11 @@ Toilet paper and boxes lay scattered everywhere, and the shelves appear shuffled
 For the shelves:
 - Cup noodles on the bottom-left. Interacting with it to a point…
 >”We used to have a shared rock collection, but now everyone has their own.”
-- 
+- Horizontally adjacent is a shelf with energy drinks, cups, cleaning supplies, as well as more toilet paper.
 
 
 
 
 [^1]: Is a reference to the game “Omori”.
 
-[^2]: All due to Mupton.
+[^2]: Potentially because of Ark or Mupton.
