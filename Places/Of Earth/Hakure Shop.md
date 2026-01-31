@@ -3,7 +3,8 @@ Near the shelf full of different kinds of soda is a stack of boxes with a cd of 
 ![[Hakure Shop.png|center]]
 Toilet paper and boxes lay scattered everywhere, and the shelves appear shuffled into barely categorized sorts[^2]. [[Mupton]] is set behind the counter, [[Fitty]] on the left corner eating noodles, and [[X]] standing idly next to the fridges on the top-left. 
 For the shelves:
-- Cup noodles on the bottom-left.
+- Cup noodles on the bottom-left. Interacting with it to a point…
+>”We used to have a shared rock collection, but now everyone has their own.”
 - 
 
 
