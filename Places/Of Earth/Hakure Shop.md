@@ -5,8 +5,8 @@ Toilet paper and boxes lay scattered everywhere, and the shelves appear shuffled
 For the shelves:
 - Cup noodles on the bottom-left. Interacting with it to a point…
 >”We used to have a shared rock collection, but now everyone has their own.”
-- Horizontally adjacent is a shelf with energy drinks, cups, cleaning supplies, as well as more toilet paper. It tells and reminds [[Karam(Earth)|Karam]] how [[Ark]] had trouble being tidy since childhood, so Karam did these things for him.
-- 
+- Horizontally adjacent is a shelf with energy drinks, cups, cleaning supplies, as well as more toilet paper. It tells and reminds [[Karam(Earth)|Karam]] how [[Ark]] had trouble being tidy since childhood, so Karam did these things for him, while teaching him as well. Interacting with the shelf some more makes Karam upset Ark regressed back to his old habits.
+- Next is the shelf with lines of water bottles.
 
 
 
