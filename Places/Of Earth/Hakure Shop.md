@@ -7,7 +7,7 @@ For the shelves:
 >”We used to have a shared rock collection, but now everyone has their own.”
 - Horizontally adjacent is a shelf with energy drinks, cups, cleaning supplies, as well as more toilet paper. It tells and reminds [[Karam(Earth)|Karam]] how [[Ark]] had trouble being tidy since childhood, so Karam did these things for him, while teaching him as well. Interacting with the shelf some more makes Karam upset Ark regressed back to his old habits.
 - Next is the shelf with lines of water bottles.
-- And then the shelf of Christmas Ornaments 
+- And then the shelf of Christmas Decorations
 
 
 
