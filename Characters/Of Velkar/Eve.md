@@ -40,7 +40,7 @@ https://discord.com/channels/1046929328451112980/1047284163906129960/13937231367
 ```
 
 ```ad-example
-title: Caturday post - Eve kicking(Not literally and not permanently) [[Laschka]] out of her room for being messy
+title: Caturday - Eve kicking(Not literally and not permanently) [[Laschka]] out of her room for being messy
 
 **Hello all!** Today, Laschka sleep in living room. Eve get mad to him, because Laschka little messy sometime. Luminyan no let him in his room too, because Laschka make lot noise in night. But Laschka love them so much! Eve sometime angry, but she very good cousin and leader. When Eve mad, Laschka sleep in living room so she no mad more. Luminyan very patient too, but he have limit, ha ha woof!
 
