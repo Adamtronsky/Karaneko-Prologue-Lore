@@ -8,6 +8,7 @@ For the shelves:
 - Horizontally adjacent is a shelf with energy drinks, cups, cleaning supplies, as well as more toilet paper. It tells and reminds [[Karam(Earth)|Karam]] how [[Ark]] had trouble being tidy since childhood, so Karam did these things for him, while teaching him as well. Interacting with the shelf some more makes Karam upset Ark regressed back to his old habits.
 - Next is the shelf with lines of water bottles.
 - And then the shelf of Christmas Decorations
+The middle fridge of the three on the top-left contain frozen pizzas, something that Karam has been making for Nayan ever since their mom ‘left’, and it reminds him that he “needs to pull himself together”.
 
 
 
