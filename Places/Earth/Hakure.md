@@ -1,4 +1,0 @@
-- Dirty compared to Karam's place. You can interact with every trash on the ground.
-- The roads are blocked after [[The Incident]].
-- The CD near the store is an OMORI reference (dev confirmed)
-

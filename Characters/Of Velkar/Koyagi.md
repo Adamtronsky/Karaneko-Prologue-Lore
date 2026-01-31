@@ -1,15 +1,14 @@
 ![[Kickstarter Koyagi.png |center]]
 
 - (According to Kickstarter)Also known as **Chief Detective** Koyagi.
-- Experienced in fighting "Shadow Mages", for [[Vegoia]].
+- Experienced in fighting "Shadow Mages", for [[Vegoia]]. <span style="color:rgb(251, 254, 77)">Could also be of</span> [[Vegoia]]
 - Owns(and wields) the sword "Zephyr". A sword that "neutralizes and traps dark magic."
 - A detective that works alone and with secrecy.
-
-- Appear at the end of the Knife ending in the demo, coming out of the portal some time after Oskos, Ophelia and Karam leave to *catch* Yurim.
+- (For intiality)Appears at the end of the knife ending in the demo following Karam, Ophelia, and Oskos as they go back for Yurim.
 
 - Relevant caturdays:
 	- "Report No. 893" The Cabin at Storm Peak: (https://discord.com/channels/1046929328451112980/1047284163906129960/1261798914823028817)
 	- "Report No. 894" The Fallow Deer and the Wolves: (https://discord.com/channels/1046929328451112980/1047284163906129960/1315038670775910522)
-	- A mysterious message mentioning Koyagi: (https://discord.com/channels/1046929328451112980/1047284163906129960/1299832604693889074)
+	- A mysterious message with a mention of Koyagi: (https://discord.com/channels/1046929328451112980/1047284163906129960/1299832604693889074)
 
 ![[sKoyagiBoss_0.png]]

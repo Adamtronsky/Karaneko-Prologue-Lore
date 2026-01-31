@@ -2,34 +2,25 @@
 ~
 ---
 ![[Kickstarter Eve.png| center]]
->
-
 ```ad-quote
 "Eve. A rather serious looking individual. She is a senior at 'The Academy', characterized by her fox-like ears and red accents that also serve to support the ferocity in her character. She may come off as grumpy, especially so when bearing a sharp visage. But…
 Oh, well. Every 'sinner' has their future."
 
 ```
 - Of the Fox Clan. Yet her current status within it is undeterminable; Blessed by a Fox Animal Spirit.
+- <span style="color:rgb(251, 254, 77)">Originally of the region</span> [[Ryuujin]], now staying at the [[Eve(And technically Laschka)'s Room |dorms]].
 - Cousins with [[Laschka]].
 - The founder of a small but "powerful rebellious gang" in [[Ryuujin]]. Despite denying being called 'Boss'([[Kickstarter page]])], [[Laschka]] himself says that Eve is a good leader.
-- Can easily recognize a wolf's scent, as observed in the ending where you leave Yurim to die to it [^2] 
-- [ ] <mark style="background: #FF5582A6;">Add more detail to above bullet ^</mark>
+- (For initiality)Can easily recognize a wolf's scent after an ending with the wolf where you leave Yurim to die. 
+- [ ] ^ remember to link the relevant point of the plot.
 - Harbors a cloak "resembling a fox's tail."
 - Loves listening to music(in secret); hates being disturbed during it. And her favorite food is red salmon
-- Keeps her room tidy; gets angry at [[Laschka]] for being messy.
+- Keeps her room tidy; gets angry at [[Laschka]] for being messy. <span style="color:rgb(122, 211, 255)">Sharing parallels with</span> [[Karam(Earth)]]
+- *Conceptualized by “Mau”*
 
-```ad-cite
-
-# <span style="color:rgb(205, 106, 251)">***CANONICALLY RACIST***</span> 
-
-```
+- <span style="color:rgb(251, 254, 77)">Bears ill will towards the wolf clan</span>.[^1]
 
 - **Relevant caturdays:**
-	- Eve kicking(Not literally and not permanently) [[Laschka]] out of her room for being messy: (https://discord.com/channels/1046929328451112980/1047284163906129960/1327721213702836316)
-	- Eve sharing details about herself: (https://discord.com/channels/1046929328451112980/1047284163906129960/1259259144129613907)
-	- Insight on Eve's past: (https://discord.com/channels/1046929328451112980/1047284163906129960/1332753578883813497)
-
-
 ```ad-example
 title: Caturday - <mark style="background: #FF5582A6;">Vaguely implying something when Eve gets overwhelmed</mark>
 
@@ -103,11 +94,67 @@ https://discord.com/channels/1046929328451112980/1047284163906129960/13327535788
 
 ```
 
+```ad-example
+title: Caturday - Eve apologizes for being mad, and shows her love for music
+
+*Uhm, uhm...* Greetings, Yurim’s readers, 
+
+I have thought a lot after writing that angry message. Did I really need to be that mad at you? I don’t know. Maybe, I just took out my anger on you instead of *well, instead of Yurim.*
+
+**Don’t be mad at me, be mad at Yurim!** 💢
+
+When Yurim first asked me, *“Do you write?”* I got angry. *“Me? What could I possibly tell anyone? Why would anyone want to listen to me?”*
+
+**I don’t understand, and this makes me furious! 💢**
+
+Yurim’s endless insistence only fueled my anger… and here’s the result: *I took it out on you.* 
+
+**I told you, don’t be mad at me, be mad at Yurim! 💢**
+
+*Anyway...*
+
+Like I said, I thought a lot about it, and I finally found something to tell you: People don’t know how to listen to music. 
+
+**They really don’t! And it drives me insane.** 💢
+
+Sometimes, seeing the horrible injustice done to an amazing artist makes my blood boil. So, I figured I should teach you how to listen to music properly.
+
+🎵 **Evee’s Guide to Listening to Music** 🎵 
+
+**1. The biggest mistake: Skipping songs randomly! ⁉️**
+
+Switching before a song ends is an insult. Maybe the artist has a hidden perfect solo or a completely unexpected theme at the end.
+
+*Missing that... would be a real shame.*
+
+**2. Don’t listen to music that doesn’t tell a story! ‼️**
+
+Avoid those soulless **"factory-made"** sounds that just fill your ears without meaning. They are made for slaves…** Don’t be one of them!**
+
+  **3. How to listen to music the right way?**  
+
+> **ONE:** Never listen to music in a crowd!
+>  
+> **TWO:** Get yourself a good pair of headphones. (Yes, good ones.) ❕ 
+>  
+> **THREE:** Find a comfortable place and settle in.
+>  
+> **FOUR:** Turn off the lights and close your eyes.
+
+*🎵 Then... just listen. 🎵*
+
+Try to hear every note. Follow every instrument, every chord. Try to understand what the artist is telling you. Visualize it. Let the music take you away.
+
+**And finally...** Stay away from slave music. Don’t lower yourself to their level. Don’t become like everyone else **-be yourself.**
+
+**ALSO...**
+
+Don’t think I am sleeping when I close my eyes -I am not! I am living the music. No matter what, 
+**NEVER, EVER, UNDER ANY CIRCUMSTANCES, WAKE ME UP!!! ‼️ ‼️ ‼️**
+```
 
 
-# [^2]: Need more details on this.
 
 
 
-**Con Cogitatio Log:**
-| 
+[^1]: https://discord.com/channels/1046929328451112980/1047284163906129960/1332753578883813497

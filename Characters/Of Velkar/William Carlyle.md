@@ -1,4 +1,1 @@
-[[Luminyan]]'s Mentor
-- Implicated in dark events in the academy.
-
-Maybe mentioned in 10/26/24 caturday together with Luminyan
+<span style="color:rgb(255, 176, 66)">Almost all the information about this character is contradicting. </span> 
