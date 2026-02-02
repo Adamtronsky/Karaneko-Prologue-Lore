@@ -1,4 +1,4 @@
 ![[The Legend of Velkar]]
 
-> [!quote]
-> Contents
+> [!quote] Nayan:
+> **AAHHHH!**
