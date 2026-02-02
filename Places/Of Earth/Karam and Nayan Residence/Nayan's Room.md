@@ -5,7 +5,7 @@ The shelf contains action figures and videogames, and seemingly seamlessly is a 
 On the bottom right corner is an empty fish bowl that used to house Nayan’s pet fish “Jack”, having been given along [[Yurim(Earth)|Yurim]] from [[X]].
 Last is “Voli”, “swimming on the floor”.
 ___
-- ![[Screenshot 2026-01-30 100033.png|center]]
+- ![[Nayan's Room at Evening.png|center]]
 	After playing chess with [[Nayan]](albeit, left incomplete), [[Karam(Earth)|Karam]] can got to Nayan’s bed and take the blanket off. Leaving Karam to either choose to wrap it around Nayan, or to make the bed.
 
 [^1]: It is a gift.
