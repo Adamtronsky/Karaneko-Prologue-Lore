@@ -71,7 +71,9 @@ They stepped into the graceful path of [['God of Love' - Nanaya |God of Love]].
 
 She was supposed to exist for the people, Yet the unexpected happened…”
 
-And that is where that ends for now…But gods fighting with one another may not go unnoticed by the Divine Mother. 
+
+
+And that is where that foretale ends for now…
 
 When the time comes, will she be indifferent once more?
 
