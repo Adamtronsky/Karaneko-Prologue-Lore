@@ -23,5 +23,3 @@ The adoring people of [[Ninova]] we're blessed by love.
 They stepped into the graceful path of [['God of Love' - Nanaya|'God of Love' - Nanaya]]. 
 
 She was supposed to exist for the people, Yet the unexpected happened..."
-
--- game cutscene shuts off. It was [[Karam(Earth)]] playing on his PC and Nayan shut it off by walking on the socket button xd.
