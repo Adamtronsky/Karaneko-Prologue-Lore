@@ -25,7 +25,8 @@ ___
 	To the immediate left of the door are pictures of [[Nayan]] and [[Karam(Earth)|Karam]] in aprons; [[Karam(Earth)|Karam]] remarks that [[Nayan]] looked confident, but his cooking skills didn’t match. To the upper right is an undisturbed water bottle[^4], and below is a solo hardwood table set. The fridge with a few photographs and magnets in the center of the room has a note on it with the recipe for [[Nayan|Nayan’s]] sandwich[^5]. The rest of the kitchen items have been cleaned. And interacting with the chopping board while having the ingredients prompts to creating [[Nayan|Nayan’s]] sandwich.
 
 ___
-##### 1st Floor(‘Storage Room’):	![[Karam and Nayan's Storeroom.png|center]]
+##### 1st Floor(‘Storage Room’):	
+![[Karam and Nayan's Storeroom.png|center]]
 Above the entrance is a framed photo on a box[^6], also next to it is an arcade machine(save point). Following along the upper wall is Karam’s very first drawing, from a time when he was very fond of dogs, and below it on the boxes is a toy watch that once had an important role in Karam and Nayan’s “adventure’s”, from it, Karam remarks being a “Dragon Agent” of an agent group Karam forgot the name of. 
 	The books on the shelf do not belong to Karam and Nayan.
 	A lamp with a broken bulb, and a punching bag for training battle movement.
