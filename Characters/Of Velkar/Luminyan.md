@@ -1,5 +1,8 @@
 ![[Kickstarter Luminyan.png |center]]
-> "Luminyan appears as a well performative student, characterized by his fervent yellow accents–A brightly warm hue, similar to his exhuming kindness. But saints have their pasts, or in this case, a veiled present.
+```ad-quote
+Luminyan appears as a well performative student, characterized by his fervent yellow accents–A brightly warm hue, similar to his exhuming kindness. 
+But saints have their pasts, or in this case, a veiled present.
+```
 
 - [[Luminyan's Room |Roommates]] with [[Karam (Velkar)]].
 - Besides being a student of [[The Academy]], he also follows <span style="color:rgb(251, 254, 77)">his mentor,</span> [[William Carlyle]].[^1]
