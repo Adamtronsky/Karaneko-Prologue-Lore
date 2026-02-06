@@ -25,4 +25,5 @@ Karam makes their way up the stairs with Nayan’s Sandwich–
 
 ![[sNayanBlep 1.png|right]]
 Returning to the kitchen, grabbing the water bottle on the chair–
-Karam makes their way up the stairs with Nayan’s Sandwich and water.
+Karam makes their way up the stairs with Nayan’s Sandwich, and water.
+
