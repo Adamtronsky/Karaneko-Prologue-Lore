@@ -19,5 +19,10 @@ Karam goes down, passes by the [[Karam and Nayan Residence#1st Floor(‘Storage 
 ![[Karam and Nayan's Kitchen.png]]
 Karam sees the note on the fridge for “an easy sandwich recipe”, takes the ingredients to the cutting board, and makes the sandwich.
 Karam makes their way up the stairs with Nayan’s Sandwich–
+![[sNayanSmirk.png|right]]
 >[!quote] Nayan:
->
+>Hey Karam! Can you get me some water too?
+
+![[sNayanBlep 1.png|right]]
+Returning to the kitchen, grabbing the water bottle on the chair–
+Karam makes their way up the stairs with Nayan’s Sandwich and water.
