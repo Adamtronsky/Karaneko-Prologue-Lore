@@ -8,7 +8,7 @@
 	![[Karam and Nayan's Bathroom.png|center]]
 	A clean bathroom with a weighing scale[^3], a duck on the floor that squeaks when stepped on, toiletries on the sink, and medicine beside it. 
 ___
--  ##### 1st floor(Living Room): 
+- ##### 1st floor(Living Room): 
 	![[Karam and Nayan's Living room.png |center]]
 	A cat “parkour course” has been carefully set up above the door to the second floor that Yurim doesn’t play on 
 	Above the dusty lampstand is the door to the storeroom, and below it, the kitchen. There are orange sofas with Yurim’s fur on it, next to them is one of Nayan’s colorfully potted plants. A fake pine tree, a shoe cabinet with an umbrella on it, and a coat rack.
