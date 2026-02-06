@@ -13,6 +13,7 @@ Progressing through [[Karam's Room(Earth)|Karam’s Room]], they make their way 
 ![[Karam and Nayan's 2nd floor hall.png|center]]
 <center>”2nd Floor Hallway”</center>
 
-As Karam exits their room, [[Yurim(Earth)|Yurim]] follows Karam outside. The Hall connects to [[Nayan's Room]], [[Karam's Room(Earth)|Karam’s Room]]
+As Karam exits their room, [[Yurim(Earth)|Yurim]] follows Karam outside. The Hall connects to [[Nayan's Room]], [[Karam's Room(Earth)|Karam’s Room]], [[Karam and Nayan Residence#2nd Floor(Bathroom)|the bathroom]], and the [[Karam and Nayan Residence#1st floor(Living Room)|living room]].
+
 
 
