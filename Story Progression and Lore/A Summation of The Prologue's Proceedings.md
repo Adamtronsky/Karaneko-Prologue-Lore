@@ -16,5 +16,5 @@ Progressing through [[Karam's Room(Earth)|Karam’s Room]], they make their way 
 As Karam exits their room, [[Yurim(Earth)|Yurim]] follows Karam outside. The Hall connects to [[Nayan's Room]], [[Karam's Room(Earth)|Karam’s Room]], [[Karam and Nayan Residence#2nd Floor(Bathroom)|the bathroom]], and the [[Karam and Nayan Residence#1st floor(Living Room)|living room]].
 ![[Karam and Nayan's Living room.png]]
 Karam goes down, passes by the [[Karam and Nayan Residence#1st Floor(‘Storage Room’)|storage room]], and into the [[Karam and Nayan Residence#1st floor(Kitchen)|kitchen]].
-[[Karam and Nayan's Kitchen.png]]
-
+![[Karam and Nayan's Kitchen.png]]
+Here, Karam grabs the ingredients for the sandwich
