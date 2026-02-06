@@ -14,22 +14,22 @@ ___
 	A cat “parkour course” has been carefully set up above the door to the second floor that Yurim doesn’t play on 
 	Above the dusty lampstand is the door to the storeroom, and below it, the kitchen. There are orange sofas with Yurim’s fur on it, next to them is one of Nayan’s colorfully potted plants. A fake pine tree, a shoe cabinet with an umbrella on it, and a coat rack.
 	
-Scattered across the room are items that bring out Karam’s memory of the past with his friends:
+- Scattered across the room are items that bring out Karam’s memory of the past with his friends:
 	- A photo of [[Karam(Earth)|Karam]] and [[Nayan]] hanging under the cat course, reflecting on it: "Two kids once in a world that seemed endless", then it felt like there were no more room for those days.
 	 - A gamepad on the floor that belonged to [[Mupton]], now something that [[Nayan]] uses everyday. It brings the memory of [[Karam(Earth)|Karam]] and his friends meeting up at the house every week for tournaments, and that [[Mupton]] thought he could beat [[Karam(Earth)|Karam]] with a new controller. The gamepads can then be arranged closer at the TV’s base.
 	 - An old ball near the fake pine tree that [[Karam(Earth)|Karam]] had found a few days before. It reminds [[Karam(Earth)|Karam]] of the time [[Ark]] broke a window while playing at home, and when his mother saw it, he took the blame for [[Ark]]. And his mother was proud of him till the end.
 	 - A birthday photo next to the door to the outside. Taken the day [[X]] gifted the black kitten, [[Yurim(Earth) |Yurim]], to [[Karam(Earth) |Karam]].
 ___
-- ##### 1st floor(Kitchen):
-	![[Karam and Nayan's Kitchen.png|center]]
+##### 1st floor(Kitchen):
+![[Karam and Nayan's Kitchen.png|center]]
 	To the immediate left of the door are pictures of [[Nayan]] and [[Karam(Earth)|Karam]] in aprons; [[Karam(Earth)|Karam]] remarks that [[Nayan]] looked confident, but his cooking skills didn’t match. To the upper right is an undisturbed water bottle[^4], and below is a solo hardwood table set. The fridge with a few photographs and magnets in the center of the room has a note on it with the recipe for [[Nayan|Nayan’s]] sandwich[^5]. The rest of the kitchen items have been cleaned. And interacting with the chopping board while having the ingredients prompts to creating [[Nayan|Nayan’s]] sandwich.
-	___
-- ##### 1st Floor(‘Storage Room’):
-	![[Karam and Nayan's Storeroom.png|center]]
-	Above the entrance is a framed photo on a box[^6], also next to it is an arcade machine(save point). Following along the upper wall is Karam’s very first drawing, from a time when he was very fond of dogs, and below it on the boxes is a toy watch that once had an important role in Karam and Nayan’s “adventure’s”, from it, Karam remarks being a “Dragon Agent” of an agent group Karam forgot the name of. 
+
+___
+##### 1st Floor(‘Storage Room’):	![[Karam and Nayan's Storeroom.png|center]]
+Above the entrance is a framed photo on a box[^6], also next to it is an arcade machine(save point). Following along the upper wall is Karam’s very first drawing, from a time when he was very fond of dogs, and below it on the boxes is a toy watch that once had an important role in Karam and Nayan’s “adventure’s”, from it, Karam remarks being a “Dragon Agent” of an agent group Karam forgot the name of. 
 	The books on the shelf do not belong to Karam and Nayan.
 	A lamp with a broken bulb, and a punching bag for training battle movement.
-	There are two other items here that bring up Karam’s past with his friends:
+- There are two other items here that bring up Karam’s past with his friends:
 	- The CD on top of the box near the bookshelf. [[Skip]] had given Karam the CD back then to install the games on it for the Kids([[Lain]] and [[Pepenu]]) in [[The gang]]. But Karam never did.
 	- The stacked middle school books on the box. Interacting with it makes [[Karam(Earth)|Karam]] reminisce about a time when, before exam week, the gang would gather at his house and listen to him teach. [[Skip]], [[Mupton]], and [[Ark]], are remarked to not have listened well. While [[X]], [[Fitty]], and Sari passed thanks to [[Karam(Earth)|Karam]]. They had promised to go to the same university together, but after an incident, everyone stopped studying.
 
@@ -45,6 +45,7 @@ ___
 
 [^5]: ```ad-quote
 Fill the sandwich with sausage, cheddar cheese, bell pepper, tomato, avocado, corn, hot sauce, egg, olives, butter, mayonnaise, ketchup, mustard.
+
 
 [^6]: ![[Nayan's Baby Photo.png]]
 	```ad-quote
