@@ -6,4 +6,5 @@
 
 The [[The Legend of Velkar|Cutscene]] is interrupted by [[Nayan]], who apologizes for turning [[Karam(Earth)|Karam’s]] computer off; Nayan was distracted looking at the poster of Reira and accidently pressed the button of the power socket below it.
 ![[Karam's Room(Earth).png]]
-<p styl*Karam’s Room*</p>
+<center><italic Karam’s Room </center>
+
