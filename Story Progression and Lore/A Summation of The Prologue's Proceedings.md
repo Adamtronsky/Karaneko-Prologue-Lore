@@ -17,4 +17,7 @@ As Karam exits their room, [[Yurim(Earth)|Yurim]] follows Karam outside. The Hal
 ![[Karam and Nayan's Living room.png]]
 Karam goes down, passes by the [[Karam and Nayan Residence#1st Floor(‘Storage Room’)|storage room]], and into the [[Karam and Nayan Residence#1st floor(Kitchen)|kitchen]].
 ![[Karam and Nayan's Kitchen.png]]
-Here, Karam grabs the ingredients for the sandwich
+Karam sees the note on the fridge for “an easy sandwich recipe”, takes the ingredients to the cutting board, and makes the sandwich.
+Karam makes their way up the stairs with Nayan’s Sandwich–
+>[!quote] Nayan:
+>
