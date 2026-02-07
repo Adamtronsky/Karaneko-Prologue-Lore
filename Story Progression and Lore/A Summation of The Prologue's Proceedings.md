@@ -55,4 +55,6 @@ Idling here are [[Razer]], [[Pepenu]], and [[Lain]]. They give their greetings t
 
 [[Skip]] is off to the left of the Hakure shop carrying boxes around. Karam passes him as well and enters the shop.
 ![[Hakure Shop.png]]
-Inside, Karam sees [[Mupton]] and [[Fitty|Fites]].
+Inside, Karam sees [[Mupton]] and [[Fitty|Fites]]. And as Karam wanders through the aisle, [[X]] sees him
+![[X1.png|right]]
+turns around…
