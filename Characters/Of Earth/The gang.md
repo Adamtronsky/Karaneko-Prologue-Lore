@@ -1,10 +1,10 @@
-“The gang” is a group of friends and family living in the town of Hakure. Apart from Karam’s [[Mother]], they compose every npc visible on Earth, and everyone part of the gang can be found outside. 
-It is composed of:
+“The gang” is a group of friends and family living in the town of Hakure. Apart from Karam’s [[Mother]], everyone part of the gang can be found outside. 
+It’s members are:
 - [[Karam(Earth)]] the leader; the whole gang is very attached to Karam, and the situation degraded for everyone once Karam isolated himself due to [[The Incident]].
 - [[Sari]] : Karam’s “best friend”
 - [[Nayan]]: Karam’s beloved brother
 - [[X]] : In love with Karam, she has changed the most since her family died in [[The Incident]].
-- [[Ark]] : hot headed and turbulent, he suffers greatly of Karam’s isolation and confronts him.
+- [[Ark]] : hot headed and turbulent, he suffers greatly off Karam’s isolation and confronts him.
 - [[Skip]] : likes to take care of the younger kids of the gang 
 - [[Fitty]] : studious friend found eating noodles
 - [[Lain]] : Nayan’s friend from school that wrote a song with him
