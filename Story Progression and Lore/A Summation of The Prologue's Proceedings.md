@@ -69,4 +69,4 @@ Rain had started to fall while Karam was in the shop; Everyone outside had left 
 >[!quote] Ark:
 >Finally! You left you house, do you have any idea how many days I’ve been planning this for?
 
-[[Ark]] has come to confront Karam, the first fight.
+[[Ark]] has come to confront Karam, the first fight. 
