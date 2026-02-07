@@ -49,3 +49,8 @@ Cross the road, and Karam will find himself walking through a park.
 ![[The Park.png]]
 Idling here are [[Razer]], [[Pepenu]], and [[Lain]]. They give their greetings to Karam as he simply passes by.
 ![[The front of Hakure Shop.png]]
+![[sSkipface.png|right]]
+>[!quote] Skip:
+>No way, Karam! Dude, are you like a New Year's gift or something? What a surprise! I was just about to talk to Mupton too!
+
+Karam,
