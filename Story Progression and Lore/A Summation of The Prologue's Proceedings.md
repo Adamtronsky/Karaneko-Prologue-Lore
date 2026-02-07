@@ -27,6 +27,7 @@ Karam makes their way up the stairs with Nayan’s Sandwich–
 Returning to the kitchen, grabbing the water bottle on the chair–
 Karam makes their way up the stairs with Nayan’s Sandwich, and water.
 ![[Nayan's Room.png]]
-Karam enters the room and gives Nayan the things he requested, and the two play a round of Douhou. And then Karam wins *again*, to which Nayan reacts accordingly:
+Karam enters the room and gives Nayan the things he requested, and the two play a round of Douhou, with Karam winning *again*. Nayan backs gets off their seat and remarks how they’ve “finished easy mode and everything”. 
+
 >[!quote] Nayan:
 >
