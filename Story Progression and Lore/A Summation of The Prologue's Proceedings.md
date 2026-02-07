@@ -44,3 +44,4 @@ Karam grabs the blanket, and wraps Nayan in it, making Nayan look like a “burr
 ![[Screenshot 2025-12-20 031813.png]]
 
 
+![[Karam and Nayan's front porch.png]]
