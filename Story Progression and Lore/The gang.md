@@ -18,7 +18,7 @@ In the past The Gang:
 	>“You all stopped studying after the incident.”
 - Had pine cones fight on the park; this is remembered as one of the best days of Karam’s Life with the gang #toconfirm 
 
-It seems most of the grown up gang now works at the [[Hakure Shop]]: [[Skip]] is seen holding a carton in front of the shop, [[Mupton]] is the clerk at our time of visit, [[Ark]] is reported being in charge of some shelves.. We can also see [[Sari]] smoking in front of the store, maybe as a smoking break.
+It seems most of the grown up gang now works at the [[Hakure Shop]]: [[Skip]] is seen holding a carton in front of the shop; [[Mupton]] is the clerk at our time of visit. [[Ark]] is reported being in charge of some shelves. We can also see [[Sari]] smoking in front of the store, maybe as a smoking break.
 
 Apart from X’s deceased family, there is no mention or sight ever of anyone other than this group.
 
