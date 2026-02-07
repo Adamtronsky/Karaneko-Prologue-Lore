@@ -58,3 +58,6 @@ Idling here are [[Razer]], [[Pepenu]], and [[Lain]]. They give their greetings t
 Inside, Karam sees [[Mupton]] and [[Fitty|Fites]]. And as Karam wanders through the aisle, [[X]] sees him
 ![[X1.png|right]]
 turns around…
+![[X2.png|right]]
+>[!quote] ‘X’:
+>…Finally, Mr. Karam decided to crawl out of his cave and bless us with that(The dialogue within the game is cut for some odd reason…)
