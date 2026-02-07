@@ -53,4 +53,4 @@ Idling here are [[Razer]], [[Pepenu]], and [[Lain]]. They give their greetings t
 >[!quote] Skip:
 >No way, Karam! Dude, are you like a New Year's gift or something? What a surprise! I was just about to talk to Mupton too!
 
-Karam,
+Skip is off to the left of the Hakure shop carrying boxes around
