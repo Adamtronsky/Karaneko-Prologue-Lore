@@ -40,4 +40,7 @@ Nayan is referring to playing chess here. Karam goes around Nayan’s room, thin
 ![[Screenshot 2026-01-30 100033.png]]
 Nayan falls asleep in the middle of the game, leaving him out cold.
 ![[Screenshot 2026-01-30 101347.png]]
-Karam grabs the blanket, and wraps Nayan in it, making Nayan look like a “burrito”.
+Karam grabs the blanket, and wraps Nayan in it, making Nayan look like a “burrito”. The Karam goes back to his mental note of his tasks; Now that Nayan is asleep, he heads down to the living room once more and heads [[Karam and Nayan Residence|outside the house]].
+![[Screenshot 2025-12-20 031813.png]]
+
+
