@@ -12,9 +12,10 @@ It’s members are:
 - [[Pepenu]] : young boy found hanging out with Razer
 - [[Razer]] : Young girl found hanging out with Pepenu
 
-The gang
+In the past The Gang:
 - Used to have tournaments every week at [[Karam and Nayan Residence|Karam's]]. [[Mupton]] forgot his controller there
-- Used to have exam cramming sessions given by Karam. But you all stopped studying after the incident.
+- Used to have exam cramming sessions given by Karam. But… 
+	>“You all stopped studying after the incident.”
 - Had pine cones fight on the park; this is remembered as one of the best days of Karam’s Life with the gang #toconfirm 
 
 It seems most of the grown up gang now works at the [[Hakure Shop]]: [[Skip]] is seen holding a carton in front of the shop, [[Mupton]] is the clerk at our time of visit, [[Ark]] is reported being in charge of some shelves.. We can also see [[Sari]] smoking in front of the store, maybe as a smoking break.
