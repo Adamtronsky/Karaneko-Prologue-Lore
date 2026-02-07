@@ -64,4 +64,4 @@ turns around…
 
 Karam proceeds and buys everything that he needs from the shop. [[Mupton]] remarks that Karam doesn’t “usually come around this early.” As Karam intends to pay, Mupton says, “Bro, this one’s on me.” Asking in exchange that he greet Nayan for him.
 
-Rain had started to fall while Karam was in the shop; Everyone outside had left their spots. Karam makes his way home with all that he ‘bought’. He crosses the road into the  his house again–
+Rain had started to fall while Karam was in the shop; Everyone outside had left their spots. Karam makes his way home with all that he ‘bought’. He crosses the road, back into the perimeter of his house–
