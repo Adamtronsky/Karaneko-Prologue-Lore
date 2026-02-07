@@ -36,4 +36,7 @@ Karam enters the room and gives Nayan the things he requested, and the two play 
 >[!quote] Nayan:
 >I still got enough energy to tussle with you. This time I want to play a game that requires more 'intelligence' with you!
 
-Nayan is referring to playing chess here. Karam goes aroun
+Nayan is referring to playing chess here. Karam goes around Nayan’s room, thinking, before talking to Nayan again and accepting the challenge.
+![[Screenshot 2026-01-30 100033.png]]
+Nayan falls asleep in the middle of the game, leaving him out cold.
+![[Screenshot 2026-01-30 101347.png]]
