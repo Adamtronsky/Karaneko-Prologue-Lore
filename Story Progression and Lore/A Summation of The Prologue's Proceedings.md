@@ -62,4 +62,6 @@ turns around…
 >[!quote] ‘X’:
 >…Finally, Mr. Karam decided to crawl out of his cave and bless us with that(The dialogue within the game is cut for some odd reason…).
 
-Karam proceeds and buys everything that he needs from the shop. [[Mupton]] remarks that Karam doesn’t “usually come around this early.” As Karam intends to pay, Mupton 
+Karam proceeds and buys everything that he needs from the shop. [[Mupton]] remarks that Karam doesn’t “usually come around this early.” As Karam intends to pay, Mupton says, “Bro, this one’s on me.” Asking in exchange that he greet Nayan for him.
+
+Rain had started to fall while Karam was in the shop. Everyone outside 
