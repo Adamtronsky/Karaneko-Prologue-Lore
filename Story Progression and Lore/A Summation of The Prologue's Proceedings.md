@@ -45,7 +45,7 @@ Karam grabs the blanket, and wraps Nayan in it, making Nayan look like a “burr
 
 
 ![[Karam and Nayan's front porch.png]]
-Cross the road, and Karam will find himself walking through a park.
+Cross the road, and Karam will find himself walking away from the house, then through the park.
 ![[The Park.png]]
 Idling here are [[Razer]], [[Pepenu]], and [[Lain]]. They give their greetings to Karam as he simply passes by.
 ![[The front of Hakure Shop.png]]
@@ -64,4 +64,4 @@ turns around…
 
 Karam proceeds and buys everything that he needs from the shop. [[Mupton]] remarks that Karam doesn’t “usually come around this early.” As Karam intends to pay, Mupton says, “Bro, this one’s on me.” Asking in exchange that he greet Nayan for him.
 
-Rain had started to fall while Karam was in the shop; Everyone outside had left their spots. Karam makes his way home with all that he ‘bought’. He crosses the road outside his house again–
+Rain had started to fall while Karam was in the shop; Everyone outside had left their spots. Karam makes his way home with all that he ‘bought’. He crosses the road into the  his house again–
