@@ -60,4 +60,5 @@ Inside, Karam sees [[Mupton]] and [[Fitty|Fites]]. And as Karam wanders through 
 turns around…
 ![[X2.png|right]]
 >[!quote] ‘X’:
->…Finally, Mr. Karam decided to crawl out of his cave and bless us with that(The dialogue within the game is cut for some odd reason…)
+>…Finally, Mr. Karam decided to crawl out of his cave and bless us with that(The dialogue within the game is cut for some odd reason…).
+
