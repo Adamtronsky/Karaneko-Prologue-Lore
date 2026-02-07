@@ -45,4 +45,4 @@ Karam grabs the blanket, and wraps Nayan in it, making Nayan look like a “burr
 
 
 ![[Karam and Nayan's front porch.png]]
-Cross the road
+Cross the road, and Karam will find himself walking through a park
