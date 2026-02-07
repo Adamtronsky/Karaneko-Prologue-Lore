@@ -47,8 +47,10 @@ Ping `@Pralii~~` or `@Solv` for help.
 Big thanks to:
 - **The KARANEKO team** for making this awesome universe
 - **Mau** and **Power**, part of the dev team and discord staff for answering some of our questions with well-placed comments about our ramblings
-- **Pralii** for being the center of this project, and always there to fix issues and theorize.
+- **Pralii\~\~** for being the center of this project, and always there to fix issues and theorize.
 - **Solv** for being the igniting spark *"you should do a video"* and engine of this project
+- **Stonephish** for a lot of theorising, details, writing notes well and a lot of presence throughout
+- **Asako** for theorising, gameplay recording, details, and good company 
 - **Alec** for hanging out and being moral support and digging up sprites
 - **Deder** for hanging out often and being moral support, finding things out and analyzing the official Karaneko OST 
 - **Noodle** for being the designated "dataminer"
@@ -56,8 +58,8 @@ Big thanks to:
 - **Kirby** for being our volunteer video editor
 - **Lety** for surely drawing the thumbnail for us
 - **Colb** for having advanced knowledge about the game and theories 
-- **Stonephish** for more theorising and details and reading
 - **PinnaAzzurra** for digging up game code and participating in gathering lore
+- **Flamap** for moral support 
   
 This is a young project for now. More thanks incoming. I probably forgot people…
 - **Yurim** for being the cutest cat

@@ -48,7 +48,12 @@ X because she's his ex lmao
 
 but Karam still thinks about her. He has X’s number in his pockets and still carries around her hair tie. She is still obsessed over Karam but their relation got awkward since the incident due to Karam holing himself up.
 
+X can be observed “fixing herself up” significantly at the sight of Karam in the [[Hakure Shop]]. Fixing her hair, pendant and clothes. She also gains a smile and portrait lights up once you talk to her. <mark style="background: #FFF3A3A6;">This reaction shows that X still loves Karam and wants to appear proper to him. Retaining some sentiments about him.</mark> <mark style="background: #FFB86CA6;">It could be as to show “hey I’m living fine after the incident, don’t worry about me”, or as to look good to Karam in order to ‘try again’ having a relationship. </mark> 
+
+She also has what appears to be a hickey on her neck. <mark style="background: #FF5582A6;">If that is the case</mark>, it could imply the presence of another person having a relationship with her, or at least having marked her as a romantic target. Reasons for this could be very varied and complicated! From her reaching out after the incident and Karam’s isolation in order to cope, live differently or another reason, to her being approached by someone after the incident aiming to comfort her, maybe taking profit of the vulnerable emotional state she must be in. Those scenarios may also link in different ways with her change of appearance; a way to cut ties with her ‘previous life’ from before the incident, now leaning more into debauchery? Other reasons and development are possible. But even then, X fixing herself in front of Karam and insistance to have him call her shows that X’s heart is still with Karam. 
+
 > It is not clearly stated or deductible that it's before or after the incident But we can think about it and assume that their relation changed greatly indirectly _because_ of the incident affecting them both personally on how they manage relations in this post-traumatic time. I doubt it was a direct degradation because of how the incident occurred, rather more something like they both changed a lot and are going through things
+
 
 
 Caturday news: 
