@@ -45,4 +45,6 @@ Karam grabs the blanket, and wraps Nayan in it, making Nayan look like a “burr
 
 
 ![[Karam and Nayan's front porch.png]]
-Cross the road, and Karam will find himself walking through a park
+Cross the road, and Karam will find himself walking through a park.
+![[The Park.png]]
+Idling here are [[Razer]], [[Pepenu]], and [[Lain]]. They give their greetings to Karam as he simply passes by.
