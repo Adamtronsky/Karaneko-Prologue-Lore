@@ -1,6 +1,6 @@
 <center><h3>The Legend of Velkar</h3></center>
 ![[The Legend of Velkar]]
-<span style="color:rgb(229, 228, 226)">One may have completed it</span>
+<span style="color:rgb(50, 50, 50)">One may have completed it…</span>[[The 'Legend' of Velkar|.]]
 
 ![[sNayanCry.png|right]]
 > [!quote] Nayan:
@@ -45,6 +45,7 @@ Nayan falls asleep in the middle of the game, leaving him out cold.
 Karam grabs the blanket, and wraps Nayan in it, making Nayan look like a “burrito”. The Karam goes back to his mental note of his tasks; Now that Nayan is asleep, he heads down to the living room once more and heads [[Karam and Nayan Residence|outside the house]].
 ![[Karam's tasklist.png]]
 
+<center><h3>The Gang</h3></center>
 
 ![[Karam and Nayan's front porch.png]]
 Cross the road, and Karam will find himself walking away from the house, then through the park.
@@ -71,5 +72,6 @@ Rain had started to fall while Karam was in the shop; Everyone outside had left 
 >[!quote] Ark:
 >Finally! You left you house, do you have any idea how many days I’ve been planning this for?
 
+<center><h3>Ark</h3></center>
 ![[Confrontation.png]]
-[[Ark]] has come to confront Karam, the first fight. 
+The first fight in the game is with [[Ark]], also a member of [[The gang|the gang]]. He has come out to 
