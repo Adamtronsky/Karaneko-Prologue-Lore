@@ -84,4 +84,4 @@ He came to confront and lash out on Karam for leaving them after [[The Incident]
 >[!quote] Ark:
 >Look at what I've become…I came here to hit someone I saw as a role model, like a big brother to me. 
 
-Ark brushes past Karam and leaves. And Karam proceeds back inside the house.
+Ark brushes past Karam and leaves. And Karam puts himself back inside the house.
