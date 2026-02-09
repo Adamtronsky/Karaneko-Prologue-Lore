@@ -1,4 +1,5 @@
-![[The Legend of Velkar]]
+![[The Legend of Velkar|The Legend of Velkar]]
+
 
 ![[sNayanCry.png|right]]
 > [!quote] Nayan:
