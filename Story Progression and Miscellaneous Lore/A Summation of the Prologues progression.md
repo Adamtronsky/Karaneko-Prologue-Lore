@@ -75,3 +75,8 @@ Rain had started to fall while Karam was in the shop; Everyone outside had left 
 <center><h3>Ark</h3></center>
 ![[Confrontation.png]]
 The first fight in the game is with [[Ark]], also a member of [[The gang|the gang]]. 
+![[sakface14.png|right]]
+>[!quote] Ark:
+>You Left US!
+
+He came to confront Karam about him leaving them after [[The Incident]]
