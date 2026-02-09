@@ -1,5 +1,6 @@
-![[The Legend of Velkar|The Legend of Velkar]]
-
+<center><h3>The Legend of Velkar</h3></center>
+![[The Legend of Velkar]]
+<span style="color:rgb(229, 228, 226)">One may have completed it</span>
 
 ![[sNayanCry.png|right]]
 > [!quote] Nayan:
@@ -8,7 +9,7 @@
 The [[The Legend of Velkar|Cutscene]] is interrupted by [[Nayan]], who apologizes for turning [[Karam(Earth)|Karam’s]] computer off; Nayan was distracted looking at the poster of Reira and accidently pressed the button of the power socket below it.
 ![[Karam's Room(Earth).png|center]]
 <center> “Karam’s Room” </center>
-
+<center><h3>Time with Nayan</h3></center>
 [[Nayan]] came into [[Karam(Earth)|Karam’s]] room to say that he’s “Finally completed the easy mode”, referring to Douhou. He leaves not before reminding Karam about their promise to fight again when Nayan beats the easy mode, as well as requesting Karam to make a sandwich for him.
 Progressing through [[Karam's Room(Earth)|Karam’s Room]], they make their way out to [[Karam and Nayan Residence#2nd floor(Bedroom hall)|the 2nd floor hallway]].
 ![[Karam and Nayan's 2nd floor hall.png|center]]
