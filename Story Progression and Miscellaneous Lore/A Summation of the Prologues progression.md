@@ -86,4 +86,5 @@ He came to confront and lash out on Karam for leaving them after [[The Incident]
 
 Ark brushes past Karam and leaves. And Karam puts himself back inside the house.
 
-<center><h3>Baking with Nayan</h3></center>
+<center><h3>Baking (with Nayan)</h3></center>
+The Kitchen is where Karam heads next. He had completed one of his tasks, and next were the cookies.
