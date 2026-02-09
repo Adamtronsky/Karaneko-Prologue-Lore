@@ -37,11 +37,11 @@ Karam enters the room and gives Nayan the things he requested, and the two play 
 >I still got enough energy to tussle with you. This time I want to play a game that requires more 'intelligence' with you!
 
 Nayan is referring to playing chess here. Karam goes around Nayan’s room, thinking, before grabbing the chess board and starting the game with Nayan.
-![[Screenshot 2026-01-30 100033.png]]
+![[Nayan's room, Cold Nayan.png]]
 Nayan falls asleep in the middle of the game, leaving him out cold.
-![[Screenshot 2026-01-30 101347.png]]
+![[Nayan's room, Loved Nayan.png]]
 Karam grabs the blanket, and wraps Nayan in it, making Nayan look like a “burrito”. The Karam goes back to his mental note of his tasks; Now that Nayan is asleep, he heads down to the living room once more and heads [[Karam and Nayan Residence|outside the house]].
-![[Screenshot 2025-12-20 031813.png]]
+![[Karam's tasklist.png]]
 
 
 ![[Karam and Nayan's front porch.png]]
@@ -69,5 +69,5 @@ Rain had started to fall while Karam was in the shop; Everyone outside had left 
 >[!quote] Ark:
 >Finally! You left you house, do you have any idea how many days I’ve been planning this for?
 
-![[Screenshot 2026-02-07 115722.png]]
+![[Confrontation.png]]
 [[Ark]] has come to confront Karam, the first fight. 
