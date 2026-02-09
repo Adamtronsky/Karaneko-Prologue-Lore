@@ -82,4 +82,6 @@ The first fight in the game is with [[Ark]], also a member of [[The gang|the gan
 He came to confront and lash out on Karam for leaving them after [[The Incident]].  While Ark tries to attack Karam again and again, Karam doesn’t fight back; tries to calm him down, tries to quiet him down, says nothing, and then smiles at Ark.
 ![[sakface10.png|right]]
 >[!quote] Ark:
->Look at what I've become…I came here to hit someone I saw as a role model, like an big brother to me. 
+>Look at what I've become…I came here to hit someone I saw as a role model, like a big brother to me. 
+
+Ark brushes past Karam and leaves. And Karam proceeds back inside the house.
