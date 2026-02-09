@@ -79,4 +79,5 @@ The first fight in the game is with [[Ark]], also a member of [[The gang|the gan
 >[!quote] Ark:
 >You Left US!
 
-He came to confront and lash out on Karam for leaving them after [[The Incident]]. 
+He came to confront and lash out on Karam for leaving them after [[The Incident]].  While Ark tries to attack Karam again and again, Karam doesn’t fight back; tries to calm him down, tries to quiet him down, says nothing, and then smiles at Ark.
+Ark stops and walks away in frustration.
