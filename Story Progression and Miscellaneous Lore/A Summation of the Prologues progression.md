@@ -91,4 +91,6 @@ The Kitchen is where Karam heads next. He had completed one of his tasks, and ne
 
 The cookies are made and left to bake, meanwhile, Karam, Yurim, and Nayan, rest in the living room. And after the cookies are down, It’s time to send off Nayan to buy something from the market.
 
-Nayan says his temporary farewells as he heads off to buy milk.
+Nayan says his temporary farewells as he heads off to buy milk. 
+
+The next task is to decorate the house while Nayan is away.
