@@ -87,4 +87,8 @@ He came to confront and lash out on Karam for leaving them after [[The Incident]
 Ark brushes past Karam and leaves. And Karam puts himself back inside the house.
 
 <center><h3>Baking (with Nayan)</h3></center>
-The Kitchen is where Karam heads next. He had completed one of his tasks, and next were the cookies.
+The Kitchen is where Karam heads next. He had completed one of his tasks, and next were the cookies. But before Karam could even start in the kitchen, Nayan interjects and does it himself.
+
+The cookies are made and left to bake, meanwhile, Karam, Yurim, and Nayan, rest in the living room. And after the cookies are down, It’s time to send off Nayan to buy something from the market.
+
+Nayan says his temporary farewells as he heads off to buy milk.
