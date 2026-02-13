@@ -111,8 +111,14 @@ The cookies turned out great to Nayan, but he had to refrain from eating them to
 
 <center><h3>Karam</h3></center>
 
-![[Bundled Nayan.png]]
 ![[Screenshot 2026-02-13 105827.png]]
 
 >[!quote] Nayan
->
+>Hey, big bro…I kinda wished it had snowed this year.
+
+Nayan knew Karam would have won, but they still would have played together. Even build a snowman.
+
+>[!quote] Nayan
+>I think everything would've been perfect… Things used to be better, didn’t they? Do you remember the last New Year’s with [[Mother|mom]]?
+
+Nayan continued to reminisce a memory about their mother. And Nayan hopes Karam would smile more, as he smiles like her. Nayan stops there, stops being sad.
