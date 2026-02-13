@@ -100,4 +100,5 @@ Karam grabs the ingredients for the cookies from the fridge and lays them on the
 Nayan cuts in and insists on baking the cookies themself, as they’ve told Karam, “food is on me today!”, and, “watch the Master Cookie Maker Machine 3000 at work!” 
 Nayan proceeds, albeit having forgotten some ingredients to be used, having to ask Karam for help, to create gingerbread cookies.
 
-Then the cookies go in the oven, and Nayan suggests taking a break in the living room.
+Nayan puts the cookies in the oven and suggests watching tv as a “breather”. 
+![[Breather.png]]
