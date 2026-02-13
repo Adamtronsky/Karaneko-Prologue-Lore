@@ -107,4 +107,4 @@ Karam wished this moment would last forever.
 
 Nayan mentions the cookies, and how they could be done. They head in to the kitchen first, as Karam follows, Nayan had already put one of them on a plate for presentation.
 ![[Gingerbread cookie.png|center]]
-The cookies turned out great to Nayan, but he had to refrain from eating them to leave them to cool first, and Karam takes this opportunity to bring up that they’re out of milk.
+The cookies turned out great to Nayan, but he had to refrain from eating them to leave them to cool first, and Karam takes this opportunity. He brings up that they’re out of milk.
