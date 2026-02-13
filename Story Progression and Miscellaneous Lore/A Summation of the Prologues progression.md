@@ -111,3 +111,4 @@ The cookies turned out great to Nayan, but he had to refrain from eating them to
 
 <center><h3>Karam</h3></center>
 
+![[Jacketed Nayan.png]]
