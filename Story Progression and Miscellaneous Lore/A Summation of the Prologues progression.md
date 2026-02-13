@@ -93,4 +93,4 @@ Ark brushes past Karam and leaves. And Karam proceeds back inside the house.
 
 <center><h3>Baking (with Nayan)</h3></center>
 
-The next task on Karam’s list is to bake cookies.
+Karam makes sure to mentally check off the task of ‘buying’ decorations as he enters the kitchen for his next task on the list
