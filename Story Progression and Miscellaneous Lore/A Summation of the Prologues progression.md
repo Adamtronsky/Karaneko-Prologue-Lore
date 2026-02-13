@@ -126,3 +126,4 @@ Nayan leaves the door’s threshold and heads to the store.
 
 Karam has One last task listed for the day:
 ![[Last task.png]]
+![[Decorated House.png]]
