@@ -1,5 +1,7 @@
 <center><h3>The Legend of Velkar</h3></center>
+
 ![[The Legend of Velkar]]
+
 <span style="color:rgb(50, 50, 50)">One may have completed it…</span>[[The 'Legend' of Velkar|.]]
 
 ![[sNayanCry.png|right]]
@@ -10,8 +12,10 @@ The [[The Legend of Velkar|Cutscene]] is interrupted by [[Nayan]], who apologize
 ![[Karam's Room(Earth).png|center]]
 <center> “Karam’s Room” </center>
 <center><h3>Time with Nayan</h3></center>
+
 [[Nayan]] came into [[Karam(Earth)|Karam’s]] room to say that he’s “Finally completed the easy mode”, referring to Douhou. He leaves not before reminding Karam about their promise to fight again when Nayan beats the easy mode, as well as requesting Karam to make a sandwich for him.
 Progressing through [[Karam's Room(Earth)|Karam’s Room]], they make their way out to [[Karam and Nayan Residence#2nd floor(Bedroom hall)|the 2nd floor hallway]].
+
 ![[Karam and Nayan's 2nd floor hall.png|center]]
 <center>”2nd Floor Hallway”</center>
 
@@ -57,10 +61,10 @@ Idling here are [[Razer]], [[Pepenu]], and [[Lain]]. They give their greetings t
 >No way, Karam! Dude, are you like a New Year's gift or something? What a surprise! I was just about to talk to Mupton too!
 
 [[Skip]] is off to the left of the Hakure shop carrying boxes around. Karam passes him as well and enters the shop.
-![[Hakure Shop.png]]
+![[Hakure Shop 1.png]]
 Inside, Karam sees [[Mupton]] and [[Fitty|Fites]]. And as Karam wanders through the aisle, [[X]] sees him
 ![[X1.png|right]]
-turns around…
+turns around, and <span style="color:rgb(122, 211, 255)">fixes herself</span>
 ![[X2.png|right]]
 >[!quote] ‘X’:
 >…Finally, Mr. Karam decided to crawl out of his cave and bless us with that(The dialogue within the game is cut for some odd reason…).
@@ -73,6 +77,7 @@ Rain had started to fall while Karam was in the shop; Everyone outside had left 
 >Finally! You left you house, do you have any idea how many days I’ve been planning this for?
 
 <center><h3>Ark</h3></center>
+
 ![[Confrontation.png]]
 The first fight in the game is with [[Ark]], also a member of [[The gang|the gang]]. 
 ![[sakface14.png|right]]
@@ -87,6 +92,7 @@ He came to confront and lash out on Karam for leaving them after [[The Incident]
 Ark brushes past Karam and leaves. And Karam puts himself back inside the house.
 
 <center><h3>Baking (with Nayan)</h3></center>
+
 The Kitchen is where Karam heads next. He had completed one of his tasks, and next were the cookies. But before Karam could even start in the kitchen, Nayan interjects and does it himself.
 
 The cookies are made and left to bake, meanwhile, Karam, Yurim, and Nayan, rest in the living room. And after the cookies are down, It’s time to send off Nayan to buy something from the market.
