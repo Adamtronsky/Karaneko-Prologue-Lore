@@ -105,4 +105,6 @@ Nayan puts the cookies in the oven and suggests watching tv as a “breather”.
 The two children are sitting in front of the tv. Nayan remarks about his past few weeks being nice, he “barely even thinks about last year anymore”. Then he hopes that the new year would be full of brotherly rivalry and fun.
 Karam wished this moment would last forever.
 
-Nayan mentions the cookies, and how they could be done.
+Nayan mentions the cookies, and how they could be done. They head in to the kitchen first, as Karam follows, Nayan had already put one of them on a plate for presentation.
+![[Gingerbread cookie.png|center]]
+The cookies turned out great to Nayan, but he had to refrain from eating them to leave them to cool first, and Karam takes this opportunity to bring up that they’re out of milk.
