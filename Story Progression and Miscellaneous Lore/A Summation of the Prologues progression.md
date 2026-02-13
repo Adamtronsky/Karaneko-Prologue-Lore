@@ -102,4 +102,7 @@ Nayan proceeds, albeit having forgotten some ingredients to be used, having to a
 
 Nayan puts the cookies in the oven and suggests watching tv as a “breather”. 
 ![[Breather.png|center]]
-The two children 
+The two children are sitting in front of the tv. Nayan remarks about his past few weeks being nice, he “barely even thinks about last year anymore”. Then he hopes that the new year would be full of brotherly rivalry and fun.
+Karam wished this moment would last forever.
+
+Nayan mentions the cookies, and how they could be done.
