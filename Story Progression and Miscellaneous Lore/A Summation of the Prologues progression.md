@@ -95,4 +95,9 @@ Ark brushes past Karam and leaves. And Karam proceeds back inside the house.
 
 Karam makes sure to mentally check off the task of ‘buying’ decorations as he enters the kitchen for his next task on the list:
 ![[Baking task.png]]
-Karam grabs the ingredients for the cookies from the fridge and lays them on the counter, he then–
+Karam grabs the ingredients for the cookies from the fridge and lays them on the counter, Karam then–
+![[Nayan interjection baking.png]]
+Nayan cuts in and insists on baking the cookies themself, as they’ve told Karam, “food is on me today!”, and, “watch the Master Cookie Maker Machine 3000 at work!” 
+Nayan proceeds, albeit having forgotten some ingredients to be used, having to ask Karam for help, to create gingerbread cookies.
+
+Then the cookies go in the oven, and Nayan suggests taking a break in the living room.
