@@ -123,4 +123,4 @@ Nayan knew Karam would have won, but they still would have played together. Even
 
 Nayan continued to reminisce a memory about their mother. And Nayan hopes Karam would smile more, as he smiles like her. Nayan stops there, stops being sad. <span style="color:rgb(122, 211, 255)">He is happy with his brother</span>.
 
-Nayan leaves the doors threshold and heads to the store.
+Nayan leaves the door’s threshold and heads to the store.
