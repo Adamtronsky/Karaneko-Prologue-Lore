@@ -93,4 +93,5 @@ Ark brushes past Karam and leaves. And Karam proceeds back inside the house.
 
 <center><h3>Baking (with Nayan)</h3></center>
 
-Karam makes sure to mentally check off the task of ‘buying’ decorations as he enters the kitchen for his next task on the list
+Karam makes sure to mentally check off the task of ‘buying’ decorations as he enters the kitchen for his next task on the list:
+![[Baking task.png]]
