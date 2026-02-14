@@ -127,5 +127,5 @@ Nayan leaves the door’s threshold and heads to the store.
 Karam has One last task listed for the day:
 ![[Last task.png]]
 ![[Decorated House.png|center]]
-After Karam decorates the house, he is left to wait for Nayan to come back home. And he does come back, slamming the door, calling for Karam, 
+After Karam decorates the house, he is left to wait for Nayan to come back home. And he does come back, slamming the door, calling for Karam, to open the door. All fades to [[A Summation of the Prologue's progression(Velkar)|static.]]
 ![[Knocking.png|center]]
