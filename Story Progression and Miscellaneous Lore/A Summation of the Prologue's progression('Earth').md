@@ -14,14 +14,15 @@ The [[The Legend of Velkar|Cutscene]] is interrupted by [[Nayan]], who apologize
 <center><h3>Time with Nayan</h3></center>
 
 [[Nayan]] came into [[Karam(Earth)|Karam’s]] room to say that he’s “Finally completed the easy mode”, referring to Douhou. He leaves not before reminding Karam about their promise to fight again when Nayan beats the easy mode, as well as requesting Karam to make a sandwich for him.
-Progressing through [[Karam's Room(Earth)|Karam’s Room]], they make their way out to [[Karam and Nayan Residence#2nd floor(Bedroom hall)|the 2nd floor hallway]].
+Progressing through [[Karam's Room(Earth)|Karam’s Room]], they make their way out to [[Karam and Nayan Residence#2nd floor(Bedroom hall)|the 2nd floor hallway]]
 
 ![[Karam and Nayan's 2nd floor hall.png|center]]
 <center>”2nd Floor Hallway”</center>
 
-As Karam exits their room, [[Yurim(Earth)|Yurim]] follows Karam outside. The Hall connects to [[Nayan's Room]], [[Karam's Room(Earth)|Karam’s Room]], [[Karam and Nayan Residence#2nd Floor(Bathroom)|the bathroom]], and the [[Karam and Nayan Residence#1st floor(Living Room)|living room]].
+And Karam exits their room, [[Yurim(Earth)|Yurim]] follows them outside. The Hall connects to [[Nayan's Room]], [[Karam's Room(Earth)|Karam’s Room]], [[Karam and Nayan Residence#2nd Floor(Bathroom)|the bathroom]], and the [[Karam and Nayan Residence#1st floor(Living Room)|living room]].
+
 ![[Karam and Nayan's Living room.png]]
-Karam makes their way down to the [[Karam and Nayan Residence#1st floor(Living Room)|living room]]–which contains most of the items that remind him of [[The gang|the gang]]–passing through the storage room to the right, and into the [[Karam and Nayan Residence#1st floor(Kitchen)|kitchen]].
+Karam proceeds down to the [[Karam and Nayan Residence#1st floor(Living Room)|living room]]–which contains most of the items that remind him of [[The gang|the gang]]–passing through the storage room to the right, and into the [[Karam and Nayan Residence#1st floor(Kitchen)|kitchen]].
 ![[Karam and Nayan's Kitchen.png]]
 Karam sees the note on the fridge for “an easy sandwich recipe”, takes the ingredients to the cutting board, and makes the sandwich.
 Karam makes their way up the stairs with Nayan’s Sandwich–
