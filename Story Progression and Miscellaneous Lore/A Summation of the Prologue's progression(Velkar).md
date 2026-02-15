@@ -1,1 +1,1 @@
-![[Velkaram.png]]
+![[sTik1.png]]
