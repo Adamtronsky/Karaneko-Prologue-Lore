@@ -24,6 +24,10 @@ As well as what this place is–
 
 Down the stairs…Karam steps on what can be said to be the [[Luminyan(and Karam)'s Dorm#1st floor(Living Room)|Common Room]].
 ![[1st floor living room.png]]
+Akin to the room Karam woke up in, there was nothing much to investigate–Save for some of the [[Luminyan(and Karam)'s Dorm#1st floor(Living Room)|Books]] on the shelf. 
+Another [[Eve(And technically Laschka)'s Room|locked door]] left of the stairway, but the other door next to it was open. 
+It leads to a [[Luminyan(and Karam)'s Dorm#1st floor(Kitchen)|Kitchen]].
+
 
 
 
