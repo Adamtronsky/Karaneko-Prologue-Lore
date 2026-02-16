@@ -3,4 +3,4 @@ Karam wakes up in a room, seemingly [['Karam's' Room(Academy, or Velkar)|A bedro
 ![[Karam's Room(Academy, or Velkar).png]]
 As there wasn’t much to infer in the dusty and dirty place that it is. Karam settled on seeing what’s outside the door. 
 ![[The Dorm (2nd floor, bedroom hall).png]]
-[[Luminyan(and Karam)'s Dorm#2nd Floor(Bedroom Hall)|A Hall]].
+[[Luminyan(and Karam)'s Dorm#2nd Floor(Bedroom Hall)|A Hall]] that leads to what seems like [[Luminyan's Room|Another Person’s room]], and a [[Luminyan(and Karam)'s Dorm#2nd floor(Bathroom)|Bathroom]].
