@@ -20,7 +20,9 @@ As well as what this place is–
 >[!quote] Luminyan:
 >Certainly we both are accommodating in Academy's dormitory.
 
-[[The Academy]]. Luminyan then asks if Karam slept well, saying that they look quite vigorous. Karam attempts to peer into Luminyan’s room behind him, fails, and Luminyan takes their leave to rest.
+[[The Academy]]. Luminyan then asks if Karam slept well, saying that they look quite vigorous. Karam attempts to peer into Luminyan’s room behind him, fails, and Luminyan takes their leave to rest. His last remark that him and Karam do share the [[Luminyan(and Karam)'s Dorm|Place]].
+
+
 
 
 
