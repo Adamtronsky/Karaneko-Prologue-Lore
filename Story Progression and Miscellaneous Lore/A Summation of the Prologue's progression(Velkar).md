@@ -7,8 +7,9 @@ As there wasn’t much to infer in the dusty and dirty place that it is. Karam s
 
 ![[NeutralfacedLuminyan.png|right]]
 >[!quote] Luminyan:
->Hm?
+>Hm? Ah–? Karam!?
 
+![[ConfusedLuminyan.png|right]]
 
 
 
