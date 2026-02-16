@@ -16,7 +16,7 @@ And someone with a [[Luminyan|Yellow Cloak]] comes and ‘greets’ Karam’s pr
 >[!quote] Luminyan:
 >Thy brother? Whence hath thou get the impression I with thou hast a brother! Who knows…
 
-And where they are–
+As well as what this place is–
 >[!quote] Luminyan:
 >Certainly we both are accommodating in Academy's dormitory.
 
