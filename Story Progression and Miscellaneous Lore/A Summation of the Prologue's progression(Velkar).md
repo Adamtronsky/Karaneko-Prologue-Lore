@@ -22,3 +22,5 @@ As well as what this place is–
 
 [[The Academy]]. Luminyan then asks if Karam slept well, saying that they look quite vigorous. Karam attempts to peer into Luminyan’s room behind him, fails, and Luminyan takes their leave to rest.
 
+
+
