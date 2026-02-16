@@ -22,7 +22,8 @@ As well as what this place is–
 
 [[The Academy]]. Luminyan then asks if Karam slept well, saying that they look quite vigorous. Karam attempts to peer into Luminyan’s room behind him, fails, and Luminyan takes their leave to rest. His last remark that him and Karam do share the [[Luminyan(and Karam)'s Dorm|Place]].
 
-
+Down the stairs…Karam steps on what can be said to be the [[Luminyan(and Karam)'s Dorm#1st floor(Living Room)|Common Room]].
+![[1st floor living room.png]]
 
 
 
