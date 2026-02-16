@@ -20,3 +20,4 @@ As well as what this place is–
 >[!quote] Luminyan:
 >Certainly we both are accommodating in Academy's dormitory.
 
+
