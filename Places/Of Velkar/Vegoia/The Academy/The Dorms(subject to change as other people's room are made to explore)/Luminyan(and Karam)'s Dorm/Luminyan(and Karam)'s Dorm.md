@@ -1,8 +1,8 @@
 ##### 2nd Floor(Bedroom Hall)
 ![[The Dorm (2nd floor, bedroom hall).png]]
-	- Connects to [[Karam's Room(Academy, or Velkar)]], [[Luminyan's Room]], The bathroom, and [[#^dfd5af|1st floor (Living Room)]]
+	- Connects to [['Karam's' Room(Academy, or Velkar)]], [[Luminyan's Room]], The bathroom, and [[#^dfd5af|1st floor (Living Room)]]
 	- The Clock is set to 12:15.
-	- [[Karam's Room(Academy, or Velkar)]] has a nametag next to it carrying Karam's name.
+	- [['Karam's' Room(Academy, or Velkar)]] has a nametag next to it carrying Karam's name.
 	- Photographs that do not belong to Karam.
 		![[Luminyan Photo.png]]
 	- A bookshelf with its cabinet door having a note attached to it from Luminyan, imploring no one touch their belongings.

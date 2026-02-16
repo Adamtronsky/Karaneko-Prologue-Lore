@@ -1,6 +1,6 @@
 ![[sTik1.png]]
-Karam wakes up in a room, seemingly [[Karam's Room(Academy, or Velkar)|his bedroom]].
+Karam wakes up in a room, seemingly [['Karam's' Room(Academy, or Velkar)|A bedroom]]. And to an extent, it even resembles [[Karam's Room(Earth)|his]].
 ![[Karam's Room(Academy, or Velkar).png]]
-He looks around the room, and there wasn’t much. So he settles for exiting the room,
+As there wasn’t much to infer in the dusty and dirty place that it is. Karam settled on seeing what’s outside the door. 
 ![[The Dorm (2nd floor, bedroom hall).png]]
-And into [[Luminyan(and Karam)'s Dorm#2nd Floor(Bedroom Hall)|A Hall]].
+[[Luminyan(and Karam)'s Dorm#2nd Floor(Bedroom Hall)|A Hall]].
