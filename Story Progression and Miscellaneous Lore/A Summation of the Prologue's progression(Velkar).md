@@ -14,7 +14,7 @@ And someone with a [[Luminyan|Yellow Cloak]] comes and ‘greets’ Karam’s pr
 [[Karam (Velkar)|Karam]] then asks where his brother is.
 ![[NeutralfacedLuminyan.png|right]]
 >[!quote] Luminyan:
->Thy brother? Whence hath thou get the impression I with thou hast a brother! Who knows…
+>Thy brother? Whence hath thou get the impression I wit thou hast a brother! Who knows…
 
 As well as what this place is–
 >[!quote] Luminyan:
