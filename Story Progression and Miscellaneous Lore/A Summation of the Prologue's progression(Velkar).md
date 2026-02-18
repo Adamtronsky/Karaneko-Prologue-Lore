@@ -27,7 +27,7 @@ Down the stairs…Karam steps on what can be said to be the [[Luminyan(and Karam
 Like [['Karam's' Room(Academy, or Velkar)|the room Karam woke up in]], there is nothing much to investigate–Save for some [[Luminyan(and Karam)'s Dorm#1st floor(Living Room)|Books on the shelf]].
 Karam doesn’t want to go outside just yet, and the door closer to the one that goes back upstairs is locked. Leaving the one parallel to. Opening it reveals the ‘[[Luminyan(and Karam)'s Dorm#1st floor(Kitchen)|Kitchen]]’.
 ![[The Kitchen.png]]
-Karam’s eyes are pulled towards an incandescent item on a cutting board across the room. A “Shiny Wand”. And he takes it in his hands.
+Karam’s eyes are pulled towards an incandescent item on a cutting board across the room. A “Shiny Wand”, that he takes onto his hands as he leaves the room.
 
 
 
