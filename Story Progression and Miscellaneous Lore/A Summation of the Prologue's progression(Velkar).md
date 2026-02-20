@@ -57,4 +57,7 @@ Luminyan knocks at the door just to the right of Karam and calls out [[Laschka|L
 ![[Hey!.png|center]]
 Luminyan starts the two’s introductions after brisking over the reason for their unprecedented visit. 
 The boy with a blue-hued cloak is the aforementioned [[Laschka]]. Meanwhile, Luminyan talks about Karam as their roommate and “‘technically’ as student”. Laschka then shares their own greetings.
+![[CautiousNeutralLasc.png|right]]
+>[!quote] Laschka:
+>Hello. I’m Laschka.
 
