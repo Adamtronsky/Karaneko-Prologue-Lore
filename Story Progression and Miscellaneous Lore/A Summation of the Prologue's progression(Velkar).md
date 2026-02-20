@@ -76,4 +76,5 @@ Laschka is cut off as Luminyan talks about him, saying that Laschka has–
 >[!quote] Luminyan:
 >He is quiet, calm, and humble.
 
-Luminyan then mutters to himself that his teacher assigned his care to him, “Whata”
+Luminyan then mutters to himself that his teacher assigned his care to him, “What a problem–”
+“HA!” They then ask something else of Laschka. 
