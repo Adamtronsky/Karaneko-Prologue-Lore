@@ -43,5 +43,6 @@ Luminyan acknowledges that Karam is free to do whatever they please. Then they a
 >[!quote] Luminyan:
 >This–A Wand? Why do thou hast a wand in thy hand Karam…?!
 
+![[AnxiousLumi.png|right]]
 
 
