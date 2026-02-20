@@ -61,3 +61,5 @@ The boy with a blue-hued cloak is the aforementioned [[Laschka]]. Meanwhile, Lum
 >[!quote] Laschka:
 >Hello. I’m Laschka.
 
+![[SmilingLasc.png|right]]
+
