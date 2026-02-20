@@ -1,6 +1,8 @@
 ![[sTik1.png]]
 [[Karam (Velkar)|Karam]] wakes up in a room, seemingly [['Karam's' Room(Academy, or Velkar)|A bedroom]]. And to an extent, it even resembles [[Karam's Room(Earth)|his]].
 ![[Karam's Room(Academy, or Velkar).png]]
+<center><h3>”Where is Nayan?”</h3></center>
+
 As there wasn’t much to infer in the dusty and dirty place that it is. Karam settled on seeing what’s outside the door. 
 ![[The Dorm (2nd floor, bedroom hall).png]]
 [[Luminyan(and Karam)'s Dorm#2nd Floor(Bedroom Hall)|A Hall]] that leads to, what seemed like [[Luminyan's Room|Another Person’s room]](Karam tried opening it, its locked), a [[Luminyan(and Karam)'s Dorm#2nd floor(Bathroom)|Bathroom]], as well as stairs leading down. But Karam wanted to know if anyone was in that other room, so he tried knocking. 
@@ -27,8 +29,9 @@ Down the stairs…Karam steps on what can be said to be the [[Luminyan(and Karam
 Like [['Karam's' Room(Academy, or Velkar)|the room Karam woke up in]], there is nothing much to investigate–Save for some [[Luminyan(and Karam)'s Dorm#1st floor(Living Room)|Books on the shelf]].
 Karam doesn’t want to go outside just yet, and the door closer to the one that goes back upstairs is locked. Leaving the one parallel to. Opening it leads to a ‘[[Luminyan(and Karam)'s Dorm#1st floor(Kitchen)|Kitchen]]’.
 ![[The Kitchen.png]]
-An incandescent object on the counter catches Karam’s eyes. A ‘shiny wand’ is laid on the cutting board. Karam takes the wand onto his hand as he leaves apathetically from the room.
+An incandescent object on the counter catches Karam’s eyes. A ‘shiny wand’ is laid on the cutting board. Karam takes the wand onto his hand as he apathetically leaves the room.
 
+But Karam
 
 
 
