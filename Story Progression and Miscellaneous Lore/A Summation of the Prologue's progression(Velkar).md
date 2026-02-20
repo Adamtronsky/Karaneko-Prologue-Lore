@@ -65,3 +65,4 @@ The boy with a blue-hued cloak is the aforementioned [[Laschka]]. Meanwhile, Lum
 >[!quote] Laschka:
 >But Lumin–
 
+Laschka is cut off as Luminyan talks about him, saying that Laschka has “been here for a while.”
