@@ -44,5 +44,8 @@ Luminyan acknowledges that Karam is free to do whatever they please. Then they a
 >This–A Wand? Why do thou hast a wand in thy hand Karam…?!
 
 ![[AnxiousLumi.png|right]]
+![[SmartLumi.png|center]]
+>[!quote] Luminyan:
+>Thou took it for training. Right?
 
-
+Luminyan goes on to say that they didn’t expect [[Karam (Velkar)|Karam]] to be so “hard-working” and ‘enthusiastic’. As well as them “getting ready to train soon enough.”
