@@ -77,4 +77,9 @@ Laschka is cut off as Luminyan talks about him, saying that Laschka has–
 >He is quiet, calm, and humble.
 
 Luminyan then mutters to himself that his teacher assigned his care to him, “What a problem–”
-“HA!” They then ask something else of Laschka. 
+“HA!” They then ask something else of Laschka:
+![[Smiling2Luminyan.png|right]]
+>[!quote] Luminyan:
+>Why are thou still awake at this hour mine dear friend?
+
+And Laschka replies with “Luminyan is very noisy; Laschka’s ears hurt.” Moving on, Luminyan starts explaining why they came in the first place.
