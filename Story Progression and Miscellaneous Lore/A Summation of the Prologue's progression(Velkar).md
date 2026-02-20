@@ -39,9 +39,9 @@ He laughs, then pauses, and asks:
 >So, what is thy purpose visiting me here? Though this is be thy home too-
 
 Luminyan acknowledges that Karam is free to do whatever they please. Then they apologize for being insensitive about that aspect. He treads back to asking what Karam is doing, and queries to what they have in their hand.
-
+![[UncertainLuminyan.png|right]]
 >[!quote] Luminyan:
->
+>This–A Wand? Why do thou hast a wand in thy hand Karam…?!
 
 
 
