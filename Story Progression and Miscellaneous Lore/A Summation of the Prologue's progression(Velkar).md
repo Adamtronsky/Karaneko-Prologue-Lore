@@ -20,14 +20,14 @@ As well as what this place is–
 >[!quote] Luminyan:
 >Certainly we both are accommodating in Academy's dormitory.
 
-[[The Academy]]. Luminyan then asks if Karam slept well, saying that they look quite vigorous. Karam attempts to peer into Luminyan’s room behind him, fails, and Luminyan takes their leave to rest. His last remark that him and Karam do share the [[Luminyan(and Karam)'s Dorm|Place]].
+[[The Academy]]. Luminyan then asks if Karam slept well, saying that they look quite vigorous. Karam attempts to peer into Luminyan’s room behind him, fails, and Luminyan takes their leave to rest. His last remark, is that him and Karam do share the [[Luminyan(and Karam)'s Dorm|Place]], and that they are sure to meet each other in it.
 
 Down the stairs…Karam steps on what can be said to be the [[Luminyan(and Karam)'s Dorm#1st floor(Living Room)|Common Room]].
 ![[1st floor living room.png]]
 Like [['Karam's' Room(Academy, or Velkar)|the room Karam woke up in]], there is nothing much to investigate–Save for some [[Luminyan(and Karam)'s Dorm#1st floor(Living Room)|Books on the shelf]].
-Karam doesn’t want to go outside just yet, and the door closer to the one that goes back upstairs is locked. Leaving the one parallel to. Opening it reveals the ‘[[Luminyan(and Karam)'s Dorm#1st floor(Kitchen)|Kitchen]]’.
+Karam doesn’t want to go outside just yet, and the door closer to the one that goes back upstairs is locked. Leaving the one parallel to. Opening it leads to a ‘[[Luminyan(and Karam)'s Dorm#1st floor(Kitchen)|Kitchen]]’.
 ![[The Kitchen.png]]
-Karam’s eyes are pulled towards an incandescent item on a cutting board across the room. A “Shiny Wand”, that he takes onto his hands as he leaves the room.
+An incandescent object on the counter catches Karam’s eyes. A ‘shiny wand’ is laid on the cutting board. Karam takes the wand onto his hand as he leaves
 
 
 
