@@ -8,7 +8,7 @@ As there wasn’t much to infer in the dusty and dirty place that it is. Karam s
 [[Luminyan(and Karam)'s Dorm#2nd Floor(Bedroom Hall)|A Hall]] that leads to, what seemed like [[Luminyan's Room|Another Person’s room]](Karam tried opening it, its locked), a [[Luminyan(and Karam)'s Dorm#2nd floor(Bathroom)|Bathroom]], as well as stairs leading down. But Karam wanted to know if anyone was in that other room, so he tried knocking. 
 And someone with a [[Luminyan|Yellow Cloak]] comes and ‘greets’ Karam’s presence.
 
-![[ConfusedLuminyan.png|right]]
+![[AgitatedLuminyan.png|right]]
 >[!quote] Luminyan:
 >Karam!? Never would one expect to see thee on mine door at this hour.
 
@@ -65,4 +65,15 @@ The boy with a blue-hued cloak is the aforementioned [[Laschka]]. Meanwhile, Lum
 >[!quote] Laschka:
 >But Lumin–
 
-Laschka is cut off as Luminyan talks about him, saying that Laschka has “been here for a while.”
+Laschka is cut off as Luminyan talks about him, saying that Laschka has–
+>[!quote] Luminyan:
+>–been here for a while, staying in his sister’s room.
+
+>[!quote] Laschka:
+>Not sis–
+
+![[AgitatedLuminyan.png|right]]
+>[!quote] Luminyan:
+>He is quiet, calm, and humble.
+
+Luminyan then mutters to himself that his teacher assigned his care to him, “Whata”
