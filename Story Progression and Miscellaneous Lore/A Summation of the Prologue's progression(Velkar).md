@@ -34,6 +34,8 @@ An incandescent object on the counter catches Karam’s eyes. A ‘shiny wand’
 Karam is then intercepted by [[Luminyan]] who approaches from the shelves. When he said that they would meet–
 ![[Unexpected Luminyan.png]]
 He laughs, then pauses, and asks:
-
+![[LuminyanOh.png|right]]
+>[!quote] Luminyan:
+>So, what is thy purpose visiting me here?
 
 
