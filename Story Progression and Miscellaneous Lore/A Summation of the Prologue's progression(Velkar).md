@@ -55,5 +55,5 @@ Luminyan asks Karam to accompany him in training for he says that Karam is “Ru
 ![[The way to the 'traning' room.png|center]]
 Luminyan knocks at the door just to the right of Karam and calls out [[Laschka|Laschka’s name]], requesting that the door be unlocked. And so it does; Karam and Luminyan enter.
 ![[Hey!.png|center]]
-Luminyan starts the two’s introductions after brisking over 
+Luminyan starts the two’s introductions after brisking over the reason for their unprecedented 
 
