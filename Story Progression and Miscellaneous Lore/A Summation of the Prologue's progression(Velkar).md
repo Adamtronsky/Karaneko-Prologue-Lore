@@ -31,7 +31,8 @@ Karam doesn’t want to go outside just yet, and the door closer to the one that
 ![[The Kitchen.png]]
 An incandescent object on the counter catches Karam’s eyes. A ‘shiny wand’ is laid on the cutting board. Karam takes the wand onto his hand as he apathetically leaves the room.
 
-But Karam
+Karam is then intercepted by [[Luminyan]] who approaches from the shelves. When he said that they would meet–
+![[Unexpected Luminyan.png]]
 
 
 
