@@ -82,4 +82,4 @@ Luminyan then mutters to himself that his teacher assigned his care to him, “W
 >[!quote] Luminyan:
 >Why are thou still awake at this hour mine dear friend?
 
-And Laschka replies with “Luminyan is very noisy; Laschka’s ears hurt.” Moving on, Luminyan starts explaining why they came in the first place.
+And Laschka replies with “Luminyan is very noisy; Laschka’s ears hurt.” Luminyan moves the topic back to explain why he and Karam were present in the first place. 
