@@ -52,4 +52,8 @@ Luminyan goes on to say that they didn’t expect [[Karam (Velkar)|Karam]] to be
 <center><h3>’Training’ Session </h3></center>
 
 Luminyan asks Karam to accompany him in training for he says that Karam is “Rusty”. They then talk about the “Training Room”, and how it as well is a “Guest Room” that is currently occupied. Yet they say not to worry about [[Laschka]].
+![[The way to the 'traning' room.png|center]]
+Luminyan knocks at the door just to the right of Karam and calls out [[Laschka|Laschka’s name]], requesting that the door be unlocked. And so it does; Karam and Luminyan enter.
+![[Hey!.png|center]]
+
 
