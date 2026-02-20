@@ -55,5 +55,6 @@ Luminyan asks Karam to accompany him in training for he says that Karam is “Ru
 ![[The way to the 'traning' room.png|center]]
 Luminyan knocks at the door just to the right of Karam and calls out [[Laschka|Laschka’s name]], requesting that the door be unlocked. And so it does; Karam and Luminyan enter.
 ![[Hey!.png|center]]
-Luminyan starts the two’s introductions after brisking over the reason for their unprecedented 
+Luminyan starts the two’s introductions after brisking over the reason for their unprecedented visit. 
+The boy with a blue-hued cloak is the aforementioned [[Laschka]]. Meanwhile, Luminyan talks about Karam as their roommate and “‘technically’ as student”. Laschka then shares their own greetings.
 
