@@ -36,6 +36,8 @@ Karam is then intercepted by [[Luminyan]] who approaches from the shelves. When 
 He laughs, then pauses, and asks:
 ![[LuminyanOh.png|right]]
 >[!quote] Luminyan:
->So, what is thy purpose visiting me here?
+>So, what is thy purpose visiting me here? Though this is be thy home too-
+
+Luminyan acknowledges that Karam is free to do whatever they please. Then they apologize for being insensitive about that aspect. 
 
 
