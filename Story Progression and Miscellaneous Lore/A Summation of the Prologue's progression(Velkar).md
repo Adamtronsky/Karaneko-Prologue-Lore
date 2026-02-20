@@ -51,4 +51,5 @@ Luminyan acknowledges that Karam is free to do whatever they please. Then they a
 Luminyan goes on to say that they didn’t expect [[Karam (Velkar)|Karam]] to be so “hard-working” and ‘enthusiastic’. As well as them “getting ready to train soon enough.”
 <center><h3>’Training’ Session </h3></center>
 
+Luminyan asks Karam to accompany him in training for he says that Karam is “Rusty”. They then talk about the “Training Room”, and how it as well is a “Guest Room” that is currently occupied. Yet they say not to worry about [[Laschka]].
 
