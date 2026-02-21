@@ -88,4 +88,5 @@ A [[Eve|Red-Haired]] individual gets out of bed, <span style="color:rgb(122, 211
 
 Because Eve was woken up by conversations of training, she takes the initiative of giving them a training session “worth waking her up for.” This then leads to the second fight in the game, and it is with Eve.
 
-The three of them ‘training’ with Eve wasn’t enough to beat her; The fight ends in defeat as Eve is irritated to have “wasted time”
+The three of them ‘training’ with Eve wasn’t enough to beat her; The fight ends in defeat as Eve is irritated to have “wasted time”. But before things could escalate, the lights abruptly turn off, and Luminyan interjects that the power has been having disruptions. So he, and Laschka, take their hastened leave. Leaving Karam. Eve remarks that Karam’s ‘friends’ has left him alone. But she lets Karam go with a warning.
+
