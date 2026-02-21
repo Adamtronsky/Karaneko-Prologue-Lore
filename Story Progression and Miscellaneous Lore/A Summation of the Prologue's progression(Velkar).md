@@ -86,4 +86,4 @@ And Laschka replies with “Luminyan is very noisy; Laschka’s ears hurt.” Lu
 ![[Training session.png|center]]
 A [[Eve|Red-Haired]] individual gets out of bed, <span style="color:rgb(122, 211, 255)">annoyed to have been awoken by all the noise the three have been making</span>. Laschka says they tried to warn Luminyan, as Luminyan didn’t notice [[Eve]] on the bed. He remarks to himself that he thought all seniors were away on a trip.
 
-Because Eve was woken up by conversations of training, she
+Because Eve was woken up by conversations of training, she takes the initiative of giving them a training session “worth waking her up for.”
