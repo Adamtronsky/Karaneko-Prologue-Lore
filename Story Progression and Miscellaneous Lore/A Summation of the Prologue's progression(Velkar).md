@@ -84,4 +84,4 @@ Luminyan then mutters to himself that his teacher assigned his care to him, “W
 
 And Laschka replies with “Luminyan is very noisy; Laschka’s ears hurt.” Luminyan moves the topic back to explain why he and Karam were present in the first place. He explains that Karam has not trained in a while and he was looking into helping Karam practice, via the toy present in the room.
 ![[Training session.png|center]]
-A [[Eve|Red-Haired]] individual gets out of bed, <span style="color:rgb(122, 211, 255)">annoyed to have been awoken by all the noise the three have been making</span>. And Laschka tried to warn Luminyan, and Luminyan remarks that he didn’t see [[Eve]] under  the blanket.
+A [[Eve|Red-Haired]] individual gets out of bed, <span style="color:rgb(122, 211, 255)">annoyed to have been awoken by all the noise the three have been making</span>. Laschka says they tried to warn Luminyan, as Luminyan didn’t notice [[Eve]] on the bed.
