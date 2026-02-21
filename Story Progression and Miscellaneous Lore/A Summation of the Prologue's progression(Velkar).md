@@ -92,5 +92,5 @@ The three of them ‘training’ with Eve wasn’t enough to beat her; The fight
 
 Immediately after leaving a room, Karam spots an apparition of a cat going up the stairs. He follows it as it guides him to [[Luminyan's Room|Luminyan’s unsupervised room]], from which you take a key from the desk. Karam recalls seeing a closet with chains and a lock in that room he woke up in.
 ![[The Closet.png|center]]
-
-
+Karam unlocks the wardrobe and it open to an expansive space.
+![[An entrance to the pink forest.png|center]]
