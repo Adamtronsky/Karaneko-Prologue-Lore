@@ -91,3 +91,5 @@ Because Eve was woken up by conversations of training, she takes the initiative 
 The three of them ‘training’ with Eve wasn’t enough to beat her; The fight ends in defeat as Eve is irritated to have “wasted time”. But before things could escalate, the lights abruptly turn off, and Luminyan interjects that the power has been having disruptions. So he, and Laschka, take their hastened leave. Leaving Karam. Eve remarks that Karam’s ‘friends’ has left him alone. But she lets Karam go with a warning.
 
 Immediately after leaving a room, Karam spots an apparition of a cat going up the stairs. 
+
+<center><h3>The Pink Forest</h3></center>
