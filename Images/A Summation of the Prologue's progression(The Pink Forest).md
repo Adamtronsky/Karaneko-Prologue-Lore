@@ -3,3 +3,7 @@ Karam next sees themself in a “[[Pink Forest]]”. And while he takes in his s
 
 Annoyed that they lost it because of Karam, they approach him.
 ![[Yurim's new visitor.png|center]]
+Then she asks for a name[^1]
+
+[^1]: The special interactions with names should go here…
+	
