@@ -130,4 +130,4 @@ Karam has One last task listed for the day:
 ![[Decorated House.png|center]]
 After Karam decorates the house, he is left to wait for Nayan to come back home. And he does come back, slamming the door, calling for Karam, to open the door. 
 ![[Knocking.png|center]]
-And then all fades to [[A Summation of the Prologue's progression(Velkar)|static.]]
+And then all fades to [[A Summation of the Prologue's progression(First Night in the Academy)|static.]]

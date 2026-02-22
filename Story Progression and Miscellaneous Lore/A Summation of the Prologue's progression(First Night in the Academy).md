@@ -94,3 +94,7 @@ Immediately after leaving a room, Karam spots an apparition of a cat going up th
 ![[The Closet.png|center]]
 Karam unlocks the wardrobe. And it opens to a dark expansive space.
 ![[An entrance to the pink forest.png|center]]
+![[A place in between.png|center]]
+Following the pink particles, towards a light in the distance.
+![[Screenshot 2026-02-22 082559.png|center]]
+[[Pink Forest|It seems to lead somewhere…]]
