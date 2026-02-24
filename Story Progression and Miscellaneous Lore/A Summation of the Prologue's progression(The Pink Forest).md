@@ -15,8 +15,9 @@ And that she made them;
 >[!quote] Yurim:
 >I had read a few things about signs in a friend's books.
 
-This is the first time she refers to another friend. She apparently fought with them to make the signs look cuter. The signs pointed to all the locations important to Yurim, the bottom-left is to her house, the bottom-right is to a forest, and the top is to the library. And while remarking about it, she hoped she could introduce Karam to the friend of hers, followed by somber silence
+This is the first time she refers to another friend. She apparently fought with them to make the signs look cuter. The signs pointed to all the locations important to Yurim, the bottom-left is to her house, the bottom-right is to a forest, and the top is to the library. And while remarking about it, she hoped she could introduce Karam to the friend of hers, followed by silence.
 
+The two proceed to her home and remarks a pink tree that she planted
 
 [^1]: The special interactions with names should go here…
 	
