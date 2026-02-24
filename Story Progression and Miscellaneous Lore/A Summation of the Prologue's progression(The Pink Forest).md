@@ -19,7 +19,7 @@ This is the first time she refers to another friend. She apparently fought with 
 
 The two proceed to her home and remarks a pink tree that she planted.
 ![[YurimsTree.png]]
-The friend of hers often left and came back to the Forest, and at some point brought her se
+The friend of hers often left and came back to the Forest, and at some point brought her seeds that would “turn into something you’ll really love.” And it grew into the Pink Tree; She also says that before it was called the “Pink Forest”
 
 
 
