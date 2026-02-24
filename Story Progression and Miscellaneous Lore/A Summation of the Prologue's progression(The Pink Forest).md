@@ -11,7 +11,11 @@ But before she leads Karam to the strangers, she takes him to her house to finis
 
 While the two are headed to her home, she stops at a crossroads and shares that the forest is “Foreigner Friendly”
 ![[ForeignerFriendly.png|center]]
-And she made them, and this is the first instance of her mentioning of another friend.
+And that she made them;
+>[!quote] Yurim:
+>I had read a few things about signs in a friend's books.
+
+This is the first time she refers to another friend. She apparently fought with them to make the signs look cuter. The signs pointed to all the locations important to Yurim, the bottom-left is to her house, the bottom-right is to a forest, and the top is to the library. And while remarking about it, she hoped she could introduce Karam to the friend of hers, followed by somber silence
 
 
 [^1]: The special interactions with names should go here…
