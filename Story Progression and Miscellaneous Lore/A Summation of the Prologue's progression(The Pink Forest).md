@@ -3,7 +3,9 @@ Karam next sees themself in a “[[Pink Forest]]”. And while he takes in his s
 
 Annoyed that they lost it because of Karam, they approach him.
 ![[Yurim's new visitor.png|center]]
-Then she asks for a name[^1]. She finds Karam’s name interesting and familiar. [[Yurim (Velkar)|Yurim]] introduces themselves as well, then asks what Karam is doing here. He first asks where is “here”. Yurim laughs at Karam’s ignorance, she says that they’re in “The Best Forest”, and it’s called the [[Pink Forest]].
+Then she asks for a name[^1]. She finds Karam’s name interesting and familiar. [[Yurim (Velkar)|Yurim]] introduces themselves as well. Karam asks where they are, and Yurim laughs at his ignorance. She says that they’re in “The Best Forest”, and calls it “[[Pink Forest|The Pink Forest]]”, naming it that because it’s pink “just like me!”
+
+Infer
 
 
 
