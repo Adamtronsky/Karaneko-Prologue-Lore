@@ -17,7 +17,11 @@ And that she made them;
 
 This is the first time she refers to another friend. She apparently fought with them to make the signs look cuter. The signs pointed to all the locations important to Yurim, the bottom-left is to her house, the bottom-right is to a forest, and the top is to the library. And while remarking about it, she hoped she could introduce Karam to the friend of hers, followed by silence.
 
-The two proceed to her home and remarks a pink tree that she planted
+The two proceed to her home and remarks a pink tree that she planted.
+![[YurimsTree.png]]
+The friend of hers often left and came back to the Forest, and at some point brought her se
+
+
 
 [^1]: The special interactions with names should go here…
 	
