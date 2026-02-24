@@ -28,7 +28,8 @@ Before entering the house, she hands Karam a [[Black Flower]] near the path.
 ![[TheHandlingofaSuperstition.png|center]]
 Then they proceed inside.
 
-<center><h3>Yurim’s House</h3></center>
+<center><h3>Yurim’s ‘lovely home‘</h3></center>
+
 
 
 
