@@ -3,10 +3,15 @@ Karam next sees themself in a “[[Pink Forest]]”. And while he takes in his s
 
 Annoyed that they lost it because of Karam, they approach him.
 ![[Yurim's new visitor.png|center]]
-Then she asks for a name[^1]. She finds Karam’s name interesting and familiar. [[Yurim (Velkar)|Yurim]] introduces themselves as well. Karam asks where they are, and Yurim laughs at his ignorance. She says that they’re in “The Best Forest”, and calls it “[[Pink Forest|The Pink Forest]]”, naming it that because it’s pink “just like me!”
+Then she asks for a name[^1]. She finds the name [[Karam(Earth)|Karam]] interesting and familiar. [[Yurim (Velkar)|Yurim]] introduces themselves as well. Karam asks where they are, and Yurim laughs at his ignorance. She says that they’re in “The Best Forest”, and calls it “[[Pink Forest|The Pink Forest]]”, naming it that because it’s pink “just like her”.
 
-Infer
+She then assumes Karam is lost and asks why. And Karam replies that he’s looking for his brother, Nayan. She doesn’t have any information herself, but she brings up that there have been other strangers that came the day before Karam, so she suggests that perhaps one of them is the brother Karam is looking for.
 
+But before she leads Karam to the strangers, she takes him to her house to finish a few things. 
+
+While the two are headed to her home, she stops at a crossroads and shares that the forest is “Foreigner Friendly”
+![[ForeignerFriendly.png|center]]
+And she made them, and this is the first instance of her mentioning of another friend.
 
 
 [^1]: The special interactions with names should go here…
