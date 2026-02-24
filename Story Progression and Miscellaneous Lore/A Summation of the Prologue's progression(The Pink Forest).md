@@ -1,7 +1,6 @@
 <center><h3>A Pink Forest</h3></center>
 
 
-
 ![[Pink Forest Intro.png|center]]
 Karam next sees themself in a “[[Pink Forest]]”. And while he takes in his surroundings, a butterfly comes into vision, with a figure chasing after it. The individual catches up to the butterfly, but is distracted by Karam’s presence, letting the insect slip through her reach.
 
@@ -25,9 +24,11 @@ The two proceed to her home and remarks a pink tree that she planted.
 ![[YurimsTree.png]]
 The friend of hers often left and came back to the Forest, and at some point brought her seeds that would “turn into something you’ll really love.” And it grew into the Pink Tree; She also says that before it was called the “Pink Forest”, it was just the “Green Forest”.
 
-Near the house, she hands Karam a [[Black Flower]] near the path
+Before entering the house, she hands Karam a [[Black Flower]] near the path.
 ![[TheHandlingofaSuperstition.png|center]]
+Then they proceed inside.
 
+<center><h3>Yurim’s House</h3></center>
 
 
 
