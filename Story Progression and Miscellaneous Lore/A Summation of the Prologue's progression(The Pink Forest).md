@@ -50,8 +50,10 @@ And just nearby the bridge, stuck on a tree, is what seems like a poster.
 >[!quote] Yurim:
 >Let’s go look somewhere else.
 
-
-
+Looking ahead, the park is not far, but from the outer edges of it Yurim spots and approaches a person in a cloak. She starts talking to them by confirming if they’re one of the people that came the day before.
+![[Sideye.png|right]]
+>[!quote] Yurim:
+>We didn’t get to talk much yesterday. That shadow lord kid kept interrupting you.
 
 
 [^1]: The special interactions with names should go here…
