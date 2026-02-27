@@ -33,7 +33,13 @@ They then head inside.
 ![[Yurim'shomeInt1.png]]
 She leaves Karam to be be comfortable on his own as she hurries to her kitchen corner to clean the mess on her counter. 
 
-It doesn’t take long for her to finish her task. She notices that Karam looks more relaxed since arriving, then she asks what got him nervous. And Karam plainly restates that he’s trying to find his brother. And Yurim acknowledges it and consoles Karam.
+It doesn’t take long for her to finish her task. She notices that Karam looks more relaxed since arriving, then she asks what got him nervous. And Karam plainly restates that he’s trying to find his brother. And Yurim acknowledges it and consoles Karam, once again, talking about a group that arrived before Karam. 
+
+But Yurim then suggests going to the park to have “a lot of fun”, stop by the library, and then look for ‘them’.
+
+This is one point in the game where Karam is free to roam, though straying too far will make Yurim comment about it.
+
+
 
 
 [^1]: The special interactions with names should go here…
