@@ -68,7 +68,7 @@ After Karam chooses to speak their name, the person–Rose, does in kind. She sa
 >No, the name is not familiar to me at all… I haven’t seen a kid that looks like you either. But Yurim seems to know this place really well. Tell me, Yurim, how long have you been in this forest?
 
 ![[OphRose.png|right]]
-
+Yurim takes some few seconds of thinking before responding
 
 
 
