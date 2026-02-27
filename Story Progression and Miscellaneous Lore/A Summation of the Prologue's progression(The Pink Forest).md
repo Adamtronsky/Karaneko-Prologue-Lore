@@ -46,8 +46,9 @@ Besides frequent combat encounters, Yurim shares that a lot of things in the Pin
 ![[What she's made.png|center]]
 And just nearby the bridge, stuck on a tree, is what seems like a poster.
 ![[The Librarian.png|center]]
+
 >[!quote] Yurim:
->
+>Let’s go look somewhere else.
 
 
 
