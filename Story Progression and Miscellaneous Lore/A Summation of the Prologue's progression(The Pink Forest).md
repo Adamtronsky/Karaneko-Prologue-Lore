@@ -53,9 +53,13 @@ And just nearby the bridge, stuck on a tree, is what seems like a poster.
 Looking ahead, the park is not far, but from the outer edges of it Yurim spots and approaches a person in a cloak. She starts talking to them by confirming if they’re one of the people that came the day before.
 ![[Sideye.png|right]]
 >[!quote] Yurim:
->We didn’t get to talk much yesterday. That shadow lord kid kept interrupting you.
+>We didn’t get to talk much yesterday. That shadow lord kid kept interrupting you. Hahahaha. What’s up?
 
 ![[Halicalledit'blep'.png|right]]
+
+![[CalmRose.png|right]]
+>[!quote] Cloaked Person:
+>Hmm, hello…Yurim.
 
 
 
