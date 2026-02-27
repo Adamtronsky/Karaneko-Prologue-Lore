@@ -44,6 +44,8 @@ As Karam is directed to go to the park, he is, from time to time, intercepted by
 
 Besides frequent combat encounters, Yurim shares that a lot of things in the Pink Forest was made by her, such as the streetlamps, as well as a small bridge that the two use.
 ![[What she's made.png|center]]
+And just nearby the bridge stuck on a tree is what seems like a poster.
+
 
 
 
