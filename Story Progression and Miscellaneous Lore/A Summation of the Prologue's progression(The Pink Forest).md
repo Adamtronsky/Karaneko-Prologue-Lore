@@ -62,7 +62,7 @@ Looking ahead, the park is not far, but from the outer edges of it Yurim spots a
 >Hmm, hello… Yurim. And… I don’t think we’ve met yet.
 
 ![[CurioRose.png|right]]
-After Karam chooses to speak their name, the person–Rose, does in kind. She says the she didn’t see Karam around the day before. 
+After Karam chooses to speak their name, the person–Rose, does in kind. She says the she didn’t see Karam around the day before. Yurim remarks that they haven’t seen this many strangers in a long time.
 
 
 
