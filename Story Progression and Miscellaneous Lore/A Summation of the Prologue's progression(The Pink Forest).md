@@ -1,4 +1,4 @@
-<center><h3>Yurim</h3></center>
+<center><h3>A Pink Forest</h3></center>
 
 
 ![[Pink Forest Intro.png|center]]
@@ -39,6 +39,11 @@ But Yurim then suggests going to the park to have “a lot of fun”, stop by th
 This is one point in the game where Karam is free to roam, though straying too far will make Yurim comment about it.
 
 <center><h3>The Pink Forest</h3></center>
+
+As Karam is directed to go to the park, he is, from time to time, intercepted by other inhabitants of the Pink Forest, each with their own little bit of remarks. 
+
+Besides frequent combat encounters, Yurim shares that a lot of things in the Pink Forest was made by her, such as the streetlamps, as well as a small bridge that the two use.
+
 
 
 [^1]: The special interactions with names should go here…
