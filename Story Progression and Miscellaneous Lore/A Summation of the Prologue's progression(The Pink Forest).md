@@ -43,6 +43,7 @@ This is one point in the game where Karam is free to roam, though straying too f
 As Karam is directed to go to the park, he is, from time to time, intercepted by other inhabitants of the Pink Forest, each with their own little bit of remarks. 
 
 Besides frequent combat encounters, Yurim shares that a lot of things in the Pink Forest was made by her, such as the streetlamps, as well as a small bridge that the two use.
+![[What she's made.png|center]]
 
 
 
