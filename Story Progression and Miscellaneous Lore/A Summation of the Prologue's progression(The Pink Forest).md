@@ -31,9 +31,9 @@ They then head inside.
 <center><h3>Yurim’s ‘lovely home‘</h3></center>
 
 ![[Yurim'shomeInt1.png]]
-She leaves Karam to be be comfortable on his own as she hurried to her kitchen corner to clean the dishes lying around the counter.  Talking to her about it, she says she just forgot, and that she was just making pasta.
+She leaves Karam to be be comfortable on his own as she hurries to her kitchen corner to clean the mess on her counter. 
 
-It doesn’t take long for her to finish her chore
+It doesn’t take long for her to finish her task. She notices that Karam looks more relaxed since arriving, then she asks what got him nervous. And Karam plainly answers
 
 
 [^1]: The special interactions with names should go here…
