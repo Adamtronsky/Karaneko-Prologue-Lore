@@ -55,6 +55,9 @@ Looking ahead, the park is not far, but from the outer edges of it Yurim spots a
 >[!quote] Yurim:
 >We didn’t get to talk much yesterday. That shadow lord kid kept interrupting you.
 
+![[Halicalledit'blep'.png|right]]
+
+
 
 [^1]: The special interactions with names should go here…
 	
