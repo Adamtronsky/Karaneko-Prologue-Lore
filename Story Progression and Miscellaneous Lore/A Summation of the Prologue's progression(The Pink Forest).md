@@ -33,7 +33,7 @@ They then head inside.
 ![[Yurim'shomeInt1.png]]
 She leaves Karam to be be comfortable on his own as she hurries to her kitchen corner to clean the mess on her counter. 
 
-It doesn’t take long for her to finish her task. She notices that Karam looks more relaxed since arriving, then she asks what got him nervous. And Karam plainly answers
+It doesn’t take long for her to finish her task. She notices that Karam looks more relaxed since arriving, then she asks what got him nervous. And Karam plainly restates that he’s trying to find his brother. And Yurim acknowledges it and consoles Karam.
 
 
 [^1]: The special interactions with names should go here…
