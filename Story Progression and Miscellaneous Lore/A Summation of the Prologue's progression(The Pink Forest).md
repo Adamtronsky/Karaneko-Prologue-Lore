@@ -1,4 +1,4 @@
-<center><h3>A Pink Forest</h3></center>
+<center><h3>Yurim</h3></center>
 
 
 ![[Pink Forest Intro.png|center]]
@@ -28,7 +28,6 @@ Before entering the house, she hands Karam a [[Black Flower]] near the path.
 ![[TheHandlingofaSuperstition.png|center]]
 They then head inside.
 
-<center><h3>Yurim’s ‘lovely home‘</h3></center>
 
 ![[Yurim'shomeInt1.png]]
 She leaves Karam to be be comfortable on his own as she hurries to her kitchen corner to clean the mess on her counter. 
@@ -39,7 +38,7 @@ But Yurim then suggests going to the park to have “a lot of fun”, stop by th
 
 This is one point in the game where Karam is free to roam, though straying too far will make Yurim comment about it.
 
-
+<center><h3>The Pink Forest</h3></center>
 
 
 [^1]: The special interactions with names should go here…
