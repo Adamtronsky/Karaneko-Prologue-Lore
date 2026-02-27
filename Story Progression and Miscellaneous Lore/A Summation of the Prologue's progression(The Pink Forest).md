@@ -59,7 +59,10 @@ Looking ahead, the park is not far, but from the outer edges of it Yurim spots a
 
 ![[CalmRose.png|right]]
 >[!quote] Cloaked Person:
->Hmm, hello…Yurim.
+>Hmm, hello… Yurim. And… I don’t think we’ve met yet.
+
+![[CurioRose.png|right]]
+
 
 
 
