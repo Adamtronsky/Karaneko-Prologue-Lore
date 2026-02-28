@@ -78,7 +78,9 @@ Yurim shuffles for a moment before responding:
 And after, Yurim asks Rose if she likes the Pink Forest. 
 ![[CalmRose.png|right]]
 >[!quote] Rose:
->It really is a special place. The pink trees... It’s such a nice touch.
+>It really is a special place. The pink trees... It’s such a nice touch. I guess you planted them, didn’t you? They seem younger that the other tre–
+
+Rose is cut of there as Yurim says yes. And she’s glad she noticed. And restates that she’s been in the Pink Forest for a long time
 
 
 [^1]: The special interactions with names should go here…
