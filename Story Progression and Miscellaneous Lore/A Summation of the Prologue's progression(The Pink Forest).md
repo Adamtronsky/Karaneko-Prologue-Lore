@@ -64,9 +64,15 @@ Looking ahead, the park is not far, but from the outer edges of it Yurim spots a
 After Karam chooses to speak their name, the person–Rose, does in kind. She says the she didn’t see Karam around the day before. Yurim remarks that they haven’t seen this many strangers in a long time. And while she remembers, she shares that Karam is looking for his brother, Nayan, and asks Rose if she knows anything.
 ![[PonderingRose.png|right]]
 >[!quote] Rosemyne:
->No, the name is not familiar to me at all… I haven’t seen a kid that looks like you either. But Yurim seems to know this place really well. Tell me, Yurim, how long have you been in this forest?
+>No, the name is not familiar to me at all… I haven’t seen a kid that looks like you either.
 
 ![[OphRose.png|right]]
+>[!quote] Rosemyne:
+>But Yurim seems to know this place really well. Tell me, Yurim, how long have you been in this forest?
+
+
+
+
 Yurim shuffles for a moment before responding:
 
 
