@@ -80,7 +80,9 @@ And after, Yurim asks Rose if she likes the Pink Forest.
 >[!quote] Rose:
 >It really is a special place. The pink trees... It’s such a nice touch. I guess you planted them, didn’t you? They seem younger that the other tre–
 
-Rose is cut off as Yurim says yes. And she’s glad she noticed. And restates that she’s been in the Pink Forest for a long time, and has made most of things now seen. 
+Rose is cut off as Yurim says yes. And she’s glad she noticed. And restates that she’s been in the Pink Forest for a long time, and has made most of things in the Pink Forest. 
+
+Yurim then invites Rose as her and Karam are headed to the library, with the plan to look at the rest of the forest after. She politely declines and says that she has to go back to her friends. As well as a remark to one of them. She bids farewell as she didn’t want to keep them for long.
 
 
 [^1]: The special interactions with names should go here…
