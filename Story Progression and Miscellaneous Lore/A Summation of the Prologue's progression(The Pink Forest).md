@@ -76,6 +76,9 @@ Yurim shuffles for a moment before responding:
 >Ah, Rose actually… I have been in this forest for a long time. Most of the things you see around here, well, I’ve made them… Haha. I could say this forest is my masterpiece, heh.
 
 And after, Yurim asks Rose if she likes the Pink Forest. 
+![[CalmRose.png|right]]
+>[!quote] Rose:
+>It really is a special place. The pink trees... It’s such a nice touch.
 
 
 [^1]: The special interactions with names should go here…
