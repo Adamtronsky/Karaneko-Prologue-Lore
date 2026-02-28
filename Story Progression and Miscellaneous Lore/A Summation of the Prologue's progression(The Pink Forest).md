@@ -80,7 +80,7 @@ And after, Yurim asks Rose if she likes the Pink Forest.
 >[!quote] Rose:
 >It really is a special place. The pink trees... It’s such a nice touch. I guess you planted them, didn’t you? They seem younger that the other tre–
 
-Rose is cut of there as Yurim says yes. And she’s glad she noticed. And restates that she’s been in the Pink Forest for a long time
+Rose is cut off as Yurim says yes. And she’s glad she noticed. And restates that she’s been in the Pink Forest for a long time, and has made most of things now seen. 
 
 
 [^1]: The special interactions with names should go here…
