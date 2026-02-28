@@ -70,9 +70,6 @@ After Karam chooses to speak their name, the person–Rose, does in kind. She sa
 >[!quote] Rosemyne:
 >But Yurim seems to know this place really well. Tell me, Yurim, how long have you been in this forest?
 
-
-
-
 Yurim shuffles for a moment before responding:
 
 
