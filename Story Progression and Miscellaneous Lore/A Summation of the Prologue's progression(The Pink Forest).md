@@ -84,6 +84,8 @@ Rose is cut off as Yurim says yes. And she’s glad she noticed. And restates th
 
 Yurim then invites Rose as her and Karam are headed to the library, with the plan to look at the rest of the forest after. She politely declines and says that she has to go back to her friends. As well as a remark to one of them. She bids farewell as she didn’t want to keep them for long.
 
+Perhaps this is the part where the detail of the npcs should be brought up…
+
 
 [^1]: The special interactions with names should go here…
 	
