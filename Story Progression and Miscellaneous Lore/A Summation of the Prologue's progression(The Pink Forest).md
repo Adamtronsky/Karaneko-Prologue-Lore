@@ -24,9 +24,8 @@ The two proceed to her home and remarks a pink tree that she planted.
 ![[YurimsTree.png]]
 The friend of hers often left and came back to the Forest, and at some point brought her seeds that would “turn into something you’ll really love.” And it grew into the Pink Tree; She also says that before it was called the “Pink Forest”, it was just the “Green Forest”.
 
-Before entering the house, she hands Karam a [[Black Flower]] near the path.
+On the path just before her house, Yurim stops and picks a [[Black Flower]] from a nearby patch and gives it to Karam, according to a superstition that she doesn’t believe. They then enter the house.
 ![[TheHandlingofaSuperstition.png|center]]
-They then head inside.
 
 
 ![[Yurim'shomeInt1.png]]
