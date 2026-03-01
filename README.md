@@ -1,7 +1,7 @@
 # Karaneko-Demo-Lore
 This repository is a fork from [Kanekolovi](https://github.com/Kanekolovi/Karaneko-Prologue-Lore). This is Adamtronsky's (me) notes, theories, and other sources about the Lore and Story of the game of [KARANEKO](https://store.steampowered.com/app/3102220/KARANEKO/). 
 
-**What is KARANEKO?** 
+### What is KARANEKO?
 [KARANEKO](https://store.steampowered.com/app/3102220/KARANEKO/) is a story-based RPG that features beautifully drawn visual elements as well as a turn-based combat similar to games like: Undertale, Deltarune, Touhou. 
 The game has a [Kickstarter]([https://www.kickstarter.com/projects/nekoda/karaneko](https://www.kickstarter.com/projects/nekoda/karaneko)) for those who want to support it.
 It is planned to be launched on 2027.
