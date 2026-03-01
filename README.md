@@ -1,50 +1,51 @@
 # Karaneko-Demo-Lore
-A repository meant to centralize the notes taken by fans for the lore delivered in Karaneko Demo in order to create a Lore video with fan-made theories about the universe of this upcoming game.  
+This repository is a fork from [Kanekolovi](https://github.com/Kanekolovi/Karaneko-Prologue-Lore). This is Adamtronsky's (me) notes, theories, and other sources about the Lore and Story of the game of [KARANEKO](https://store.steampowered.com/app/3102220/KARANEKO/). 
 
 ## What is KARANEKO? 
-KARANEKO is a turn-based game that combines JRPG elements with Visual Novel storytelling featuring a bullet hell system inspired by games like UNDERTALE and DELTARUNE planning to launch in... 2027 (don't trust this).
+[KARANEKO](https://store.steampowered.com/app/3102220/KARANEKO/) is a story-based RPG that features beautifully drawn visual elements as well as a turn-based combat similar to games like: Undertale, Deltarune, Touhou. 
+The game has a [Kickstarter]([https://www.kickstarter.com/projects/nekoda/karaneko](https://www.kickstarter.com/projects/nekoda/karaneko)) for those who want to support it.
+It is planned to be launched on 2027.
 
-Playing as Karam, the player awakens in a new world and sets out on a journey to find his brother.
-As you travel, you’ll meet others whose paths intertwine with yours, build meaningful connections, and slowly unravel the secrets buried within this mysterious world.
+You play as Karam, a young boy who lost his young brother and is now on a journey to search for him.
+As you travel through a new world, you'll meet people whose paths intertwine with yours. You will have the opportunity to build meaningful connections with those you meet, or take a different path and venture alone. Discover the secrets buried within this mysterious world.
 
 You’ll encounter thrilling, ever-changing bullet hell battles where you can tackle each confrontation your own way, adjusting the intensity and challenge to match your personal playstyle.
 
-Choices you make in conversations and battles can have short or long-term effects that alter your gaming experience.
+Be warned, as the choices you make may change your fate in the future.
 
-See more on [Steam](https://store.steampowered.com/app/3102220/KARANEKO/) where the Demo is available.
+# About this Repo?
+## This is a fan-based lore project
+This is a document meant to propose our ideas and theories about the game, independently from the developers of the game. The resources are taken directly from the game or any other public media posted by the official channels.
 
-The game is actually on Kickstarter, go check it out!
-[https://www.kickstarter.com/projects/nekoda/karaneko](https://www.kickstarter.com/projects/nekoda/karaneko)
+[KARANEKO's discord server](https://discord.gg/wTm9qCUshP) allows us to talk and have interactions with the game developers, but they don't contribute directly to this project.
+People may also propose their ideas and chat on the Lore channels of the Discord server.
 
-# Is this official?
-## Short answer: **No.** 
-It's all produced by fans of the game, independently from the devs. The lore and notes are taken from what we observe in-game and around it. We do chat with the dev team though!
+# Is this project a wiki?
+This is not a wiki in the full sense of it. It is targeted towards story and theories rather than structured facts about the game. This project may include many story resources such as dialogues from the game, but it will not contain game mechanics, so it is not a full wiki.
 
-This whole project is coordinated within the official Karaneko Discord Server. Feel free to join in through official links findable on Kickstarter or online!
+# Which software is being used?
+We use [**Obsidian**](https://obsidian.md/) software as a note taking app, and organized via Discord for chatting and general discussion.
 
-# Is the content of this equivalent to a wiki?
-Mmmmmaybe. Probably. But less descriptive, more oriented towards noticing neat details and lore/character discussion.
+ [Kanekolovi](https://github.com/Kanekolovi/Karaneko-Prologue-Lore) plans on doing a lore video. This project won't do a video, but will provide resources so Kanekolovi can make the video, if they wish to do so.
 
-# What are you using?
-We use [**Obsidian**](https://obsidian.md/) for gathering notes in an organized manner
-**Discord** for coordination and chatting about the project
-
-For video editing uh we're not there yet.
-
-## Importing all the notes into Obsidian
-This is destined for people who find GitHub complicated. 
-
-God bless us we're not ready yet.
-We're onto it though.
-
+## How to use Obsidian?
+A full step by step tutorial won't be provided.
+We use Obsidian with a git plugin to create and publish to GitHub as cloud storage.
 
 # Contribution
-If you think something is missing, or would like to add in a theory or links, or join the video production process, or even questions/doubts about some things, **you surely can!**
-Please **join the official Karaneko Discord** and get in touch with people in `#karaneko-lore-vid-discussion`. That will make things easier.
-
-Ping `@Pralii~~` or `@Solv` for help.
+If you wish to contribute to this document, there are a few ways in which you can do so:
+- You may join the [KARANEKO's discord server](https://discord.gg/wTm9qCUshP) and tell us your ideas, questions, or theories on the `#karaneko-lore-vid-discussion` channel.
+- You may fork [my GitHub repo](https://github.com/Adamtronsky/Karaneko-Prologue-Lore) or [Kanekolovi's GitHub repo](https://github.com/Kanekolovi/Karaneko-Prologue-Lore) to do your own.
+You can ping @Adamtronsky (me) if you need anything regarding my repo,
+or `@Pralii~~`/`@Solv` since they are they were the ones to start this project
 # Acknowledgements
 Big thanks to:
+- **The KARANEKO team** for making a game I have come to love so much
+- **Mau** and **Power**, part of the developer team and discord staff for talking to the community and having nice conversations.
+- **Pralii\~\~** for inviting me into write my ideas and theories of the game.
+
+
+From [Kanekolovi's GitHub repo](https://github.com/Kanekolovi/Karaneko-Prologue-Lore) additional thanks to:
 - **The KARANEKO team** for making this awesome universe
 - **Mau** and **Power**, part of the dev team and discord staff for answering some of our questions with well-placed comments about our ramblings
 - **Pralii\~\~** for being the center of this project, and always there to fix issues and theorize.
@@ -60,9 +61,6 @@ Big thanks to:
 - **Colb** for having advanced knowledge about the game and theories 
 - **PinnaAzzurra** for digging up game code and participating in gathering lore
 - **Flamap** for moral support 
-  
-This is a young project for now. More thanks incoming. I probably forgot people…
-- **Yurim** for being the cutest cat
 
 # Contact
-For any concerns, you may find us easily on Discord, this Github is co-owned by user `@Pralii~~` (`pralii`)  and `@Solv` (`solu.tion`).
+You can contact me as @Adamtronsky on Discord, you may get other contacts in [Kanekolovi's GitHub repo](https://github.com/Kanekolovi/Karaneko-Prologue-Lore)
