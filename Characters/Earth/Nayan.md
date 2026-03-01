@@ -1,4 +1,4 @@
-<img src="../../Resources/png/spk/NayanSpk/nayan_spk_13.png" style="display:block; margin:0 auto;">
+<img src="../../ResourcesPub/png/spk/NayanSpk/nayan_spk_13.png" style="display:block; margin:0 auto;">
 ## Nayan
 
 
