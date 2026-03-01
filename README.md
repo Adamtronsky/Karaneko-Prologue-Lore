@@ -1,7 +1,7 @@
 # Karaneko-Demo-Lore
 This repository is a fork from [Kanekolovi](https://github.com/Kanekolovi/Karaneko-Prologue-Lore). This is Adamtronsky's (me) notes, theories, and other sources about the Lore and Story of the game of [KARANEKO](https://store.steampowered.com/app/3102220/KARANEKO/). 
 
-## What is KARANEKO? 
+**What is KARANEKO?** 
 [KARANEKO](https://store.steampowered.com/app/3102220/KARANEKO/) is a story-based RPG that features beautifully drawn visual elements as well as a turn-based combat similar to games like: Undertale, Deltarune, Touhou. 
 The game has a [Kickstarter]([https://www.kickstarter.com/projects/nekoda/karaneko](https://www.kickstarter.com/projects/nekoda/karaneko)) for those who want to support it.
 It is planned to be launched on 2027.
@@ -14,16 +14,16 @@ You’ll encounter thrilling, ever-changing bullet hell battles where you can ta
 Be warned, as the choices you make may change your fate in the future.
 
 # About this Repo?
-## This is a fan-based lore project
+**This is a fan-based lore project**
 This is a document meant to propose our ideas and theories about the game, independently from the developers of the game. The resources are taken directly from the game or any other public media posted by the official channels.
 
 [KARANEKO's discord server](https://discord.gg/wTm9qCUshP) allows us to talk and have interactions with the game developers, but they don't contribute directly to this project.
 People may also propose their ideas and chat on the Lore channels of the Discord server.
 
-# Is this project a wiki?
+**Is this project a wiki?**
 This is not a wiki in the full sense of it. It is targeted towards story and theories rather than structured facts about the game. This project may include many story resources such as dialogues from the game, but it will not contain game mechanics, so it is not a full wiki.
 
-# Which software is being used?
+**Which software is being used?**
 We use [**Obsidian**](https://obsidian.md/) software as a note taking app, and organized via Discord for chatting and general discussion.
 
  [Kanekolovi](https://github.com/Kanekolovi/Karaneko-Prologue-Lore) plans on doing a lore video. This project won't do a video, but will provide resources so Kanekolovi can make the video, if they wish to do so.
