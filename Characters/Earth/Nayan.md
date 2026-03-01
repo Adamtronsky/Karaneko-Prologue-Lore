@@ -1,3 +1,14 @@
+<img src="../../Resources/png/spk/NayanSpk/nayan_spk_13.png" style="display:block; margin:0 auto;">
+## Nayan
+
+
+
+
+
+
+
+
+
 - [[Karam(Earth)]]'s little brother
 - adorable ball of brotherly cuteness
 - Completed [[Douhou]] easy mode! Took him all night! ggs
